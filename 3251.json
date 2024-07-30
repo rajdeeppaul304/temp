@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Dolphin & Seal Show Dubai",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "105",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dubai Creek Dolphinarium,kids zone",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Dolphin & Seal Show Dubai",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "When it comes to Dubai, the first thing that comes to mind is its beauty and gorgeous excursions. That is why it is the most amazing place for the tourists. Among all the attractions present out there, the Dolphin Show Dubai and Seal Show are very famous.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Dolphin and Seal Show</td></tr><tr><td>Tour Type</td><td>Water Parks</td></tr><tr><td>Duration</td><td>45 minutes</td></tr><tr><td>Time</td><td>11 AM / 2 PM / 6 PM</td></tr><tr><td>Days of Operation</td><td>No Shows on Tuesdays</td></tr><tr><td>Starting Price</td><td>150 AED</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Self drive dune buggy experience</li><li><i class='fas fa-check'></i>Pick up and drop off service if selected</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>No personal expenses are included with the ride</li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Self drive dune buggy experience</li><li><i class='fas fa-check'></i>Pick up and drop off service if selected</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>No personal expenses are included with the ride</li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<h3><span style='color: #ff6600;'><b>What to Expect at the Dolphin &amp; Seal Show Dubai</b></span></h3><p><span style='font-weight: 400;'>When it comes to the Dolphin &amp; Seal Show, it means you are going to watch the talented and extremely witty animal species performing live. Also, here in the show, you will get a chance to encounter these animals face to face. Apart from that, these amazing and intelligent dolphins and seals perform stunning actions which leave you speechless.\u00a0</span></p><p><span style='font-weight: 400;'>All these activities are performed in an air-conditioned chamber. In the entire Middle East, it\u2019s the best and most unique show of 45 minutes. It is a complete source of entertainment for you and your family, especially for the kids. Now, talking about the activities that dolphins and seals perform at the show. They are -d</span><span style='font-weight: 400;'>ance, s</span><span style='font-weight: 400;'>ing, p</span><span style='font-weight: 400;'>lay ball, j</span><span style='font-weight: 400;'>uggle, j</span><span style='font-weight: 400;'>ump through hoops, and p</span><span style='font-weight: 400;'>erform many types of impressive stunts.</span></p><p><span style='font-weight: 400;'>By watching all these marvellous performances, you will feel amazing. It\u2019s because all these activities make you feel like you are already in heaven. Overall, it\u2019s a unique experience for everyone who visits the Dolphin and Seal Show. You can surely make your Dubai trip memorable by enjoying this one activity.\u00a0</span></p><h3><span style='color: #ff6600;'>Child Policy</span></h3><ul><li>Children below the age of 2 years can access the show free of cost.</li><li>Children between the ages of 2 to 1 years are eligible to pay child rates.</li><li>Anyone above the age of 11 will have to pay standard adult rates.</li></ul><h3><span style='color: #ff6600;'>Cancellation Policy</span></h3><ul><li>Cancellation charges do not apply for cancellations 72 hours from the date of activity.</li><li>If you fail to cancel before 72 hours of the excursion, you have to pay a 100% cancellation charge.</li><li>If you are eligible for a refund, the amount will be transferred to your account within 7 working days.</li></ul><h3><span style='color: #ff6600;'><b>Other special activities for Tourists</b></span></h3><p><span style='font-weight: 400;'>Well, talking about the more things or activities that are present for the tourists, then an amazing Dolphin Planet is there. Individuals can go close to these adorable animals and interact with them. It\u2019s completely a mind-blowing experience for the folks. Also, the best thing that tourists can do is swim with these skilled dolphins.\u00a0</span></p><p><span style='font-weight: 400;'>Moreover, kids can enjoy a great ride on the back of these dolphins or cover the entire pool area by holding their dorsal fins. In addition to this, visitors can also go to the bottom with dolphins, touch them, hug, feel and even kiss them. Before these activities, the professionals will train them about everything regarding these beautiful mammals.\u00a0</span></p><p><span style='font-weight: 400;'>These amazing dolphins want to meet you with the same feelings as you want them to deal with you. Also, they are highly eager to interact with humans. It depends on the tourists to pick the right pool type according to their swimming skills. There are both options available to meet with the amazing dolphins that are knee-deep and deep water pools.\u00a0</span></p><p><span style='font-weight: 400;'>Now, talking about the ticket rates, then several offers and schemes are present out there. The best way for everyone is to check out all these offers before they book tickets. Overall, visiting the Dolphin and Seal show is the best thing for tourists to make their trip perfect in Dubai.\u00a0</span></p><h3><span style='color: #ff6600;'><b>Famous Attractions to Visit</b></span></h3><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Burj Khalifa</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Children\u2019s City</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Dubai Fountain Lake Ride</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Zabeel Park</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>The Green Planet</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Dubai Frame</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Dubai Aquarium and Underwater Zoo</span></li></ul><h3><span style='color: #ff6600;'><b>FAQs</b></span></h3><p><b>Q. How much time is required to cover the entire Dubai Dolphinarium?</b></p><p><span style='font-weight: 400;'>Well, the time that is required for the entire Dubai Dolphin Show is 45 minutes. During this period, you can experience amazing activities and get positive vibes by doing close interactions with the mammals.\u00a0</span></p><p><b>Q. How long can tourists play with dolphins?</b></p><p><span style='font-weight: 400;'>Talking about the timings of playing with the dolphins, then tourists get 30 minutes. During this duration, tourists can interact with the dolphins and get the best in-water experience.\u00a0</span></p><p><b>Q. What is the exact location of the Dubai Dolphin show?</b></p><p><span style='font-weight: 400;'>The exact location of the Dubai Dolphin Show is </span><span style='font-weight: 400;'>Riyadh Street, Inside the Creek Park Gate 1 - Dubai Dolphinarium Building - Umm Hurair 2 - Dubai - United Arab Emirates.\u00a0</span></p><p><b>Q. What are the best activities to do throughout the Dolphin Show?</b></p><p><span style='font-weight: 400;'>Some of the finest activities that tourists can do in the Dolphinarium are swimming underwater with the fishes, watching their stunning activities, enjoying classic meals while enjoying the show and learning a lot of things about them.\u00a0</span></p><p><b>Q. Can we click photos inside the dolphin and seal show?</b></p><p><span style='font-weight: 400;'>Yes, everyone who is going to watch the Dubai Dolphin show can click the photos and make videos to capture the amazing moments. In this way, tourists can capture all crucial moments and finally make their trip to Dubai unique.\u00a0</span></p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

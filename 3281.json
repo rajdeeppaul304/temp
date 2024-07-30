@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Book Legoland Dubai Tickets",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "295",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "8 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dubai Parks,kids zone,Theme Parks",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Book Legoland Dubai Tickets",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "How does it sound to spend a day in a world that's made from Lego? Because our ticket to Legoland in Dubai offers just that! This unique and incredible theme park is more than an enjoyable place for the entire family. The place nurtures creativity and encourages artistic creation. So, book your Legoland theme park Dubai tickets with desertdaytravels Tourism.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>LEGOLAND Theme Park</td></tr><tr><td>Tour Type</td><td>Theme Park</td></tr><tr><td>Duration</td><td>8 hours</td></tr><tr><td>Time</td><td>10 AM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>295 AED</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusion</strong></span></p><ul><li><i class='fas fa-check'></i>Get Full Day Access to the best Theme Park IN UAE.</li><li><i class='fas fa-check'></i>Experience the thrilling family rides.</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Personal expenses</li><li><i class='fas fa-check'></i>Transfer (private transfers available at an additional charge)</li><li><i class='fas fa-check'></i>Food</li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusion</strong></span></p><ul><li><i class='fas fa-check'></i>Get Full Day Access to the best Theme Park IN UAE.</li><li><i class='fas fa-check'></i>Experience the thrilling family rides.</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Personal expenses</li><li><i class='fas fa-check'></i>Transfer (private transfers available at an additional charge)</li><li><i class='fas fa-check'></i>Food</li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><h3><span style='color: #ff6600;'><strong>Cancellation policy</strong></span></h3><ul><li>Those who cancel their tickets won\u2019t get any refund</li></ul><h3><span style='color: #ff6600;'><strong>Child Policy</strong></span></h3><ul><li><i class='fa-solid fa-circle'></i>Entry is free for kids aged less than 3 years</li><li><i class='fa-solid fa-circle'></i>The child rate applies to kids aged between 4 years to 11 years.</li><li><i class='fa-solid fa-circle'></i>Adult fare applies for kids aged more than 11 years</li></ul><h3><span style='color: #ff6600;'><strong>What To Expect At Legoland Dubai</strong></span></h3><h4><strong>FACTORY</strong></h4><p style='padding-left: 40px;'>The fun for the guests commences at the FACTORY. A tour of the FACTORY shows how the many-hued LEGO bricks are made. Guests receive their custom engraved brick fresh out of the casting line. They can also head to The BIG Shop which boasts the biggest assortment of LEGO toys in the Gulf!</p><h4><strong>LEGO CITY</strong></h4><p style='padding-left: 40px;'>The next place to visit is the LEGO City which has the look of a LEGO Airport. Here, the visiting families can try and operate Lego planes, cars, and boats and even have their LEGOLAND Driving License. They can even hold a position at the police headquarters, Sea Port, and more.</p><h4><strong>IMAGINATION</strong></h4><p style='padding-left: 40px;'>The zone named IMAGINATION lets guests use their creative side to form and race their Lego cars. Guests can also draw on MINDSTORMS robotics to build their advanced Lego car.</p><h4><strong>KINGDOMS</strong></h4><p style='padding-left: 40px;'>Fantasy-inclined visitors would love the KINGDOMS, a LEGO land. They get to ride attractions with the theme of LEGO medieval kingdoms. Especially, the Dragon roller coaster stands out at an altitude of over 16 meters and speeds reaching 60 kilometres per hour. Additionally, families will certainly love Merlin\u2019s Challenge at Legoland Dubai.</p><h4><strong>ADVENTURE</strong></h4><p style='padding-left: 40px;'>ADVENTURE takes the entire family into fast-moving thrills. There are the Wave Racers for dodging water blasts, a quest for the Pharaoh\u2019s Treasure, and a submarine escapade. Other enjoyable experiences include Beetle Bounce, Pharaoh\u2019s Revenge, and the Secret Chamber of Amset-Ra.</p><h4><strong>MINILAND</strong></h4><p style='padding-left: 40px;'>Finally, guests can enjoy the real world of Lego in the air-conditioned Miniland. It has a few of the most renowned landmarks of the World recreated with Lego bricks.</p><p>Those who aren\u2019t satisfied with a day of excitement and adventure at these <a href='desertdaytravels.com/trip-tag/dubai-tourist-places/'>Dubai tourist attractions</a> can opt for more entertainment. We also offer combination tickets that allow access to their favourite park or all parks that Dubai Parks and Resorts houses.</p><hr/><h3><span style='color: #ff6600;'><strong>Our Advantage\u00a0</strong></span></h3><ul><li><i class='fa-solid fa-circle'></i>We are certainly a licensed ticket seller for <a href='desertdaytravels.com/trip-tag/dubai-parks-and-resort-day-passes/'>Dubai Parks and Resorts</a></li><li><i class='fa-solid fa-circle'></i>Booking with us is easy with immediate confirmation</li><li><i class='fa-solid fa-circle'></i>We offer Secured and standard Payment Options</li><li><i class='fa-solid fa-circle'></i>We are experienced and have sold some 1 lakh tickets</li><li><i class='fa-solid fa-circle'></i>We have several vehicles and offer guests transfer of their choice</li><li><i class='fa-solid fa-circle'></i>Our client support helpline is available 24/7</li><li><i class='fa-solid fa-circle'></i>We accept e-tickets</li><li><i class='fa-solid fa-circle'></i>We offer promotions and deals from time to time</li></ul><hr/><h3><span style='color: #ff6600;'><strong>Important information</strong></span></h3><ul><li><i class='fa-solid fa-circle'></i>Guests have to take a printout of their e-ticket to show at the Park entrance</li><li><i class='fa-solid fa-circle'></i>Guests get free access to the Riverland Dubai dining and retail site</li><li><i class='fa-solid fa-circle'></i>The opening and closing times of Dubai Parks and Resorts could vary during Ramadan.</li><li><i class='fa-solid fa-circle'></i>Guests cannot eat and drink outdoors during Ramadan.</li><li><i class='fa-solid fa-circle'></i>Sharing transfers for this tour can be booked by 2 individuals or more than 2 people</li><li><i class='fa-solid fa-circle'></i>Pickups are done only from the hotel or residence of guests in Dubai and not from the airport. Also, you can take <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a> from desertdaytravels.</li><li><i class='fa-solid fa-circle'></i>Guests who don\u2019t select private or shared transfer must report at Sheikh Zayed Road, facing Palm Jebel Ali in Dubai</li></ul><p><span style='color: #ff6600;'><strong>A point to note</strong> </span>\u2013 We will pick up guests for Legoland Dubai between 10:00 A.M. and 11:00 A.M. and drop them at their location in Dubai between 5:30 P.M. and 6:00 P.M.</p><h2><strong><span style='color: #ff6600;'>FAQs\u00a0</span></strong></h2><h3><strong>Q. Can we take food inside the park with Legoland Dubai tickets?</strong></h3><p>You can surely only bring baby food or special meals if you are allergic to outside food. Otherwise, no one can bring outside food inside the park. Besides, guests have to go through a thorough bag check at the entry. The security checkers can discard foods found during the security check. You will also find small restaurants and eateries inside the park to satiate your hunger.</p><h3><b>Q. What to carry with Legoland Dubai tickets when coming for the activity?</b></h3><p>Everyone must bring some essentials when coming to Legoland Dubai- sunscreen, hats, and sunglasses to prevent sun tanning or sunburn. Moreover, a valid photo ID proof for identification is also necessary. Meanwhile, don't forget to bring a camera to take pictures of the experience.</p><h3><strong>Q. Are there any other theme parks in Dubai to visit with family?</strong></h3><p>Yes, there are many other theme parks in Dubai where you can enjoy with your family. Some of them are:</p><ol><li><a href='desertdaytravels.com/trip/img-worlds-of-adventure-dubai/'>IMG Theme Park\u00a0</a></li><li><a href='desertdaytravels.com/trip-tag/ski-dubai/'>Ski Dubai Snow Park</a></li><li>Motion Gate Theme Park</li><li>Global Village</li></ol><h3><strong>Q. Are there any must-try attractions inside the park?</strong></h3><p>You must try Legoland's Sea Port, Police Headquarters, Build and Test, Duplo Valley, Pharaoh's Revenge, and Lego Studios 4D because these are the most loved places in Legoland.</p><h3><strong>Q. Can we photograph in the park with Legoland Dubai tickets?</strong></h3><p>Of course, guests can click unlimited pictures of the frolic moments with buddies or families. Hence, don't forget to bring your camera when coming to Legoland.</p><h3><strong>Q. Do I need to buy separate ride tickets inside?</strong></h3><p>Of course not. You don't have to buy separate ride tickets if you book our tour, as we offer full-day access, including all the rides.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

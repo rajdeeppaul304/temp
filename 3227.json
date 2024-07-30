@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Spirit of Adventure | BBQ Dinner",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "2800",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "1 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dune Buggy,Luxury Desert Safari,Quad Bike",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Spirit of Adventure | BBQ Dinner",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Are you up for some fun and frolic in the desert? Well, then you should sign up for our very special tour called Spirit of Adventure. desertdaytravels Tourism has put together this tour especially to give you a desert experience like never before. With this tour, you can enjoy an exciting Dune Buggy Ride and BBQ dinner. Want to know more about this wonderful tour? Well, you must read further as we reveal some exciting details.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Spirit of Adventure</td></tr><tr><td>Tour Type</td><td>Desert Safari Dubai</td></tr><tr><td>Duration</td><td>6 hours</td></tr><tr><td>Time</td><td>2\u00a0 PM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>AED 2800</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and drop from the hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>One-hour dune buggy ride</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Picture stop in the desert</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Sheesha at the dessert campsite</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Water, tea, coffee, soft drinks</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Evening snacks</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>BBQ buffet dinner</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Entertainment shows (belly dance, tanoura dance, fire show)</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>All personal expense</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and drop from the hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>One-hour dune buggy ride</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Picture stop in the desert</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Sheesha at the dessert campsite</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Water, tea, coffee, soft drinks</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Evening snacks</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>BBQ buffet dinner</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Entertainment shows (belly dance, tanoura dance, fire show)</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>All personal expense</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><h3></h3><h3><strong><span style='color: #ff6600;'>What To Expect On The Tour</span></strong></h3><p>If you have been told that Dubai is just ideal for partying and shopping, this tour by us will happily break that myth for you. We will take you to our desert camp in suitable <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a> and after a quick round of coffee and refreshments, gear up for some high-octane fun.</p><p>We will take you on <a href='desertdaytravels.com/trip-tag/dune-buggy-in-dubai/'>Dune Buggy rides</a> that you will love for sure. Explore the desert in style, and you will be accompanied by a trained guide who will explain the history of the desert, its people, and their lifestyle. Book your Dune Buggy Ride with BBQ Dinner <a href='desertdaytravels.com/trip-tag/desert-safari/'>Desert Safari Tour</a> from desertdaytravels Tourism.</p><p>At the camp after sunset, which is the most magical experience you will have with us, With desertdaytravels Tourism, you will get a delicious BBQ dinner from the finest chefs. Sit back and enjoy the local traditional shows, such as the Tanura dance and belly dance, performed by local talented artists.</p><p>We will also treat you to a short and enchanting camel ride and, later, some henna tattoos for the women. In short, this tour is just perfect for people who would like to get away from the hectic city life for a moment. So, book with us right away and embark on this magical journey.</p><h3><span style='color: #ff6600;'><strong>Things you should know before signing up\u00a0</strong></span></h3><ul><li><i class='fa-solid fa-circle'></i>At least 2 people are necessary for this tour</li><li><i class='fa-solid fa-circle'></i>You will have a BBQ dinner</li><li><i class='fa-solid fa-circle'></i>We offer pick-ups in a suitable vehicle</li><li><i class='fa-solid fa-circle'></i>The tour goes on for 6 hours</li><li><i class='fa-solid fa-circle'></i>People with back problems should not sign up for this tour</li><li><i class='fa-solid fa-circle'></i>Wear comfortable and loose clothes made of cotton</li></ul><h2><span style='color: #ff6600;'><strong>FAQs</strong></span></h2><h3><b>Q. What is the Spirit of Adventure tour?</b></h3><p><span style='font-weight: 400;'>The Spirit of Adventure tour is a desert safari in Dubai offering a Dune Buggy Ride and BBQ dinner, providing a unique and thrilling desert experience.</span></p><h3><b>Q. How can I track my journey on the Spirit of Adventure cruises?</b></h3><p><span style='font-weight: 400;'>You can track your journey using the Spirit of Adventure Tracker, which provides real-time updates and detailed itinerary information.</span></p><h3><b>Q. What is included in the Spirit of Adventure itinerary?</b></h3><p><span style='font-weight: 400;'>The Spirit of Adventure itinerary includes a Dune Buggy ride, a BBQ dinner, traditional dance performances, a <a href='desertdaytravels.com/trip/camel-ride/'>camel ride in Dubai</a>, and henna tattoos for women.</span></p><h3><b>Q. What are the highlights of the Spirit of Adventure cruises?</b></h3><p><span style='font-weight: 400;'>The Spirit of Adventure cruise offers an exceptional experience with its detailed itinerary and tracking features, ensuring a memorable journey.</span></p><h3><b>Q. How long does the Spirit of Adventure tour last?</b></h3><p><span style='font-weight: 400;'>The tour lasts for about 8 hours, offering a full day of desert adventure and entertainment.</span></p><h3><b>Q. Is the Spirit of Adventure Tracker available for all tours?</b></h3><p><span style='font-weight: 400;'>Yes, the Spirit of Adventure Tracker is available for all tours, allowing you to follow your itinerary and get updates throughout your journey.</span></p><h3><b>Q. What should I wear for the Spirit of Adventure desert safari?</b></h3><p><span style='font-weight: 400;'>For the desert safari, it is recommended to wear comfortable and loose cotton clothes to stay cool and comfortable.</span></p><h3><b>Q. Are there any age restrictions for the Spirit of Adventure Dune Buggy ride?</b></h3><p><span style='font-weight: 400;'>Yes, the minimum age for driving the Dune Buggy is 18 years, and for non-driving passengers, the minimum age is 5 years.</span></p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

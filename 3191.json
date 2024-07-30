@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Book Atlantis Aquaventure Tickets",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "355",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "6 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Atlantis The Palm Catagory,Water Parks",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Book Atlantis Aquaventure Tickets",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Atlantis Aquaventure also known as Dubai Atlantis Aquaventure Waterpark, is the world's biggest & best waterpark. Experience an unimaginable adrenaline rush hurtling down an amazing waterslide in the afternoon at the atlantis the palm water park and then calm yourself with a relaxing stroll along a private beach with the sea water caressing your feet in the evening. Call us today to book your day pass and send you an online e-ticket for Atlantis Water Park Dubai. Book your Atlantis Aquaventure tickets now!",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Atlantis Aquaventure</td></tr><tr><td>Tour Type</td><td>Water Park</td></tr><tr><td>Duration</td><td>6 Hours</td></tr><tr><td>Time</td><td>9:45 AM \u2013 6:30 PM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>355/- AED</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><span style='color: #000000;'><i class='fas fa-check'></i>Atlantis Aquaventure Day Pass</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Enjoy unlimited access to Aquaventure Water Park</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Get unlimited access to Adventure Beach</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Atlantis Aquaventure Super Pass</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Make the most of its mix of heart-racing, milder, and kid-specific rides\u00a0 with Entry to the Lost Chambers Aquarium</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Lost Chamber Aquarium</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>See over 65000 distinct marine animals</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Chances to see marine experts dive and feed sharks</span></li><li></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusion</strong></span></p><div class='ea-card sp-ea-single ea-expand'><div class='sp-collapse spcollapse show' data-parent='#sp-ea-44460' id='collapse444601'><div class='ea-body'><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Personal expenses</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Transfers (can be arranged on additional charges)</span></li></ul></div></div></div>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><span style='color: #000000;'><i class='fas fa-check'></i>Atlantis Aquaventure Day Pass</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Enjoy unlimited access to Aquaventure Water Park</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Get unlimited access to Adventure Beach</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Atlantis Aquaventure Super Pass</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Make the most of its mix of heart-racing, milder, and kid-specific rides\u00a0 with Entry to the Lost Chambers Aquarium</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Lost Chamber Aquarium</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>See over 65000 distinct marine animals</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Chances to see marine experts dive and feed sharks</span></li><li></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusion</strong></span></p><div class='ea-card sp-ea-single ea-expand'><div class='sp-collapse spcollapse show' data-parent='#sp-ea-44460' id='collapse444601'><div class='ea-body'><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Personal expenses</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Transfers (can be arranged on additional charges)</span></li></ul></div></div></div>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><h3><strong><span style='color: #ff6600;'>Atlantis Water Park\u00a0</span></strong></h3><p>Yes, the 2 contrasting worlds blend seamlessly at the Atlantis Water Park to give you a holiday you\u2019ll cherish forever. Welcome to the Atlantis Water Park, just beside the iconic landmark, the <a href='desertdaytravels.com/trip-tag/things-to-do-atlantis/'>Atlantis of The Palm</a> Jumeirah, Dubai, where every moment remains etched in your mind forever.</p><p>The Atlantis water park on Palm Jumeirah Island beckons you to a day filled with fun and excitement. There are several super thrilling rides waiting here, including the largest water slide in the world, the Aquaconda. The adrenaline rush is thumping as the Aquaconda catapults you after which you are plunged into the world\u2019s largest fiberglass tube!</p><p>There are interconnecting waterways at Aquaventure that form an amazing maze. Get yourself a tube and ride through the maze of the rivers. If you haven\u2019t had your fill, the Tower of Poseidon lies in wait with record-breaking rides. These rides see you plunging into tanks that have sharks and rays.</p><p>In case the rush of adrenaline has gotten a bit overbearing, take a break by taking a relaxed walk on the lovely private beach. There are 15 restaurants that dot the venue where you can recharge your batteries with a hearty meal or some snacks. Last but not least, there\u2019s the <a href='desertdaytravels.com/trip/lost-chambers-aquarium-dubai-tickets/'>Lost Chambers Aquarium</a> where you pass through a maze of underwater tunnels as sharks, stingrays, lobsters, piranhas, and seahorses surround you.</p><p>Get yourself an all-day access pass with the Atlantis Aquaventure tickets and enjoy all the rides and activities for a splashing watery break in the hot desert land of Dubai.</p><h3><strong><span style='color: #ff6600;'>Main Features of Atlantis Water Park</span></strong></h3><ul><li style='list-style-type: none;'><ul><li><i class='fa-solid fa-check'></i>Lots of rides and slides</li><li><i class='fa-solid fa-check'></i>Safety gear with swimming tubes</li><li><i class='fa-solid fa-check'></i>A kilometre-long private beach</li><li><i class='fa-solid fa-check'></i>A memorable photo shoot</li><li><i class='fa-solid fa-check'></i>Breathtaking views of Palm Jumeirah and the iconic Atlantis</li><li><i class='fa-solid fa-check'></i>Fine dining options</li><li><i class='fa-solid fa-check'></i>Educational programs</li></ul></li></ul><h3><strong><span style='color: #ff6600;'>What to expect at the Atlantis Water Park</span></strong></h3><p><strong>Here are five of the most exhilarating rides that you must have a go at if you don\u2019t mind a rush of adrenaline with Atlantis Aquaventure tickets.</strong></p><ul><li><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'>The Leap of Faith:</span> Here\u2019s a thrill at its best! Go hurtling down 9 stories on this amazingly unbelievable vertical waterslide through a tunnel with sharks and rays in it</li><li><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'>Poseidon\u2019s Revenge:</span> This one certainly isn\u2019t for the ones with a faint heart. It\u2019s a scary waterslide where you are made to enter a capsule and then you feel the ground beneath you just vanish!</li><li><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'>Shark Attack:</span> If the stunning drop of The Leap of Faith is a bit too much for you, you\u2019ll still get to enjoy the marine safari. Ride in pairs as you share the wonderful experience with your favourite cousin or friend.</li><li><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'>The Rapids:</span> If you\u2019ve always wanted to experience the thrill of rafting but have been daunted by the effort it demands, the Rapids are the thing for you! Every moment is fun-filled here as you twist and turn your way through this bumpy ride.</li><li><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'>Atlantean Flyer:</span> Soak in wonderful views of Dubai and the Atlantis Resort while sliding along the Middle East\u2019s longest zip-line. There\u2019s an extra charge for this ride, but it\u2019s worth every penny with its dollops of excitement and thrill.</li></ul><h3><span style='color: #ff6600;'><strong>Select Your Interested Atlantis Aquaventure tickets</strong></span></h3><ul><li><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'>Aquaventure Day Pass:</span> This pass offers full-day access to Aquaventure Waterpark, providing visitors with over 105 record-breaking rides, attractions, and experiences. Additionally, guests can enjoy a private beach and experience the thrill of the surf\u2019s up-wave rider.</li><li><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'>Aquaventure Super Pass:</span> With the Aquaventure Super Pass, guests can enjoy full-day access to Aquaventure Waterpark, which includes over 105 top rides, attractions, and experiences. Moreover, this pass offers the unique opportunity to interact with the resident dolphins in waist-deep water at Atlantis Village.</li><li><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'>Dolphin Dip &amp; Play at Atlantis Dolphin Bay:</span> This experience includes full-day access to Aquaventure Waterpark with over 105 foremost rides, attractions, and experiences. Guests can also engage with the resident dolphins in waist-deep water at Atlantis Village, where they can <a href='desertdaytravels.com/trip/dolphin-meet-greet/'>dolphin meet and greet</a> and even swim with them.</li></ul><h3><strong><span style='color: #ff6600;'>How to reach Atlantis Aquaventure waterpark?</span></strong></h3><p>The Atlantis is a part of the Palm Resort located on the artificial islands of Palm Jumeirah. With no metro stations close by, hailing a taxi or driving there along Crescent Road to the Avenues where the entrance is located is an option. Taking the monorail from Al Sufouh is another convenient option.</p><h3><strong><span style='color: #ff6600;'>The best time to Visit Atlantis Water Park Dubai</span></strong></h3><p>The best time to visit the Atlantis, the Palm Water Park is between December and February when the weather in Dubai is at its best. However, with the Dubai Shopping Festival held at the same time of the year and the schools being on vacation, the city is flocked by tourists and it gets a wee bit crowded. If you don\u2019t mind the crowd, you\u2019re sure to have a whale of a time at the Atlantis Water Park between December and February.</p><p>The Atlantis Water Park is an ideal destination for all. If the rides are not your cup of tea, take a relaxed stroll along the calm and tranquil private beach. Yes, Atlantis Water Park has something to make your day too very special indeed. Book your Atlantis Water Park tickets now with desertdaytravels!</p><h3><strong><span style='color: #ff6600;'>Atlantis Waterpark Tickets</span></strong></h3><p>Perched in the grand Atlantis, The Palm Hotel is a heaven full of fun and exciting activities. With our Atlantis Water Park tickets, you can visit the Aquaventure Waterpark. It is one of the most-loved theme parks of the Emirates, including Dolphin Bay, Sea Lion Point, the Lost Chambers Aquarium, and Ambassador Lagoon. These attractions made Atlantis Hotel a perfect destination to enjoy with your buddies and family. Just like other icons in the city, the Atlantis Waterpark should be on your Dubai bucket list.</p><p>Furthermore, the water rides and slides in the park, private beaches, and the kid's playing areas make it a perfect day escape. Besides, the experiences, like swimming in the shark lagoon, <a href='desertdaytravels.com/trip/dolphin-encounter-dubai/'><span data-sheets-root='1' data-sheets-userformat='{'2':23165,'3':{'1':4,'2':'[$\u00a3-809]#,##0.00'},'5':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'6':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'7':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'8':{'1':[{'1':2,'2':0,'5':{'1':2,'2':0}},{'1':0,'2':0,'3':3},{'1':1,'2':0,'4':1}]},'9':0,'12':0,'14':{'1':2,'2':0},'15':'Arial','17':1}' data-sheets-value='{'1':2,'2':'Dolphin Encounter Dubai'}'>Dolphin Encounter Dubai</span></a>, snorkelling, <a href='desertdaytravels.com/trip/scuba-diving-dubai/'>scuba diving in Dubai</a>, and more, are truly unmissable. Hence, if you want to know more about the Atlantis Waterpark, you can explore our ticket options, opening hours, and more.</p><h3><strong><span style='color: #ff6600;'>Things to know before going to Atlantis Water Park</span></strong></h3><p>Trust us, by no means, is this an exaggeration. Exhilarating rides like the Trident Tower, Blackout, and Shockwave give you an out-of-this-world experience at the Atlantis, the Palm Water Park. There\u2019s never a dull moment at this dream destination; the massive <a href='desertdaytravels.com/trip-tag/water-parks-in-dubai/'>water parks in Dubai</a> give you a thrilling past comparison. As the sun sets on the horizon, bring a lovely day to an end at one of the lovely fine dining venues serving sumptuous cuisine. We\u2019re sure you\u2019ve given out a sigh of contentment, haven\u2019t you?</p><p>Atlantis Aquaventure is located at Atlantis the Palm and this place has many other things to offer for you and your family. A few activities are listed for you.</p><ul><li class='elementor-heading-title elementor-size-default'>Dolphin Deep Water Encounter Dubai</li><li class='elementor-heading-title elementor-size-default'><a href='desertdaytravels.com/trip/swim-with-dolphins-dubai/'>Swim With Dolphin Dubai</a></li><li class='elementor-heading-title elementor-size-default'>Dolphin Photo Fun</li></ul><p>Atlantis Water Park, nestled beside Atlantis The Palm Jumeirah, offers a thrilling mix of adrenaline-pumping rides and serene beachside relaxation. Enjoy world-class dining, educational programs, and unforgettable experiences like swimming with dolphins. Make memories that last a lifetime at this premier Dubai destination.</p><p>Get your Atlantis Aquaventure tickets now for an unforgettable adventure! Contact us today by calling +971 4 268 4645.</p><h2><strong><span style='color: #ff6600;'>FAQs\u00a0</span></strong></h2><ul style='list-style: none; padding: 0; margin: 0;'><li><h3><strong>Q. What are the best attractions at the Atlantis, the Palm Water Park?\u00a0</strong></h3></li></ul><ul><li><strong>Aquaconda</strong>: Aquaconda is the largest waterslide in the world. It\u2019s shaped like a serpent and this tunnel is counted as one of\u00a0 Atlantis Water Parks\u2019 most thrilling rides.</li><li><strong>Poseidon\u2019s Revenge</strong>: Once the trap door opens, you realize how exhilarating and thrilling this ride is. You slide through at speeds as high as 60km/h which makes the ride unforgettable.</li><li><strong>The Leap of Faith</strong>: This slide is as high as 9 stories and it gives you one hell of an adrenaline rush. You reach the bottom from the top in a matter of just a few seconds.</li><li><strong>The Torrent</strong>: The Torrent gives you the highly exciting feeling of tackling waves that are created with a generator.</li></ul><ul style='list-style: none; padding: 0; margin: 0;'><li><h3><strong>Q. Does the Atlantis Water Park have any age limits?\u00a0</strong></h3></li><li>While there\u2019s no age limit as such, those below 12 are to be accompanied by an adult to ensure their safety. Do bear in mind that one has to be at least 120 cm tall to enjoy certain rides. All those who are taller than 120 cm need to buy regular tickets meant for adults.</li><li></li><li><h3><strong>Q. How long does it take to explore the Lost Chambers?\u00a0</strong></h3></li><li>You shall need no more than an hour to explore the Lost Chambers and enjoy all the activities there.</li><li></li><li><h3><strong>Q. What\u2019s the size of the Lost Chambers?\u00a0</strong></h3></li><li>The Lost Chambers is a massive structure of around 11 million litres that\u2019s home to as many as 65,000 different species of marine animals. Moreover, there are 20 exhibits showcasing marine life.</li><li></li><li><h3><strong>Q. What clothes should I turn up in?\u00a0</strong></h3></li><li>You should turn up in anything you are comfortable in. For swimwear, pick something that\u2019s not too revealing. Speedos, rashguards, burkinis and swimsuits are accepted. If you are to ride the water slides, make sure that you don\u2019t wear sarees, abayas, cotton clothes, long-flowing garments, undergarments, or see-through wear.</li><li></li><li><h3><span style='color: #333333;'><strong>Q. Can the bookings of Atlantis Water Park tickets be cancelled?</strong></span></h3></li><li>No, the bookings for Atlantis Water Park tickets can\u2019t be cancelled. No requests for cancellations, refunds or changes are entertained after booking confirmation.</li><li></li><li></li><li><h3><strong>Q. Are there separate Atlantis Water Park tickets for children and adults?\u00a0</strong></h3></li><li>Children between 3 and 8 years of age need child tickets while those above 8 need adult tickets.</li><li></li><li><h3><strong>Q. How long does Atlantis Water Park Dubai stay open? </strong></h3></li><li>The Atlantis Aquaventure in Dubai stays open from 9:30 am to 6:00 pm every day.</li><li></li><li><h3><strong>Q. Are kids safe at the Atlantis Aquaventure when they take the various rides? </strong></h3></li><li>Yes, kids are safe at the park when they are taking the rides and safety is of utmost priority at the park. We advise you to instruct your kids to adhere to the safety instructions and make them aware of the consequences of not doing so.</li><li></li><li><h3><strong>Q. Is it worth visiting the Atlantis Water Park Dubai? </strong></h3></li><li>If you are seeking thrill and fun, you shouldn\u2019t give the exhilarating rides and slides at the Atlantis, the Palm Water Park a miss. No wonder it\u2019s one of the most popular waterparks in the entire region. Don\u2019t forget to have a go at the Leap of Faith, Predator Dive, and the Shark Attack.</li><li></li><li><h3><strong>Q. Are visitors allowed to bring food from outside into the park? </strong></h3></li><li>No, visitors can\u2019t bring outside food into the Atlantis Water Park Dubai, except if it\u2019s food for very small children. The park has enough restaurants serving tasty multi-cuisine food as well as alcoholic and non-alcoholic beverages.</li></ul>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "BAPS Swaminarayan Temple",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Free",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "4 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Abu Dhabi Category Page,Hidden Gems",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "BAPS Swaminarayan Temple",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "The oasis of spirituality in Abu Dhabi welcomes people from all over the world to soak themselves in spirituality and global harmony. As a result, visit this Hindu stone temple in Abu Dhabi and feel the typical Indian temple vibes. Besides this temple is undoubtedly the largest Hindu stone temple outside of India. Indian Prime Minister, Mr. Narendra Modi also marked his presence at the inauguration ceremony of this temple. Moreover, this temple is the first of its kind in West Asia. Especially, this temple is open to the general public irrespective of their religious beliefs, or regional, or racial differences.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Swaminarayan Temple Tour</td></tr><tr><td>Tour Type</td><td>9 AM (Customisable)</td></tr><tr><td>Duration</td><td>Everyday</td></tr><tr><td>Time</td><td></td></tr><tr><td>Days of Operation</td><td>Abu Dhabi</td></tr><tr><td>Starting Price</td><td></td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong> </span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Visit to BAPS Swaminarayan Temple, Abu Dhabi</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Visit to Sheikh Zayed Grand mosque</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Lunch Stop ( Meals not included )</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Presidential palace ( picture stop )</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Abu dhabi cornice</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Picture stop at emirates palace</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Yas island</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Picture stop at Ferrari world</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Food</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>All personal expenses</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong> </span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Visit to BAPS Swaminarayan Temple, Abu Dhabi</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Visit to Sheikh Zayed Grand mosque</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Lunch Stop ( Meals not included )</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Presidential palace ( picture stop )</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Abu dhabi cornice</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Picture stop at emirates palace</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Yas island</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Picture stop at Ferrari world</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Food</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>All personal expenses</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<h2><span style='color: #ff6600;'><b>What to expect at BAPS Swaminarayan Temple, Abu Dhabi ?</b></span></h2><p><span style='font-weight: 400;'>The BAPS Swaminarayan Hindu Temple is a Hindu place of worship in Abu Dhabi. It consists of marble and sandstone shrines. Additionally, it has an amphitheatre, an exhibition hall, a library and book shop, a food court, a majlis, a sports centre, classrooms, gardens, and two community centres with a capacity to accommodate 5000 people. Moreover, it has 7 shrines in respect of the 7 emirates of the United Arab Emirates.\u00a0</span></p><p><span style='font-weight: 400;'>The seven shrines of the temple have idols of the famous deities in India. Namely, these 7 idols are present in the temple:</span></p><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Akshar &amp; Purushottam</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Radha and Krishna</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Ram, Sita, and Hanuman</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Shiv, Parvati, Kartikeya and Ganesh</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Jagannathji, Subhadra and Baldevji</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Tirupati Balaji and Padmavati</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Ayyappa Swami.</span></li></ul><h3><span style='color: #ff6600;'><b>Highlights of the temple</b></span></h3><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>As per the Hindu tradition of building temples, this temple is also built without using steel or iron in its construction.\u00a0</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>The green foundation of the building has 50% fly ash, earthen bricks and stones to promote sustainability and eco friendly aspects.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Over a thousand carvings of the deities tell their stories in the exterior bracket of the temple.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>The steps of the temple depict lessons from other cultures of the world.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>The pink sandstone is imported right from Rajasthan in India for the construction of the temple.</span></li></ul><h4><span style='color: #ff6600;'><b>How to Reach</b></span></h4><p><span style='font-weight: 400;'>The BAPS Swaminarayan Hindu temple is on the Dubai Abu Dhabi highway. So, the exact address is P6-Abu Dhabi-United Arab Emirates. Moreover, you can reach here by a mode of public transport like bus or subway. You can drive to the temple on Sheikh Zayed Road also. However, the most convenient mode is private transport by desertdaytravels. Thus, rent a car and enjoy hassle free travelling.\u00a0</span></p><h2><span style='color: #ff6600;'><b>Nearby attractions to cover</b></span></h2><p><span style='font-weight: 400;'>Abu Dhabi is a magnificent city and has a lot of other attractions you wouldn't want to miss when you visit Abu Dhabi for the BAPS Swaminarayan temple. Also, visit these popular places in Abu Dhabi:</span></p><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Qasr Al Watan, Abu Dhabi</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'><a href='desertdaytravels.com/trip/national-aquarium-abu-dhabi/'>Al Qana National Aquarium</a>, Abu Dhabi</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Abu Dhabi Snow Park</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Yas Water World</span></li><li aria-level='1' style='font-weight: 400;'><a href='desertdaytravels.com/trip/ferrari-world-abu-dhabi/'><span style='font-weight: 400;'>Abu Dhabi Ferrari World</span></a></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Al Ain Oasis</span></li><li aria-level='1' style='font-weight: 400;'><a href='desertdaytravels.com/trip/seaworld-abu-dhabi-tickets/'><span style='font-weight: 400;'>Abu Dhabi Sea World</span></a></li></ul><h4><span style='color: #ff6600;'><b>Booking Policy</b></span></h4><p><span style='font-weight: 400;'>Book our private/sharing tour to Abu Dhabi and visit this oasis of spirituality. Additionally, you can also book our private transportation services to comfortably reach the temple at your convenience. Moreover, there are no entrance fees at this temple so you can visit this place for free with your family or friends. Also, for our private <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a>, cancellation policies apply.\u00a0</span></p><h4><span style='color: #ff6600;'><b>Cancellation Policy</b></span></h4><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>No charges apply for cancellations that are made 24 hours before the departure of the tour.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>You would have to indeed pay 100 per cent charges for cancellations if you fail to cancel the booking within 24 hours of the departure of the tour.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Thus, if you are eligible for the refund, it will be returned to your account within 7 working days.</span></li></ul><h2><span style='color: #ff6600;'><strong>FAQs</strong></span></h2><h3><b style='font-size: 16px;'>Q. Which is the largest Hindu temple in the UAE?</b></h3><p><span style='font-weight: 400;'>The BAPS Swaminarayan temple in Abu Dhabi is indeed the largest Hindu stone temple in the UAE.</span></p><h3><b>Q. What is the material used in the construction of the BAPS Hindu temple in Abu Dhabi?</b></h3><p><span style='font-weight: 400;'>Marbles and pink sandstones are used in the construction of the BAPS Hindu temple in Abu Dhabi.</span></p><h3><strong>Q. </strong><b>What is the budget for the construction of the BAPS Hindu temple in Abu Dhabi?</b></h3><p><span style='font-weight: 400;'>The approximate budget for the construction of the BAPS Hindu temple in Abu Dhabi is \u20b9700 crores.\u00a0</span></p><h3><b>Q. What is the dress code for the BAPS Hindu temple in Abu Dhabi?</b></h3><p><span style='font-weight: 400;'>Certainly, the dress code here is to wear clothes that cover the back, shoulders, chest, knees, and navel. Besides, tight fitting clothes and clothing with offensive design is a strict no. Moreover, if you are dressed inappropriately, you\u2019ll have to wrap the cloth given by the temple staff to cover yourself.\u00a0</span></p><h3><strong>Q. Who inaugurated the BAPS Swaminarayan mandir?</strong></h3><p>India's Prime Minister, Mr. Narendra Modi inaugurated the BAPS Hindu temple in Abu Dhabi.</p><h3><b>Q. What are some other religious places in Abu Dhabi?</b></h3><p><span style='font-weight: 400;'>Indeed, the very popular Grand Sheikh Zayed Mosque in Abu Dhabi is a religious place that also welcomes people from other religious faiths.</span></p><h3><b>Q. What are the 7 shrines in the BAPS Swaminarayan Mandir in Abu Dhabi?</b></h3><p><span style='font-weight: 400;'>The 7 shrines pay tribute to the 7 emirates of UAE. Each shrine has the idol of Indian deities, viz</span></p><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Akshar &amp; Purushottam</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Radha and Krishna</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Ram, Sita, and Hanuman</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Shiv, Parvati, Kartikeya and Ganesh</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Jagannathji, Subhadra and Baldevji</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Tirupati Balaji and Padmavati</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Ayyappa Swami.</span></li></ul><h3><strong>Q. </strong><b>What are the entry charges for adults and children at BAPS Hindu Temple, Abu Dhabi?</b></h3><p><span style='font-weight: 400;'>The entry is free of cost for everyone visiting the temple. Also, there is no age, gender, race, or religious discrimination here.</span></p><h3><b>Q. What time does the BAPS Swaminarayan Mandir remain open?</b></h3><p><span style='font-weight: 400;'>The temple opens to the public at 9 AM and it closes at 8 PM. Additionally, the morning and evening aarti times are 7:30 AM and 7:30 PM respectively.\u00a0</span></p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

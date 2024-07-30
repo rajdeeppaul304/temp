@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Camel Caravan \u2013 Camel Ride Dubai",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "325",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "3 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Al Marmoom Oasis,Desert Safari",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Camel Caravan \u2013 Camel Ride Dubai",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Camel Ride Dubai is an exciting experience where you can zoom up and down the slopes of the dune on camelback. See the desert in all its golden glory asDune Bashingrecharges your batteries with an early morning Camel Safari in Dubai. The Dubai Desert Camel Ride is indeed a great experience which you can have with desertdaytravels Tourism! Call us today to arrange your camel tour Dubai on best rates.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Camel Ride</td></tr><tr><td>Tour Type</td><td>Camel Caravan</td></tr><tr><td>Duration</td><td>3 hours</td></tr><tr><td>Time</td><td>8 AM</td></tr><tr><td>Days of Operation</td><td></td></tr><tr><td>Starting Price</td><td></td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Camel Caravan with Bedouin Breakfast (Sharing Tour)- 325/- AED</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick-up and drop-off in an air-conditioned modern vehicle at your hotel in Dubai</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Traditional welcome at an authentic Bedouin Village.</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Camel caravan ride (45 minutes in total for 2 rides)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Witness live Arabic coffee making</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Arabian makeover (Kandura for men, Abaya for women to be returned after use)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Take photos with falcon</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Enjoy a Bedouin breakfast</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Sunset Camel Caravan Safari &amp; BBQ (Sharing Tour)- 425/- AED</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and drop off to your hotel/ selected location in Dubai</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Licensed Safari Captain</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Camel trekking Dubai</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Camel feeding</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Sunset view photo stop</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Gahwa, Gaymat &amp; Dates</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Smoking shisha/ \u201chubble-bubble\u201d</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Henna painting/henna tattooing</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Local Arabic attire for a makeover</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Falcon experience with clicking photos</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>BBQ Dinner (Open buffet with vegetarian and non-vegetarian options)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Tanoura and\u00a0'Ladies Khaliji Dance'</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Unlimited water and soft drinks</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Camel Ride In Dubai(Private Tour)- 500/- AED</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick Up From The Hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Drive to Dessert</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Dune Bashing</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Camel Ride For 30 Mins</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Drop Of Back To Hotel</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Camel Caravan with Bedouin Breakfast (Sharing Tour)- 325/- AED</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick-up and drop-off in an air-conditioned modern vehicle at your hotel in Dubai</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Traditional welcome at an authentic Bedouin Village.</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Camel caravan ride (45 minutes in total for 2 rides)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Witness live Arabic coffee making</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Arabian makeover (Kandura for men, Abaya for women to be returned after use)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Take photos with falcon</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Enjoy a Bedouin breakfast</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Sunset Camel Caravan Safari &amp; BBQ (Sharing Tour)- 425/- AED</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and drop off to your hotel/ selected location in Dubai</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Licensed Safari Captain</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Camel trekking Dubai</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Camel feeding</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Sunset view photo stop</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Gahwa, Gaymat &amp; Dates</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Smoking shisha/ \u201chubble-bubble\u201d</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Henna painting/henna tattooing</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Local Arabic attire for a makeover</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Falcon experience with clicking photos</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>BBQ Dinner (Open buffet with vegetarian and non-vegetarian options)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Tanoura and\u00a0'Ladies Khaliji Dance'</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Unlimited water and soft drinks</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Camel Ride In Dubai(Private Tour)- 500/- AED</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick Up From The Hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Drive to Dessert</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Dune Bashing</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Camel Ride For 30 Mins</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Drop Of Back To Hotel</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><h2><span style='color: #ff6600;'><b>Camel Ride With Additional Activity</b></span></h2><p><span style='font-weight: 400;'>While the ups and downs of the dunes take your breath away, a camel ride gives you a much more relaxing experience. However, a word of caution is to balance your body carefully when the camel is standing or sitting so that you can avoid any untoward incident. This captivating desert ship ride takes you on a journey of discovering the beauty of the desert as you gaze out at the vast expanse of serene dunes stretching far into the horizon.</span></p><p><span style='font-weight: 400;'>Wait, there\u2019s another adventure sport beckoning you- sandboarding. Test how well you are at skillfully balancing yourself while surfing the dunes. Indeed, this unique sport takes you sliding down the slopes of the dunes during a ride that lures things up in the day. So, if you think we are done with what\u2019s on offer with the Camel Ride <a href='desertdaytravels.com/trip-tag/desert-safari/'>Desert Safari</a>, you are wrong. There's yet another adrenaline-pumping adventure sport waiting to challenge your endurance levels. Additionally, we have <a href='desertdaytravels.com/trip-tag/quad-biking-dubai/'>quad biking in Dubai</a> for you to ride that takes you zipping through the dunes brimming with excitement.</span></p><p><span style='font-weight: 400;'>It\u2019s a morning of unbridled excitement as you explore the desert with our Camel Ride Dubai. Ride on a camel who is eager to make friends with you!</span></p><h3><span style='color: #ff6600;'><b>Why Should You Opt For Camel Ride Dubai?</b></span></h3><p>Don\u2019t miss out on this adventurous experience of Camel Safari in Dubai packed with action. Trust us, it\u2019s worth every penny and has the right blend of adventure and relaxation.</p><p>The adventure sport of Dune Bashing is just unforgettable! Say 'cheese' as the two of you smile at the camera. A ride on one of the camels is a journey back in time as you get a feel of how Bedouins explored the desert.</p><p>There's a heavy dose of adventure sports lined up, quad biking and sandboarding, that you may opt for to make the day just unforgettable.</p><h3><span style='color: #ff6600;'><b>Some Important Points to Note\u00a0</b></span></h3><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>The activity lasts for 3 hours, and you should report at the lobby of your hotel. The medium of instruction is English.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Additionally, we arrange pick-up only from your Dubai hotel/residence, not from the airport. You can take our <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a> and request pick-up from any other location, but an additional charge will apply.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Lunch is not provided during the</span> <a href='desertdaytravels.com/trip/morning-desert-safari-dubai/'><span style='font-weight: 400;'>Morning Desert Safari</span></a><span style='font-weight: 400;'>, a morning activity.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>We advise pregnant women or guests with backaches not to choose this activity.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Shared transfers from Deira, Sheikh Zayed, and Bur Dubai to Marina are organised by us.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Please note that the pick-up and drop-off timings of Camel ride Dubai may be adjusted by 30 to 60 minutes based on the trip's schedule, depending on the traffic conditions at your pick-up or drop-off location.</span></li></ul><h3><span style='color: #ff6600;'><strong>Camel Ride (Private Tour)</strong></span></h3><p><span style='font-weight: 400;'>Indeed, camels have always been integral to life in the desert. Experience the thrill of dune bashing in the desert, followed by a serene 30-minute camel ride. Riding on one of these friendly animals and heading out to explore vast desolate stretches of desert is an experience you will remember forever. As your camel moves slowly, you move through the desert in a caravan, enjoying life on the rugged desert plains.</span></p><h3><span style='color: #ff6600;'><strong>Camel Caravan With Bedouin Breakfast</strong></span></h3><p><span style='font-weight: 400;'>After you reach the desert in a comfortable and powerful SUV, enjoy a traditional welcome at a Bedouin Village. Here, you are received at a camp in the desert the traditional Arabian way with the serving of dates, Gahwa, coffee, dates and more. Also, enjoy taking a glimpse into the life of the Bedouins as you take puffs on a shisha. Then, local experts could decorate your palms with intricate henna designs.</span></p><p><span style='font-weight: 400;'>Slip into traditional Arabian attire, an Abaya and pose for a photo op in the desert camp. You\u2019ll feel every bit of an Arabian sheikh in the vast expanse of the desert. Then, the spectacular show by the desert bird of prey, the <a href='desertdaytravels.com/trip/royal-falconry-training/'>Royal Falconry</a>. You\u2019ll be thrilled to watch a majestic Falcon swoop down on the extended arm of its trained handler. Get yourself photographed with one and become a sensation.</span></p><h3><span style='color: #ff6600;'><b>The Sunset and the BBQ Buffet Dinner</b></span></h3><p><span style='font-weight: 400;'>As dusk sets in, it\u2019s time for the sun to bid goodbye and prepare to usher in a new day hidden from us. Watch the sun's splendour going down on the horizon as it spreads an orange hue across the stretches of the sand dunes, creating a stunning sight. That brings the curtains down on your desert adventure, or does it? Hold on, there\u2019s a lavish BBQ buffet dinner for you to feast on.</span></p><p><span style='font-weight: 400;'>After dinner, we drop you back at your hotel for a good night\u2019s sleep. As images of a wonderful evening out in the desert fleet pass through your mind, you sink into deep sleep and dream the sweetest of dreams.</span></p><h3><span style='color: #ff6600;'><b>What\u2019s the Best Time to go Camel Riding in Dubai?</b></span></h3><p><span style='font-weight: 400;'>The Desert Camel Safari in Dubai is an outdoor activity, therefore, the weather matters. The weather in Dubai is at its best from October to February. The city is a bit crowded at this time of the year, with the schools being on vacation. Besides, the</span> <span style='font-weight: 400;'>Dubai Shopping Festival</span><span style='font-weight: 400;'> is also held at this time of the year. However, if the crowd doesn\u2019t bother you much, Dubai is best between October and February, as is the Camel Ride. </span></p><p><span style='font-weight: 400;'>So plan your holidays well and visit</span><span style='font-weight: 400;'> these <a href='desertdaytravels.com/trip-tag/dubai-tourist-places/'>Dubai</a></span><span style='font-weight: 400;'><a href='desertdaytravels.com/trip-tag/dubai-tourist-places/'> tourist attractions</a> for an unforgettable holiday.</span></p><h2><span style='color: #ff6600;'><b>FAQs</b></span></h2><h3><b>Q. What is camel riding?</b></h3><p><span style='font-weight: 400;'>Among all, camel riding is a very popular tour that allows visitors to experience the traditional way of travelling through the</span> <span style='font-weight: 400;'>desert conservation reserve</span><span style='font-weight: 400;'> on the back of a camel. Visitors can ride on the back of a camel and enjoy the scenic views of the desert landscape. During the tour, you will always be accompanied by a trained professional. Camel Safari in Dubai is one of the must have experience you can enjoy during your <a href='desertdaytravels.com/trip-tag/dubai-city-tour/'>Dubai city tour</a>.</span></p><h3><b>Q. How long is a typical camel ride in Dubai?</b></h3><p><span style='font-weight: 400;'>The duration of a camel ride in Dubai can vary depending on the package you choose. Typically, you can enjoy a camel ride lasting anywhere from 30 minutes to an hour, but you can also arrange longer rides by speaking to our live chat support. Rest assured that the ride is not uncomfortable, and you will have a wonderful time. Also, remember that the duration and pricing depend on your selected package.</span></p><h3><b>Q. What should I wear for a camel ride tour in Dubai?</b></h3><p><span style='font-weight: 400;'>The recommendation is to wear comfortable and loose-fitting clothing that covers your arms and legs to protect yourself from the sun and sand. It is also advisable to wear closed-toe shoes to protect your feet. Also, avoid wearing short or revealing outfits with respect to the local culture.</span></p><h3><b>Q. What is the best time for a Camel Ride Safari in Dubai?</b></h3><p><span style='font-weight: 400;'>The best time to go for a camel ride tour in Dubai is during the cooler months, from October to April. The temperature is more moderate during this time, making it more comfortable for visitors to enjoy the ride. The winter months are perfect for this ride as the temperatures are very comfortable.</span></p><h3><b>Q. Do I need to book in advance for a Dubai Camel Ride Tour in Dubai?</b></h3><p><span style='font-weight: 400;'>Book your camel ride in advance to secure your spot and avoid disappointment. Some tour operators may require advance booking, especially during peak tourist seasons.</span></p><h3><strong>Q. How much does the Dubai desert camel ride cost?</strong></h3><p>The cost of a Dubai desert camel ride varies from package to package. However, a typical price ranges from AED 325 to AED 500.</p><h3><strong>Q. What are the inclusions of Camel Tour Dubai?</strong></h3><p>There are 3 types of Camel Tour Dubai for you to choose from, namely, a Camel Caravan with Bedouin Breakfast, a Camel Ride (Private Tour), and the Sunset Camel safari in Dubai with BBQ Buffet Dinner.</p><h3><b>Q. What Other Activities are available in the Desert?</b></h3><ul><li style='list-style-type: none;'><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Quad Bikes</span></li><li aria-level='1' style='font-weight: 400;'><a href='desertdaytravels.com/trip-tag/dune-buggy-in-dubai/'><span style='font-weight: 400;'>Dune Buggy Ride</span></a></li><li aria-level='1' style='font-weight: 400;'><a href='desertdaytravels.com/trip/evening-desert-safari/'><span style='font-weight: 400;'>Evening Desert Safari</span></a></li></ul></li></ul>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

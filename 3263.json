@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Book Louvre Museum Tickets",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "63",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "8 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Abu Dhabi Category Page,Museum",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Book Louvre Museum Tickets",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "desertdaytravels Tourism welcomes you to one of Abu Dhabi's best tourist destinations in the UAE, the Louvre Museum Abu Dhabi. It is home to fabulous pieces of art by Giovani Bellini, Claude Monet, and Vinci, making it the epicentre of art and culture in the UAE. The place has more than 600 pieces of art and is thoughtfully arranged in 12 sections. Here is some information about the Louvre Museum Abu Dhabi tickets.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Louvre Museum</td></tr><tr><td>Tour Type</td><td>Attraction in Dubai</td></tr><tr><td>Duration</td><td>8 hours</td></tr><tr><td>Time</td><td>10 AM</td></tr><tr><td>Days of Operation</td><td>Closed on Monday</td></tr><tr><td>Starting Price</td><td>63 AED</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusion</strong></span></p><ul><li><i class='fas fa-check'></i>Louvre Museum Abu Dhabi Tickets (Only Ticket)</li><li><i class='fas fa-check'></i>Transportation Can Be Selected as per your Convenience</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Personal expenses</li><li><i class='fas fa-check'></i>Transfer (private transfers available at an additional charge)</li><li><i class='fas fa-check'></i>Food</li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusion</strong></span></p><ul><li><i class='fas fa-check'></i>Louvre Museum Abu Dhabi Tickets (Only Ticket)</li><li><i class='fas fa-check'></i>Transportation Can Be Selected as per your Convenience</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Personal expenses</li><li><i class='fas fa-check'></i>Transfer (private transfers available at an additional charge)</li><li><i class='fas fa-check'></i>Food</li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><h3><strong><span style='color: #ff6600;'>What to Expect at Louvre Museum Abu Dhabi</span></strong></h3><p>This museum will simply take your breath away with its amazing contents and it is one of the best <a href='desertdaytravels.com/trip-tag/abu-dhabi-tours-attractions/'>Abu Dhabi attractions</a>. Louvre Abu Dhabi is divided into different sections and each of them is very unique. This is indeed a good place to educate young kids on the different cultures from across the world.</p><ol><li><h4><strong>Children\u2019s Museum</strong></h4></li></ol><p>This is the place where you should begin the tour. Also, it is the right section to teach your kids concepts and techniques of art.</p><ol start='2'><li><h4><strong>Art Collection Section</strong></h4></li></ol><p>This section contains some artistic exhibits from France and it is certainly worth visiting. Additionally, this has exhibits arranged chronologically clearly displaying the evolution of art over time.</p><ol start='3'><li><h4><strong>New Acquisition Section</strong></h4></li></ol><p>This section undergoes a lot of changes as the museum keeps getting newer exhibits from all over the world for people to see. Sometimes this section also receives temporary exhibits for a limited period.</p><h3><strong><span style='color: #ff6600;'>A Brief Overview of the Louvre</span></strong></h3><p>The museum opened to the public in the year 2017 and it has some of the best art pieces in it. It has wonderful exhibits acquired from all over the world. The museum contains\u00a0 35,000 artworks that represent Western and Eastern cultures. The ticket to this place will give you access to the public spaces, exhibits, and galleries within the museum. desertdaytravels Tourism also offers an <a href='desertdaytravels.com/trip/abu-dhabi-city-tour/'>Abu Dhabi City Tour</a> with the Louvre Museum.</p><h3><strong><span style='color: #ff6600;'>Things to Remember Before Visiting the Museum</span></strong><i class='fa-solid fa-circle'></i></h3><ul><li><i class='fa-solid fa-circle'></i>Last-minute entry to the museum is half an hour before it closes.</li><li><i class='fa-solid fa-circle'></i>Tickets for older citizens are free. They need to show a valid ID at the booking counter.</li><li><i class='fa-solid fa-circle'></i>Kids till the age of 18 will have to pay rates for children. Children, more than 19 years will be required to pay adult prices.</li><li><i class='fa-solid fa-circle'></i>The museum stays shut on Mondays.</li><li><i class='fa-solid fa-circle'></i>People travelling from other countries will have to share their visa details during the booking process.</li></ul><h3><strong><span style='color: #ff6600;'>How to Reach Louvre Abu Dhabi</span></strong></h3><p>Louvre Museum Abu Dhabi is located on Saadiyat Island. So, you can take a bus from stations 032 and 094 and you should reach within 90 minutes. You can also avail the Town car and you will reach the museum within 30 minutes. Moreover, one of the best ways to reach is by <a href='desertdaytravels.com/trip-tag/rent-a-car/'>renting a car</a>. So, contact desertdaytravels Tourism for hassle-free <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a>.</p><h2><strong><span style='color: #ff6600;'>FAQs</span></strong></h2><h3><strong>Q. When should I visit the Louvre Abu Dhabi?</strong></h3><p>You can visit the museum at any time of the year. It stays open from 10 in the morning to 8 at night from Saturday all the way to Wednesday. From Thursday to Friday, it stays open from 10 in the morning to 11 at night. On Mondays, the museum stays closed.</p><h3><strong>Q. What other tours do you provide in Abu Dhabi?</strong></h3><p>There are multiple options for tours and excursions in Abu Dhabi. Checkout the following ones:</p><ul><li><a href='desertdaytravels.com/trip/qasr-al-watan-abu-dhabi-tickets/'>Qasar Al Watan</a></li><li>Visit To Yas Island</li><li><a href='desertdaytravels.com/trip/ferrari-world-abu-dhabi/'>Ferrari world Abu Dhabi</a></li><li><a href='desertdaytravels.com/trip/seaworld-abu-dhabi-tickets/'>Sea World\u00a0</a></li><li><a href='desertdaytravels.com/trip/yas-waterworld-abu-dhabi/'>Yas Water World\u00a0</a></li></ul><h3><strong>Q. Does the museum have artwork from France?</strong></h3><p>The museum has art exhibits from all over the world such as from South Africa Italy, France, and many others. Furthermore, it showcases culture from across the globe under one roof. The concept of the museum came about in the year 2007 and in 2017 it became a reality.</p><h3><strong>Q. Is this a guided tour?</strong></h3><p>No, this is not a guided tour. Also, the museum does not have physical guides, but you can download a multimedia tour on your phone and it is available in many different languages.</p><h3><strong>Q. How much does a Louvre Museum ticket cost?\u00a0</strong></h3><p>A ticket to the Louvre Museum costs around AED 63. However, the price might be different for kids. Ticket prices are also different for kids aged from 3 to 18 years old.</p><h3><strong>Q. How much time do you need to visit the Louvre Museum?\u00a0</strong></h3><p>It takes around 2 hours to explore the whole Louvre Museum of Abu Dhabi. However, you can spend as much time as you want at the Louvre Museum.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

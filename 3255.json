@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Motiongate Dubai Parks Tickets",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "295",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "8 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dubai Parks,Theme Parks",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Motiongate Dubai Parks Tickets",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Motiongate Dubai, one of the largest theme parks in the city, welcomes you into the magical world of Hollywood, capture these motiongate Dubai photos for the great journey. Firstly, the park is part of Bollywood Parks & Resorts, which is much larger and includes 3 amusement parks apart from a luxury hotel. Secondly, it has all it takes to give you a holiday experience you\u2019ll cherish for the rest of your life, keep the Motiongate map to enjoy rides. Get your Motiongate Dubai tickets with desertdaytravels Tourism.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Motiongate Dubai</td></tr><tr><td>Tour Type</td><td>Theme Park</td></tr><tr><td>Duration</td><td>8 hours</td></tr><tr><td>Time</td><td>Sun-Wed (11 AM-8 PM)Thur-Sat (11 AM-10 PM)</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>AED 295</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Get Full Day Access to the best Theme Park IN UAE.</li><li><i class='fas fa-check'></i>Experience the thrilling family rides.</li></ul><p><span style='color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>All personal expenses</li><li><i class='fas fa-check'></i>Food</li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Get Full Day Access to the best Theme Park IN UAE.</li><li><i class='fas fa-check'></i>Experience the thrilling family rides.</li></ul><p><span style='color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>All personal expenses</li><li><i class='fas fa-check'></i>Food</li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><h2><span style='color: #ff6600;'><strong>What you can expect at Motiongate Dubai</strong></span></h2><h3><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'><strong>Inspired by 3 of the biggest motion picture studios in Hollywood</strong></span></h3><p>Columbia Pictures, DreamWorks Animation, and Lionsgate, Motiongate has 5 zones with each of them giving you a time to remember with its thrilling rides and breathtaking attractions. Motiongate map features all the attractions of the <a href='desertdaytravels.com/trip-tag/theme-parks-in-dubai/'>theme park in Dubai</a>.</p><h3><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'><strong>Studio Central</strong></span></h3><p>Studio Central certainly finds its inspiration from Hollywood\u2019s golden age. Moreover, get the hang of real-life movie sets and learn about how magical filmmaking can be. Also, you\u2019ll love being a part of opening shows at theatres and you also get to experience a working movie studio\u2019s executive offices. Don't forget to capture your moments with Motiongate Dubai photos.</p><h3><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'><strong>Columbia Pictures</strong></span></h3><p>This zone dedicated to Columbia Pictures welcomes you with 7 thrilling rides and attractions that have indeed been inspired by movies made by this iconic production house. Moreover, Hotel Transylvania, Cloudy with a Chance of Meatballs - River Expedition (water ride), Flint\u2019s Imagination Lab, Zombieland Blast-off, Ghostbusters: Battle of New York, The Green Hornet: High-Speed Chase and Underworld 4D are the attractions that let you have a blast here in this zone. Moreover, you can refer to the Motiongate map for assistance.</p><h3><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'><strong>DreamWorks</strong></span></h3><p>DreamWorks is an indoor venue that\u2019s further divided into four zones, each one of them truly unique. Furthermore, there are 12 play zones, all of them very interactive, as well as family rides and rollercoasters, giving you a day filled with fun and frolic. Explore the mesmerising world of enchanting movies like Madagascar, Shrek, How to Train Your Dragon, Kung Fu Panda, and Smurfs Village. Also, you\u2019ll find the blue-coloured humanoids from the super hit Smurfs absolutely irresistible. You can click amazing Motiongate Dubai photos here. Thus, there are 5 zones to enthral you\u2014the Smurfs Studio Tours, Smurfs Village Playhouse, Smurfberry Factory, Smurf Village Express, and Woodland Play Park.</p><h3><i class='fa-solid fa-circle'></i><span style='color: #ff6600;'><strong>Lionsgate</strong></span></h3><p>At Lionsgate, you enter the intriguing world of the riveting movie, Hunger Games. The other 2 most exciting attractions in this zone are the Panem Aerial Tour and the Capitol Bullet Train. Other than these thrilling rides giving you an adrenaline rush, there are live entertainment shows, shopping opportunities, and many dining options that are sure to make you fall in love with this place. You can click amazing Motiongate Dubai photos here in this zone.</p><h3><span style='color: #ff6600;'><strong>Some important information</strong></span></h3><ul><li><i class='fa-solid fa-circle'></i>Transfer services shall be made available only if the transfer option is selected during the booking. Also you can take desertdaytravels's <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a>.</li><li><i class='fa-solid fa-circle'></i>Your pick-up can be arranged only from your Dubai hotel/residence and not from the airport</li><li><i class='fa-solid fa-circle'></i>Pick-ups from locations other than your Dubai hotel/residence can be arranged upon the payment of an additional surcharge</li><li><i class='fa-solid fa-circle'></i>Shared transfers are available from only Deira, Bur Dubai</li><li><i class='fa-solid fa-circle'></i>At the heart of <a href='desertdaytravels.com/trip-tag/dubai-parks-and-resort-day-passes/'>Dubai Parks and Resorts</a>, Riverland Dubai is a retail and dining destination with a unique theme open to all guests at no extra charge</li><li>It is recommended to have a Motiongate map so that you can explore all the <a href='desertdaytravels.com/trip-tag/dubai-tourist-places/'>Dubai tourist attractions</a>, restaurants and rides</li><li><i class='fa-solid fa-circle'></i>The operational hours at the Dubai Parks and Resorts may vary during the holy month of Ramadan</li><li><i class='fa-solid fa-circle'></i>During the holy month of Ramadan, no eating or drinking outside is allowed</li><li><i class='fa-solid fa-circle'></i>A minimum of 2 persons are required for this activity on shared transfers</li><li><i class='fa-solid fa-circle'></i>There can be a modification of 30 to 60 minutes in the pick-up and drop timings on shared transfers as per the trip\u2019s schedule depending on your location or the traffic conditions.</li></ul><h3><span style='color: #ff6600;'><strong>The best time to visit</strong></span></h3><p>Dubai is hot and humid for much of the year. The weather in the city is at its best between September and February when it\u2019s pleasant and there\u2019s a gentle breeze blowing. You\u2019ll simply love being in the dazzling Dubai at that time of the year and you'll enjoy Motiongate rides.</p><h2><strong><span style='color: #ff6600;'>Conclusion</span></strong></h2><p>Motiongate Dubai is a must-visit theme park in Dubai, part of the larger Dubai Parks and Resorts. It offers a range of thrilling rides, live shows, and studio tours inspired by Hollywood giants like Columbia Pictures, DreamWorks Animation, and Lionsgate. You can explore all these zones by looking at the Motiongate map. With desertdaytravels enjoy these 4 themed zones and 27 rides, it has something for everyone, from roller coasters to interactive play areas. Contact us today by calling +971 4 268 4645 and book Motiongate Dubai tickets with us!</p><h2><span style='color: #ff6600;'><strong style='color: #ff6600;'>FAQs</strong></span></h2><h3><strong>Q. What is the Motiongate Park Dubai all about?</strong></h3><p>The Motiongate Dubai brings you the fascinating world of Hollywood films and it features the works of 3 of Hollywood\u2019s major production houses\u2014Columbia Pictures, Lionsgate and DreamWorks Animation.</p><h3><strong>Q. How many zones does Motiongate Dubai have?</strong></h3><p>Motiongate Dubai has 5 zones that showcase the splendour of top Hollywood movies, right from the classics to contemporary productions. It\u2019s a top draw for Hollywood film buffs.</p><h3><strong>Q. What\u2019s the best time of the year to visit Motiongate Dubai?</strong></h3><p>While you can visit Motiongate Dubai at any time of the year since it\u2019s an indoor attraction, visiting Dubai is ideal between the months of November and March when it\u2019s winter. It helps you avoid the scorching heat and sweaty humidity of the summer.</p><h3><strong>Q. Can we bring food from the outside?</strong></h3><p>No, guests must not bring any food from outside. There are eateries within the premises of Motiongate Dubai serving tasty food in hygienic conditions. You can have a look at the Motiongate map to explore the restaurants.</p><h3><strong>Q. Apart from exploring the world of Hollywood movies, what else can one do at Motiongate Dubai?</strong></h3><p>You can shop till you drop at Motiongate Dubai. There are many thrilling Motiongate rides for you to enjoy and the live shows are very entertaining. You can click amazing Motiongate Dubai photos so that you can cherish those memories later. Before you leave, you can savour a mouthwatering dinner at any of the dining options here.</p><h3><strong>Q. Are there more theme parks in Dubai other than Motiongate?</strong></h3><p>Yes, there are more theme parks in Dubai apart from Motiongate Dubai. These parks include:</p><ul><li><a href='desertdaytravels.com/trip/img-worlds-of-adventure-dubai/'>IMG\u00a0 World Of Adventure Theme Park</a></li><li><a href='desertdaytravels.com/trip/legoland-dubai-theme-park-tickets/'>Legoland Theme Park\u00a0</a></li><li><a href='desertdaytravels.com/trip-tag/ski-dubai/'>Ski Dubai</a></li><li><a href='desertdaytravels.com/trip/dubai-kidzania-tickets/'>Kidzania Dubai</a></li></ul><h3><strong>Q. Are transfers to Motiongate included?</strong></h3><p>Transfers to Motiongate are provided only if the guest opts for it during booking. There are no extra charges for it. So, when you get your Motiongate Dubai tickets with us also opt for additional transfer services.</p><h3><strong>Q. Are pick-up arrangements from the airport available?</strong></h3><p>No, pick-up arrangements from the airport are available. They are available only from hotels/accommodations in central Dubai like Bur Dubai, Deira, Sheikh Zayed and Marina. That said, airport pick-ups are only available on the payment of an additional charge.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

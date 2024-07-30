@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Jebel Jais Ras Al Khaimah",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "700",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "8 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Ras Al Khaimah",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Jebel Jais Ras Al Khaimah",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "The Jebel al Jais stands at a height of 2000 metres and it is a very popular hangout spot for tourists. If you want to take time out from your robotic lifestyle, then you should take a trip here. Jebel Jais Ras al Khaimah has a host of adventurous activities that you can indulge in. Moreover, Jebel Jais' weather is also remarkable. Read on as we share some fabulous details on this fabulous location.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Jabel Jais</td></tr><tr><td>Tour Type</td><td>Adventure Activity</td></tr><tr><td>Duration</td><td>1 hours</td></tr><tr><td>Time</td><td></td></tr><tr><td>Days of Operation</td><td>Tuesday to Saturday</td></tr><tr><td>Starting Price</td><td>AED 700</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "Not Found",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "Not Found",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<h2><strong><span style='color: #ff6600;'>What to expect: Jebel Jais Ras Al Khaimah Tour</span></strong></h2><p>This location is the ideal location for enjoying outdoor activities. The mountain has steep slopes, eroded landscapes, barren cliffs, and deep canyons which are visible from Jebel Jais' Observation Deck. This tourist attraction has tons of fun activities for you, and you'll have a memorable time here. Lastly, Jebel Jais' weather is also very good.</p><h2><span style='color: #ff6600;'>Activities That You Participate In at Jebel Jais</span></h2><p>A visit to this place is a must-visit if you want to explore UAE in a slightly different way. However, to get to this place, you must take a weekend off to enjoy yourself. Here is a list of some of the activities that you can participate in.</p><h3><span style='color: #ff6600;'>The Adventure Park of Jebel al Jais</span></h3><p>This adventure park is truly unique. The suspended obstacle area is something that you must visit. If you want to feel an adrenaline rush, then participate in the activities at this place. The park has zip lines for you to enjoy. The maze is located at a height of 10 feet above the ground. From this maze, you also get a spectacular view of the entire mountain and it is a breathtaking experience. Additionally, for more adventurous activities you can check out <a href='desertdaytravels.com/trip-tag/theme-parks-in-dubai/'>theme parks in Dubai</a>.</p><h3><span style='color: #ff6600;'>Camping And Barbecue</span></h3><p>Love camping by the mountains? Then this could be a strong reason for you to go camping at this place. While you are camping at this spot you may as well have a barbecue at this mountain. If you are keen on watching the sunrise in the mountains, then you could consider camping here overnight.</p><h3><span style='color: #ff6600;'>Jais-Sledder\u00a0</span></h3><p><a href='desertdaytravels.com/trip/jebel-jais-sledder/'>Jebel Jais Sledder</a> is one of the best attractions in this place and most tourists love it. The toboggan ride is the best experience you will get here. The track takes you at a speed of 40 kilometres every hour through the curves of the Hajar Mountains.</p><h3><span style='color: #ff6600;'>Hiking</span></h3><p>Want to put your stamina to the test? Well, then take a hike on this mountain and treat yourself to a beautiful view when Jebel Jais' weather is the best. You will be happy to know that this mountain has the easiest trekking trail so if this is your first time, you will not have any difficulty. The mountain has seven different decks for viewing and they are equipped with binoculars. Once you have finished up all the activities on this mountain, you can treat yourself to some fabulous refreshments from food trucks.</p><h3><span style='color: #ff6600;'>Explorer Camp</span></h3><p>This is a survival camp designed to give an experience of living it rough. This cam has suitable activities for both adults and kids. You are sure to have a good time here. You can stay at this camp and take part in hiking and other exciting activities.</p><h3><span style='color: #ff6600;'>Jebel al Jais Sky Tour</span></h3><p>This <a href='desertdaytravels.com/trip/jebel-jais-flight-zipline/'>Jebel Jais zipline</a> tour is nothing but a sheer delight, and it is very adventurous. You get a magnificent view of the whole Hajar Mountains from the top. This tour will involve you moving at a speed of 60 kilometres per hour and will take you to a bridge that is 1,250 meters above the level of the sea.</p><h2><span style='color: #ff6600;'>Attractions That Are To Be Added To This Place Soon</span></h2><ul><li><strong><i class='fa-solid fa-check'></i>Jais Yard: </strong>This place will be a food hub where you can buy food from traditional food trucks.</li><li><i class='fa-solid fa-check'></i><strong>Basecamp Jais:</strong> This will be a place where people can stay for an affordable price. You may want to spend a night or two at Jebel Jais so you can stay here without spending too much money.</li><li><i class='fa-solid fa-check'></i><strong>Jais Wings: </strong>Just like <a href='desertdaytravels.com/trip/parasailing-in-dubai/'>parasailing tour</a> on the beaches, this is a paragliding activity, that will let you fly over these grand mountains. This will certainly draw a lot of crowds.</li><li><i class='fa-solid fa-check'></i><strong>Jais Swing: </strong>This is for those who want to take their thrill factor up a couple of notches. This is a double swing and if you are faint-hearted, you should probably give this a miss.</li></ul><h2><span style='color: #ff6600;'>Things To Keep In Mind Before You Visit This Mountain</span></h2><ul><li><i class='fa-solid fa-circle'></i>You can make bookings for all the activities online. You will also find relevant information on any upcoming attractions.</li><li><i class='fa-solid fa-circle'></i>If you decide to have a barbecue on this mountain, then you must get your own equipment, such as lighter fuel and coal.</li><li><i class='fa-solid fa-circle'></i>This tourist attraction has facilities such as washrooms, restaurants, and parking spots, Jebel Jais Observation Deck.</li><li><i class='fa-solid fa-circle'></i>You must wear closed shoes, as most of the activities require them.</li><li><i class='fa-solid fa-circle'></i>The temperature is pleasant in the daytime, however, you should carry a light sweater in case the cold wind starts to blow.</li><li><i class='fa-solid fa-circle'></i>This place has a lot of tourists on holidays or special days so if you want to avoid a big crowd then you should visit the mountains on weekdays.</li><li><i class='fa-solid fa-circle'></i>This place is a two-hour drive from Dubai, so make sure that you carry enough food and water for yourself.</li><li><i class='fa-solid fa-circle'></i>You must not litter in this place as you may have to pay a heavy fine.</li><li><i class='fa-solid fa-circle'></i>It is sunny during the day, so make sure you carry sunglasses and a hat.</li><li>You can also book a Jebel Jais Hotel if you wish to stay overnight.</li><li>You can also contact desertdaytravels to help you secure a great Jebel Jais Hotel.</li></ul><p>Jebel Al Jais in Ras Al Khaimah offers a thrilling escape with activities like hiking, ziplining, and camping. Its scenic landscapes and exciting adventures promise a memorable experience. Prepare well, follow guidelines, and enjoy this unique destination. Whether seeking adrenaline or relaxation, Jebel Al Jais has something for everyone.</p><p>We can arrange a private tour for Jebel Jais Ras Al Khaimah that will come along with an English-speaking professional driver, you can also take <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a> from desertdaytravelsto reach the location. Contact us today by calling <span class='elementor-icon-list-text'>+971 4 268 4645</span><span class='elementor-icon-list-text'>.</span></p><h2><strong><span style='color: #ff6600;'>FAQs</span></strong></h2><h3><strong>Q. Where exactly is Jebel Al Jais Ras Al Khaimah located?</strong></h3><p>This mountain peak can be found in the Hajar Mountains, which is located in the northern area of Ras Al Khaimah.</p><h3><strong>Q. How to reach Jebel al Jais?</strong></h3><p>You can get to this place by road, it is 2 hours away from Dubai, you can <a href='desertdaytravels.com/trip-tag/rent-a-car/'>rent a car</a> from desertdaytravels to reach the destination.</p><h3><strong>Q. What is Jebel Jais Observation Deck?\u00a0</strong></h3><p>The Jebel Jais Observation Deck is called Jais Viewing Deck Park. On one side, you have views across the zig-zagging road, swooping valleys and cloud-piercing peaks and on the other, date wadis, villages and the Arabian Gulf.</p><h3><strong>Q. Are children allowed in this place?</strong></h3><p>Yes, children are allowed, but there might be restrictions on certain activities.</p><h3><strong>Q. When is the best time to visit?</strong></h3><p>The ideal time to visit this place will be during the winter months, as the temperature is pleasant during the daytime.</p><h3><strong>Q. How is the Jebel Jais' weather?</strong></h3><p>Jebel Jais' weather is quite pleasant in the morning and evening. It is mostly clear with a temperature around 80F.</p><h3><strong>Q. What are some Jebel Jais Hotels?</strong></h3><p>Some Jebel Jais Hotels are namely Hilton Ras Al Khaimah Beach Resort, Citymax Hotel Ras Al Khaimah, Action Hotel Ras Al Khaimah, Hilton Garden Inn Ras Al Khaimah, and Six Senses Zighy Bay.</p><h3><strong>Q. Is it Jebel Jais or Jebel Hafeet?</strong></h3><p>Jebel Jais is higher than <a href='desertdaytravels.com/trip/jebel-hafeet/'>Jebel Hafeet</a>. Jebel Jais, located in Ras Al Khaimah, United Arab Emirates, is the highest mountain in the UAE, with an elevation of approximately 1,934 meters (6,345 feet) above sea level.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

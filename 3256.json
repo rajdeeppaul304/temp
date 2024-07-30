@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "IMG World of Adventure Ticket",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "345",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "5 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "kids zone,Theme Parks",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "IMG World of Adventure Ticket",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Basking in glory, the proud city of Dubai is associated with some of the largest structures that humans have ever seen. It\u2019s home to the world\u2019s largest indoor theme park- the IMG Worlds of Adventure. The IMG Worlds of Adventure rides is another out-of-this-world experience Dubai has on offer for you. So, get your IMG World of Adventure tickets with us.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>IMG World of Adventure</td></tr><tr><td>Tour Type</td><td>Theme Park</td></tr><tr><td>Duration</td><td>5 hours</td></tr><tr><td>Time</td><td>10 AM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>345 AED</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Get full-day access to the Best Theme Park in the UAE</li><li><i class='fas fa-check'></i>Experience the thrilling family rides</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Private Transfers (available at an extra charge)</li><li><i class='fas fa-check'></i>Personal expenses</li><li><i class='fas fa-check'></i>Food and beverages</li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Get full-day access to the Best Theme Park in the UAE</li><li><i class='fas fa-check'></i>Experience the thrilling family rides</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Private Transfers (available at an extra charge)</li><li><i class='fas fa-check'></i>Personal expenses</li><li><i class='fas fa-check'></i>Food and beverages</li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><h3><span style='color: #ff6600;'><b>What to Expect at IMG Theme Park</b></span></h3><div>IMG theme park Dubai Spread over a mammoth 1.5 million square feet. Indeed, this amazing theme park is divided into 4 areas called Epic Zones, each with a theme of its own. There Are Multiple <a href='desertdaytravels.com/trip-tag/theme-parks-in-dubai/'>Theme Parks In Dubai</a> Each And Every Park is Good On Its Own. The park welcomes a jaw-dropping 20,000 guests every day. Kick off your day at the first zone spread over 230,000 square feet bringing alive the kid in you. So, characters from Cartoon Network like the Power Puff Girls will give you company. You\u2019ll love the laid-back environment at the Lazy Town and the Ben 10 5D cinema, the first one of its kind in the entire world draws in crowds in hordes. The world\u2019s largest retail store, another major <a href='desertdaytravels.com/trip-tag/dubai-tourist-places/'>attraction in Dubai</a> of this zone further adds to the excitement.</div><div></div><p>The second zone, the 350,000 square feet Marvel Zone gives you the feeling of being on the streets of New York. So, it has amazing 3D rides inspired by Marvel\u2019s superheroes with the Avengers Flight of the Quinjets, Spider-Man Doc Ock\u2019s Revenge, the Hulk Epsilon Base 3D, and Thor Thunder Spin just take your breath away! So, don't wait get your IMG World of Adventure tickets with us.</p><h3><span style='color: #ff6600;'><strong>Highlights</strong></span></h3><p>Wait, it\u2019s not over yet. There\u2019s a pre-historic world awaiting you at the Lost Valley with 70 animated dinosaurs and 5 signature rides- the Adventure Fortress, the Dino Carousel, The Forbidden Territory, the Predator, and the Velociraptor. Moreover, it\u2019s a travel back in time to this zone and these thrilling rides give you a mad adrenaline rush.</p><p>As the day draws to a close and darkness falls, a visit to the Haunted Hotel inside IMG Boulevard spooks you sending a chill down your spine. If all of this appears a bit over the top to you, there are other attractions thoughtfully laid out for you. There are retail shops, including the world\u2019s largest at the Cartoon Network zone as already mentioned, excellent food and beverage shops are serving delectable cuisine and drinks, and you\u2019ll also have the opportunity to participate in activities like adventure photography with the IMG World of Adventure tickets.</p><hr/><h3><strong><span style='color: #ff6600;'>How to Reach the IMG Theme Park Worlds of Adventure?</span> </strong></h3><p>There\u2019s no direct metro link between the airport and the IMG Worlds of Adventure. However, you can take the Red Line to reach the <a href='desertdaytravels.com/trip-tag/things-to-do-in-dubai-mall/'>Dubai Mall</a> or the Mall of Emirates metro stations. Furthermore, you may book a taxi or <a href='desertdaytravels.com/trip-tag/rent-a-car/'>rent a car</a> from there to take you to the final destination. The Government Dubai Transport Airport Taxi Service helps visitors reach any destination at fares based on predetermined rates which appear on a meter.</p><hr/><h4><span style='color: #ff6600;'><strong>Some Important Information</strong></span></h4><ul><li><i class='fa-solid fa-circle'></i>Guests are picked up only from their Dubai hotels/residences and not the airport</li><li><i class='fa-solid fa-circle'></i>Pick-up from any location other than the Dubai hotel/residence shall be arranged at an additional charge</li><li>We can also arrange <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>private transportation services</a>.</li><li><i class='fa-solid fa-circle'></i>Specially abled guests shall have to provide proof which will allow the entry of a helper for free</li><li><i class='fa-solid fa-circle'></i>Discounts are offered when the various attractions are combined into a single package. No discount is offered on individual rides</li><li><i class='fa-solid fa-circle'></i>Transfer options are available if the \u2018with transfer\u2019 option is selected</li><li><i class='fa-solid fa-circle'></i>The pickup or drop-off times may be modified by 30 to 60 minutes depending on the traffic</li><li><i class='fa-solid fa-circle'></i>The park is open from 12:00 P.M. to 8:00 P.M. from Sundays to Wednesdays and from 12:00 P.M. to 9:00 P.M. from Thursdays to Saturdays</li><li><i class='fa-solid fa-circle'></i>If the park is filled during the Eid holidays, guests are requested to come the next day</li></ul><hr/><h2><strong><span style='color: #ff6600;'>FAQs</span></strong></h2><h3><strong>Q. What\u2019s the location of the IMG World of Adventures?</strong></h3><p>The IMG theme park Dubai is in <span class='w8qArf'>the </span><span class='LrzXr'>City of Arabia - Dubai </span>right\u00a0 Just 25 minutes from Dubai Marina, the IMG World of Adventures can be reached easily from every part of the city.</p><h3><strong>Q. Is there anything I should remember before I visit IMG World of Adventures?</strong></h3><p>Yes certainly, do remember to carry your booking voucher and keep valid identity proof handy. Also, do keep in mind that you can\u2019t bring any food from outside into the IMG World.</p><h3><strong>Q. Can I bring kids to the IMG World of Adventures?</strong></h3><p>Of course, you can! The IMG World of Adventures is a fun-filled place loaded with excitement and thrill and your kids are sure to love every moment of being here. Of the five zones, the ones dedicated to cartoons and dinosaurs are a favourite among kids. So, catch up on the latest movies at the 12-screen plush Novo Complex Cinema.</p><h3><strong>Q. How many rides does the IMG World of Adventures have?</strong></h3><p>There are as many as 17 rides, each one of them truly pulsating. Take your pick from the spooky Haunted Hotel, the Thor Thunder Spin the Avengers Battle of Ultron, or any of the other rides that are no less thrilling.</p><h3><strong>Q. What\u2019s the minimum time required to cover all of IMG World of Adventures rides?</strong></h3><p>With a lot of rides and attractions, the IMG theme park Dubai covers a large area. Therefore, you need no less than 4-5 hours to cover all of it. If apart from enjoying the rides, you want to catch a movie or enjoy eating at any of the restaurants, do set aside at least 6 hours so you don\u2019t feel rushed.</p><h3><strong>Q. What kind of clothes should I wear at IMG theme park?</strong></h3><p>Just turn up in smart casuals in the summer and take care to keep yourself protected in the winter. Make sure that you keep clear of revealing outfits since wearing them will hurt local sentiments.</p><h3><strong>Q. Is it safe to take the rides at the IMG World of Adventures?</strong></h3><p>Yes, surely it is. The rides can be enjoyed by kids and adults alike. That said, there are certain specifications regarding height and age in place for some of the rides keeping rider safety in mind. These are usually the intense rides that are physically straining. To take all the IMG World of Adventure rides, you need to be at least 1.30m tall. Kids who are accompanied by an adult should be at least 1.05m tall.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

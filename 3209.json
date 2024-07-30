@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Book Dubai Fountain Lake Ride Tickets",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "80",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "3 hours 30 minutes",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dubai Mall Attractions",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Book Dubai Fountain Lake Ride Tickets",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Experience the awe-inspiring Dubai Fountain Lake Ride to witness the world's largest performing fountains. This unique tour dispels the notion that Dubai is solely about dining and shopping, introducing visitors to a mesmerizing spectacle. Towering at 500 ft, this fountain is the world's largest dancing fountain, captivating audiences with its grandeur. As you know the Dubai fountain lake ride cost is also very cheap! So, don't miss the chance to embark on this unforgettable journey and witness the magic of the Dubai Fountain Boardwalk. So, book your Dubai Fountain Lake ride tickets with desertdaytravels now!",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Lake Ride</td></tr><tr><td>Tour Type</td><td>Attractions in Dubai</td></tr><tr><td>Duration</td><td>3 hours, 30 mins</td></tr><tr><td>Time</td><td>6:30 PM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>80 AED</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='color: #ff6600;'><strong><span style='text-decoration: underline;'>Inclusions</span></strong></span></p><ul><li><i class='fas fa-check'></i>Sail across the lake aboard the traditional abra</li><li><i class='fas fa-check'></i>Access to pedal boats</li><li><i class='fas fa-check'></i>Transportation (available if selected)</li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='color: #ff6600;'><strong><span style='text-decoration: underline;'>Inclusions</span></strong></span></p><ul><li><i class='fas fa-check'></i>Sail across the lake aboard the traditional abra</li><li><i class='fas fa-check'></i>Access to pedal boats</li><li><i class='fas fa-check'></i>Transportation (available if selected)</li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<h3></h3><h3><span style='color: #ff6600;'><strong>What to Expect at The Dubai Fountain Lake Ride</strong></span></h3><p>If you are travelling to Dubai from a foreign country, then this is one experience you should not miss out on. So, this is a tour that even your kids will love, as the dancing fountains are very colourful and entertaining. The fountain is also lit up by 6500 lights and is assisted by 25 projectors of various colours. When you are here, you can also indulge in a variety of fun activities, such as Swan Boats, Flemingo boats, water bikes, and Kayaks. So now, that you are aware that this tour is a lot of fun, it is time you book your <a href='desertdaytravels.com/trip/dubai-fountain-boardwalk/'>Dubai Fountain tickets</a> with desertdaytravels.</p><h3><span style='color: #ff6600;'>Itineraries Of The Tour</span></h3><div><ul><li><i class='fa-solid fa-circle'></i>This unique tour will also allow you to view the renowned <a href='desertdaytravels.com/trip/burj-khalifa-tickets/'>Burj Khalifa</a> up and close.</li><li><i class='fa-solid fa-circle'></i>Dubai Fountain Lake ride tickets will have access to pedal boats too, which will give you the chance to have a good time with your family.</li><li><i class='fa-solid fa-circle'></i>Take a ride on the water bikes if you wish to experience something thrilling.</li><li><i class='fa-solid fa-circle'></i>You also have the option of selecting an Abra ride for half an hour, and you can also view the fountain show from the boat.</li><li><i class='fa-solid fa-circle'></i>There are six different packages for you to choose from to enjoy your time at the Dubai Fountain.</li><li><i class='fa-solid fa-circle'></i><a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>Transportation services</a> will be available at additional charges.</li></ul></div><h3><span style='color: #ff6600;'><strong>Things To Remember Before You Sign Up For The Tour</strong></span></h3><ul><li><i class='fa-solid fa-circle'></i>The tickets that you will book will be valid only for the day of your visit.</li><li><i class='fa-solid fa-circle'></i>You must carry a valid proof of identity for this tour.</li><li><i class='fa-solid fa-circle'></i>If you are travelling from a foreign country, then you will have to carry a valid passport.</li></ul><h3><strong><span style='color: #ff6600;'>Nearby Attractions to Dubai Fountain Lake Ride\u00a0</span></strong></h3><ul><li><i class='fa-solid fa-circle'></i>Burj Khalifa</li><li><i class='fa-solid fa-circle'></i>Dubai Miracle Garden</li><li><i class='fa-solid fa-circle'></i><a href='desertdaytravels.com/trip/dubai-mall-aquarium/'>Dubai Aquarium and Underwater Zoo</a></li><li><i class='fa-solid fa-circle'></i><a href='desertdaytravels.com/trip/the-green-planet-ticket-dubai/'>Green Planet Dubai</a></li></ul><hr/><h2><strong><span style='color: #ff6600;'>FAQs\u00a0</span></strong></h2><h3><strong>Q. How long will it take to get through the Dubai Fountain Lake ride?</strong></h3><p>Well, there is no time limit; you can explore the place at your own pace.</p><h5></h5><h3><strong>Q. Is this a child-friendly tour?</strong></h3><p>Absolutely, you can bring your kids along, but they must always be supervised.</p><h5></h5><h3><strong>Q. </strong><strong>What is the maximum height that this fountain can reach?</strong></h3><p>The height that the water from the fountain goes up to is equivalent to 45 floors of a building. The entire show is mesmerising. So, do not hesitate to take this ride, as you will remember it for a lifetime.</p><h5></h5><h3><strong>Q. What are the timings?</strong></h3><p>The dancing fountain show is from 5.45 PM to about 11.30 PM. The show is for just five minutes, but it is the most spectacular sight in the world.</p><h3><strong>Q. What are the prices for the Dubai fountain lake ride tickets?</strong></h3><p>There is no charge for the fountain show. However, if you wish to go on the Boardwalk then it is chargeable.</p><h5></h5><h3><strong>Q. How do I book tickets?</strong></h3><p>You can book tickets for the Dubai Fountain Lake Ride online through our website. Simply select the date and time you wish to go and complete the booking process. Alternatively, you can directly call us, and we will book the ticket for you. We suggest that you book tickets well in advance, as there\u2019s a considerable rush of visitors. After all, it\u2019s the tallest performing fountain in the world, boasting a length of as much as 900 ft. which matches more than two football fields.</p><h5></h5><h3><strong>Q. What are the operating hours of the Dubai Fountain Lake Ride?</strong></h3><p>The Dubai Fountain Lake Ride operates daily from 5:45 PM to 10:45 PM, subject to availability and weather conditions. However, operating hours may vary on special occasions or holidays. So, we advise you to check the timing before visiting, especially during the holy month of Ramadan.</p><h5></h5><h3><strong>Q. What is the capacity of each boat for the Dubai Fountain Lake ride?</strong></h3><p>Each boat for the Dubai Fountain Lake Ride can accommodate up to six passengers. So, if you have a larger group, you can book multiple boats or consider a private rental.\u00a0 Apart from that, we have multiple options if you wish to <a href='desertdaytravels.com/trip-tag/yacht-rental-dubai/'>rent a private yacht</a> and sail through the wide ocean in Dubai. Moreover, those visiting in large groups are urged to make their bookings in advance to avoid the rush. Booking in advance also helps the authorities make the necessary arrangements. Instead of booking multiple boats, we suggest that you book a boat on a private basis. If it offers privacy so that you can have a wonderful time with your group.</p><h5></h5><h3><strong>Q. Is there a dress code for the Dubai Fountain Lake Ride?</strong></h3><p>There is no specific dress code for the Dubai Fountain Lake Ride, but we recommend wearing comfortable clothing and shoes. Please note that you may get wet during the ride, so it's advisable to bring a change of clothes. Alternatively, you may bring a raincoat during the rainy season.</p><h5></h5><h3><strong>Q. Can I bring food and drinks to the Lake Ride?</strong></h3><p>No, outside food and drinks are not allowed on the Dubai Fountain Lake Ride. However, there are food and beverage outlets nearby where you can purchase refreshments before or after your ride. So, you can grab a quick bite at these eateries at any moment, and they cater to visitors of different budgets.</p><h5></h5><h3><strong>Q. What does the Dubai Fountain Lake ride cost?</strong></h3><p>Dubai Fountain Lake Ride cost is AED 20 per entry.</p><h3><strong>Q. What are the other activities happening in the Dubai Mall?</strong></h3><p>1. Dubai Mall Aquarium tickets</p><p>2. Burj Khalifa Tickets</p><p>3. <a href='desertdaytravels.com/trip/vr-park-dubai-tickets/'>Dubai VR Park\u00a0</a></p><p>4. <a href='desertdaytravels.com/trip/dubai-kidzania-tickets/'>Dubai Kidzania Tickets</a></p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Abu Dhabi City Tour",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "149",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "8 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Abu Dhabi Category Page",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Abu Dhabi City Tour",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Plan your Abu Dhabi City Tour with desertdaytravels for a memorable experience in this magnificent city.Here is a short overview of the tour. The Abu Dhabi City Tour package promises to cover the city in a way that shows the culture and the modern side of the capital city. One can also book the Abu Dhabi city tour from Dubai as well.Also, with desertdaytravels, you can avail the option of pick-up from your hotel and a drop-off at your location.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Abu Dhabi City Tour</td></tr><tr><td>Tour Type</td><td>City Tour</td></tr><tr><td>Duration</td><td>8 hours</td></tr><tr><td>Time</td><td></td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>AED 149</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Ferrari World (photo stop)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>BAPS Hindu temple (not operational on Mondays)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Abu Dhabi Heritage Village</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Drive through Grand Corniche (photo stop)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Emirates Palace (photo stop)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Islamic Art Gallery</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Sheikh Zayed Grand Mosque</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>You can also opt for this tour with Qasr Al Watan (tickets included)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>This tour is available with Ferrari World (tickets included)</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Ferrari World (photo stop)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>BAPS Hindu temple (not operational on Mondays)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Abu Dhabi Heritage Village</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Drive through Grand Corniche (photo stop)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Emirates Palace (photo stop)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Islamic Art Gallery</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Sheikh Zayed Grand Mosque</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>You can also opt for this tour with Qasr Al Watan (tickets included)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>This tour is available with Ferrari World (tickets included)</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<h3></h3><h3><strong><span style='color: #ff6600;'>Abu Dhabi City Tour</span></strong></h3><p>This shared tour itinerary has been carefully planned to visit the significant sights of Abu Dhabi, even if you are looking for the Abu Dhabi city tour from Dubai. The tour plan is a mix of the ancient sites of Abu Dhabi and the most modern architecture of the city with all its splendour. So, on this customised city tour, you get an opportunity to look at the most outstanding <a href='desertdaytravels.com/trip-tag/abu-dhabi-tours-attractions/'>attractions in Abu Dhabi</a> city.</p><h3><strong><span style='color: #ff6600;'>Abu Dhabi City with Ferrari World</span></strong></h3><p><span style='font-weight: 400;'>For all those people who want to enjoy all the popular attractions of Abu Dhabi, it\u2019s time to go for the <a href='desertdaytravels.com/trip/ferrari-world-abu-dhabi/'>Ferrari World Abu Dhabi</a>. In this tour, with all the popular sites, you are going to enjoy the Ferrari World. Entering it is like exhilarating the world of Formula 1. Abu Dhabi city is known for its rich cultural heritage and old-world charm. Moreover, it\u2019s a growing centre of business in Abu Dhabi. Also, on this tour, you can enjoy the magnificent <a href='desertdaytravels.com/trip/sheikh-zayed-grand-mosque-tour/'>Sheikh Zayed Grand Mosque</a>.\u00a0</span></p><h3><strong><span style='color: #ff6600;'>What to Expect on the Abu Dhabi City Tour</span></strong></h3><p>Get ready to experience the most perfect Abu Dhabi City Tour packages with desertdaytravels Tourism. Firstly, we will take you to Ferrari World for a photo stop, which has the world's fastest roller coaster! Moreover, we get to visit the largest Hindu stone temple outside India, <a href='desertdaytravels.com/trip/baps-swaminarayan-temple-abu-dhabi/'>BAPS Swaminarayan temple</a>. Secondly, we visit the Abu Dhabi Heritage Village, this traditional oasis offers a glimpse of Abu Dhabi's past. Furthermore, we drive through Abu Dhabi Corniche where we stop for photos. Then, we take you to Emirates Palace for a photo stop. Then, you visit the iconic Islamic Art Gallery. Finally, to end this marvellous trip we visit the Sheikh Zayed Grand Mosque to complete your cultural venture.</p><h2><strong><span style='color: #ff6600;'>Important Information</span></strong></h2><p>It is essential to take note of the following information while you take the tour.</p><ul><li><i class='fa-solid fa-circle'></i>You can avail of the Dubai to Abu Dhabi transfer option from the sharing or private option. It depends on the booking selection.</li><li><i class='fa-solid fa-circle'></i>The arrangement of pick up is done only from the hotel and residence of your choice in Dubai and not from the airport in any case.</li><li><i class='fa-solid fa-circle'></i>Pick-up from other areas than the hotel or residence can also be availed on request with additional charges.</li><li>Abu Dhabi city tours from Dubai inclusive of sharing transfers are also available from Bur Dubai, Deira, and Sheikh Zayed.</li><li>BAPS Hindu temple will stay closed on Mondays. Hence, it will be excluded from your itinerary if you decide to go on a tour on Mondays.</li><li><i class='fa-solid fa-circle'></i>Follow the strict dress code while you enter the Sheikh Zayed mosque. You have to wear dresses that fully cover the body. Shorts, sleeveless shirts, skirts, swimwear, beachwear, and any transparent clothing are a strict \u2018no-no\u2019 to this place.</li><li><i class='fa-solid fa-circle'></i>While you select sharing transfers please note that the pickup and drop-off timings can be changed by 30 to 60 minutes, depending on the conditions of the traffic near your location.</li><li><i class='fa-solid fa-circle'></i>The pickup timings for the Abu Dhabi Tour will be somewhat different on Fridays.</li><li><i class='fa-solid fa-circle'></i>No chewing gum or drinking in public.</li><li><i class='fa-solid fa-circle'></i>No visit to the Grand Mosque on Fridays.</li></ul><p>Abu Dhabi the capital city of the UAE is also one of the favourite cities amongst the tourists. The city offers so many attractions from <a href='desertdaytravels.com/trip-tag/theme-parks-in-dubai/'>theme parks</a>, <a href='desertdaytravels.com/trip-tag/water-parks-in-dubai/'>water parks</a>, mosques, to other famous attractions. Thus, you must connect with desertdaytravels Tourism to book your Abu Dhabi tour package.</p><h2><strong><span style='color: #ff6600;'>FAQs\u00a0</span></strong></h2><h3><strong>Q. Is photography allowed on the tour and permitted at Sheikh Zayed Mosque and other places?</strong></h3><p><span style='color: #000000;'>Of course, photography is allowed and in fact, you are recommended to carry a camera along with you so you can capture the breathtaking marvels of Abu Dhabi, as you visit the places one by one.</span></p><h3><span style='color: #000000;'><strong>Q. Will we have a guide with us along the tour?</strong></span></h3><p><span style='color: #000000;'>Yes, a professional tour guide will accompany you. Our tour guides are professional yet very friendly and hospitable. They will educate you about the history and culture of the UAE and tell you fascinating facts about the places you are visiting. So, you can get a tour guide from us while booking your Abu Dhabi city tour packages.\u00a0</span></p><h3><span style='color: #000000;'><strong>Q. What is the dress code for the tour?</strong></span></h3><p><span style='color: #000000;'>Although there is no specific dress code or colour, one must maintain the decorum of religious and public places and adhere to modest dress. Especially for the Grand Sheikh Zayed Mosque and <a href='desertdaytravels.com/trip/qasr-al-watan-abu-dhabi-tickets/'>Qasr Al Watan</a> Library, men must wear loose apparel such as long trousers and casual shirts while women must wear lighter long-sleeved loose tops and long skirts or trousers. Also, women should compulsorily wear headscarves.</span></p><h3><span style='color: #000000;'><strong>Q. When does the tour start and end?</strong></span></h3><p><span style='color: #000000;'>The tour starts around 8:00 A.M. and you have to arrive at the pick-up spot by that time. We will drop you off around 7 P.M. or so, once the city tour is over.</span></p><h3><span style='color: #000000;'><strong>Q. Are pick-up and drop-off services included?</strong></span></h3><p><span style='color: #000000;'>Yes, the pick-up and drop-off services are included from and to the central locations in Dubai. So you can opt for <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a> accordingly.</span></p><h3><strong>Q. What is the starting price for the Abu Dhabi city tour package from Dubai?</strong></h3><p>The Abu Dhabi tour packages start from AED 149-175. However, the price may also vary depending on the type of transfers you select like private or shared.</p><h3><span style='color: #000000;'><strong>Q. Is lunch included in the Abu Dhabi city tour package?</strong></span></h3><p><span style='color: #000000;'>No, lunch is not there in the full-day sightseeing tour of Abu Dhabi. You can stop at a nice location of your choice or take recommendations from your tour guide for lunch spots.</span></p><h3><span style='color: #000000;'><strong>Q. Is there any child policy for fares?</strong></span></h3><p><span style='color: #000000;'>Yes, there is a child rate available. Kids aged between 3 to 10 years will be eligible for child rates. While for kids below 2 years, entry is free.</span></p><h3><span style='color: #000000;'><strong>Q. What other attractions are there in Abu Dhabi?</strong></span></h3><p><span style='color: #000000;'>Many attractions are present in Abu Dhabi city, such as <a href='desertdaytravels.com/trip/ferrari-world-abu-dhabi/'>Ferrari World Tickets</a>, <a href='desertdaytravels.com/trip/warner-bros-abu-dhabi-tickets/' style='color: #000000;'>Warner Bros</a>, <a href='desertdaytravels.com/trip/yas-waterworld-abu-dhabi/'>Yas Water World</a> &amp; Sea World.</span></p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

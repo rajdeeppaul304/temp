@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Musandam Oman Tour",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "350",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "8 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dhow Cruise",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Musandam Oman Tour",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "There are times when you need a break and an escape. Firstly, we welcome you to the Musandam Oman Tour with desertdaytravels Tourism, which gives you a peek into the breathtaking natural splendours of the Arabian Peninsula. Secondly, you\u2019ll be left speechless by the stunning beauty of the Musandam trip, wondering how it has remained a hidden gem of the Arab world even today. So, choose our diverse Musandam Tour and Musandam Trip Packages with exclusive Musandam Oman Tour packages.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Musandam Oman</td></tr><tr><td>Tour Type</td><td>International Tour</td></tr><tr><td>Duration</td><td>8 hours</td></tr><tr><td>Time</td><td>6:30 AM to 7:30 AM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>AED 450</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>A long 5-hour Musandam dhow cruise after departure from the Dibba harbour</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>A sumptuous buffet spread for lunch as well as frequent refreshments</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Banana Boat ride</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Fishing and swimming where due care of your safety is taken</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Snorkeling with proper equipment</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>We arrange pick-up or drop if you pick the sharing/private transport option</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>All personal expenses</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>A long 5-hour Musandam dhow cruise after departure from the Dibba harbour</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>A sumptuous buffet spread for lunch as well as frequent refreshments</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Banana Boat ride</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Fishing and swimming where due care of your safety is taken</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Snorkeling with proper equipment</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>We arrange pick-up or drop if you pick the sharing/private transport option</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>All personal expenses</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><div><h3><span style='color: #ff6600;'><strong>Highlights</strong></span></h3><ul><li><i class='fa-solid fa-circle'></i>A chance to visit Musandam, the \u2018Norway of the Middle East'.</li><li><i class='fa-solid fa-circle'></i>A thorough exploration of the place with a guide to show you around.</li><li><i class='fa-solid fa-circle'></i>All the hassle of crossing the border into Oman is taken care of.</li><li><i class='fa-solid fa-circle'></i>A drive through scenic Dibba and a ride on a traditional Omani dhow.</li><li><i class='fa-solid fa-circle'></i>Take in the beauty of the scenery here while sailing down fjords of crystal-clear waters with stunning mountains in the backdrop.</li><li><i class='fa-solid fa-circle'></i>If you\u2019re lucky, you might spot a few dolphins swimming in the turquoise waters of the fjords.</li><li><i class='fa-solid fa-circle'></i>Enjoy a sumptuous buffet spread serving both vegetarian and non-vegetarian food.</li><li><i class='fa-solid fa-circle'></i>Participate in thrilling water sports activities like snorkelling, swimming or a banana boat ride.</li></ul><h3><span style='color: #ff6600;'><strong>What to Expect in the Musandam </strong></span><span style='color: #ff6600;'><b>Oman Tour</b></span></h3></div><p>After a drive through some of the most picturesque places, making our way through the Hajar Mountains, we reach Dibba Harbor. Also, here we take you aboard a traditional Omani dhow decked up in classic Arabian style, which makes you feel like a Bedouin. So, settle down on the beautiful and soft carpets and pamper yourself in luxury with comfortable pillows as the dhow sails through the fjords with the mountains on both sides. You\u2019ll simply love the calm and peace of the place while admiring the scenery.</p><p>The Musandam Dibba is indeed an absolute paradise for those who love the many versions of nature and you are sure to find the sparkling turquoise waters against the backdrop of the grey rock mountains a stunning sight. Moreover, after we have picked you up from your location, we drive you through some of the UAE\u2019s most scenic places, covering the cities of Sharjah, Umm Al Quwain, and Ras Al Khaimah. Also, there are halts at the busy Carpet Market where you can pick a souvenir.</p><p>If you love water sports, you may opt for the thrilling <a href='desertdaytravels.com/trip/banana-boat-ride/'>banana boat ride</a> or dive into the crystal-clear water to swim or snorkel, taking in the amazingly colourful beauty of the world of fishes. If you\u2019re looking for a more relaxing activity, you can go fishing on a <a href='desertdaytravels.com/trip/33-ft-yacht/'>33 Ft yacht</a>.</p><p>No tour is complete without sumptuous food. We won\u2019t disappoint you as we treat you to a sumptuous buffet complete with the most delectable cuisine. Not only that, we serve you snacks and refreshments all along to keep you bubbling with energy.</p><h3><strong><span style='color: #ff6600;'>The Best Time to Visit Musandam, Oman\u00a0</span></strong></h3><p>The weather in the UAE is at its best between October and February. With this activity being an outdoor one, the weather matters. Therefore, the best time to visit is October to February. Dubai is a bit crowded during this time, with the schools on vacation and the Dubai Shopping Festival being held as well. However, if you can bear with the crowd, the UAE is absolutely charming from October to February, giving you a holiday of a lifetime.</p><h2><strong><span style='color: #ff6600;'>FAQs</span></strong></h2><h3><b>Q. What is the Musandam Oman Tour about?\u00a0\u00a0</b></h3><p><span style='font-weight: 400;'>The Musandam Oman Tour is a relaxing getaway offering breathtaking views and exploration of the Arabian Peninsula's natural splendour.</span></p><h3><b>Q. What activities can I enjoy during the Musandam Trip?\u00a0\u00a0</b></h3><p><span style='font-weight: 400;'>During the Musandam Trip, you can enjoy activities like swimming, snorkelling, banana boat rides, and a <a href='desertdaytravels.com/trip-tag/dhow-cruise-dubai/'>Dhow cruise</a> through the stunning fjords.</span></p><h3><b>Q. Are there any Musandam Trip Packages available?\u00a0\u00a0</b></h3><p><span style='font-weight: 400;'>Yes, various Musandam Trip Packages are available that include guided tours, <a href='desertdaytravels.com/trip-tag/water-sports-in-dubai/'>water sports</a>, and meals to enhance your experience.</span></p><h3><b>Q. What is included in the Musandam Oman Tour packages?\u00a0\u00a0</b></h3><p><span style='font-weight: 400;'>Musandam Oman Tour packages typically include <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a>, guided tours, water activities, and a sumptuous buffet meal on a traditional dhow.</span></p><h3><b>Q. Can I customise my Musandam Trip Packages?\u00a0\u00a0</b></h3><p><span style='font-weight: 400;'>Yes, you can customise Musandam Trip Packages to include specific activities and preferences, ensuring a personalised travel experience.</span></p><h3><b>Q. What is the best time to book Musandam Oman Tour packages?\u00a0\u00a0</b></h3><p><span style='font-weight: 400;'>The best time to book Musandam Oman Tour packages is between October and February when the weather is most pleasant for outdoor activities.</span></p><h3><b>Q. Are there any special rates for children in Musandam Trip Packages?\u00a0\u00a0</b></h3><p><span style='font-weight: 400;'>Yes, Musandam Trip Packages offer special child rates for children between 3-10 years, while children below 3 years enjoy free entry.</span></p><h3><b>Q. How far in advance should I book my Musandam Tour?\u00a0\u00a0</b></h3><p><span style='font-weight: 400;'>It is recommended to book your Musandam Tour at least 3 days in advance to ensure availability and a hassle-free experience.</span></p><h3><span style='color: #000000;'><strong>Q. What are the various activities in the Musandam Dibba Tour?</strong></span></h3><p>The place itself is so beautiful; you cannot have enough of it. Explore the place thoroughly with a guide and learn more about the Arabian Peninsula. Also, apart from the enchanting landscape, you can spot some dolphins diving in the serene waters. Apart from that, you can also go to the <a href='desertdaytravels.com/trip-tag/things-to-do-atlantis/'>Atlantis the Palm</a> Hotel, and then you can also visit the Atlas Village In the Atlantis Hotel, do activities like <a href='desertdaytravels.com/trip/swim-with-dolphins-dubai/'>Dolphin swimming</a>, Dolphin diving, and play\u00a0 Moreover, you will have the opportunity to take a Dhow Cruise ride through the waters of Dibba. You can enjoy sumptuous veg/ non-veg meals aboard. Above all, there is an awesome chance for you to try out thrilling water sports such as swimming, snorkelling, and banana boat rides.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

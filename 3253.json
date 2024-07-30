@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Dubai Helicopter Ride",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "715",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "1 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dubai City Tours Catagory",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Dubai Helicopter Ride",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "The glittering city of Dubai is adorned with a stunning skyline. It gives you vistas you\u2019ll rarely find in other cities. The city is home to some iconic structures like the Burj Al Arab, the Sheikh Zayed Mosque, and of course, the Burj Khalifa, the world\u2019s tallest building. So, it\u2019s one thing to see the Burj Khalifa and the very impressive Dubai skyline as you go around the city. But we are talking of an out-of-this-world experience here. It\u2019s enjoying a bird\u2019s eye view of Dubai while you are up in the sky on a Dubai helicopter tour. Yes, we mean it. We are talking about a helicopter ride across the skies of Dubai at the best Dubai helicopter ride cost.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Helicopter Ride</td></tr><tr><td>Tour Type</td><td>Adventure Activities</td></tr><tr><td>Duration</td><td>Customisable</td></tr><tr><td>Time</td><td>8 AM \u2013 5 PM</td></tr><tr><td>Days of Operation</td><td></td></tr><tr><td>Starting Price</td><td></td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Bird's eye view of Dubai</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Extraordinary experience</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Private Transfers (available at an additional charge)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Food and beverages</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Remark</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Guests need to carry the original passport</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Bird's eye view of Dubai</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Extraordinary experience</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Private Transfers (available at an additional charge)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Food and beverages</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Remark</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Guests need to carry the original passport</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div><p>\u00a0</p></div><p>\u00a0</p><hr/><ul><li><h3><span style='color: #ff6600;'><span style='color: #ff6600;'><b>15 Minutes Dubai helicopter tour</b></span></span></h3></li></ul><p>The 12-minute ride departs from the helipad at the Dubai Police Academy and takes you flying above Palm Jumeirah and the iconic sail-shaped <a href='desertdaytravels.com/trip/inside-the-burj-al-arab-tour/'>Burj Al Arab</a>. It\u2019s a mesmerising sight as you look down at the vast expanse of Dubai while flying across the beautiful beaches of Dubai and the World Beaches. You\u2019ll love watching the amazing Burj Khalifa, the world\u2019s tallest building, and the Dubai Canal. Also, the views of the gorgeous Dubai skyline from the helicopter are just breathtaking! The Dubai helicopter ride cost Will be AED 921.</p><hr/><ul><li><h3><span style='color: #ff6600;'><strong>17 Minutes <b>Dubai helicopter ride\u00a0</b></strong></span></h3></li></ul><p>The 17-minute ride also departs from the Dubai Police Academy helipad. After the helicopter takes to the skies, you\u2019ll be left spellbound by the stunning views of Dubai\u2019s amazing skyline with iconic buildings. You\u2019ll be flying right above the <a href='desertdaytravels.com/trip/burj-khalifa-tickets/'>Burj Khalifa</a>. We\u2019ll also cover the fascinating Palm Jumeirah and the Atlantis Hotel. You\u2019ll love looking down at the sail-shaped hotel, the Burj Al Arab, the Worlds Islands, and the much-acclaimed Beach Corniche. We surely guarantee you, that you\u2019ll remember this ride forever.\u00a0 And the Dubai helicopter ride cost will be AED 980.</p><hr/><ul><li><h3><span style='color: #ff6600;'><strong>22 Minutes <b>Dubai helicopter ride\u00a0</b></strong></span></h3></li></ul><p>It\u2019s exciting all the way after the take-off from the Dubai Police Academy helipad. This ride takes you on an unforgettable flight over Palm Jumeirah, <a href='desertdaytravels.com/trip-tag/things-to-do-atlantis/'>Atlantis the Palm</a>, and the World Islands. You\u2019ll simply love looking down at Dubai\u2019s beautiful coastline and beaches. Views of the Burj Al Arab and the Burj Khalifa will leave you marvelling at the architectural marvels that they are. Watching old Dubai\u2019s Heritage Wind Towers, the Old Souk, and the famous Dubai Creek from the skies is a different experience altogether\u2014simply unforgettable. Apart from that, a Dubai helicopter ride costs just 6353 AED for a private helicopter.</p><hr/><ul><li><h3><span style='color: #ff6600;'><strong>30 minutes Grand ride</strong></span></h3></li></ul><p>After we take off from the Dubai Police Academy helipad, we take you on a flight above Dubai\u2019s architectural landmarks like the <a href='desertdaytravels.com/trip/ain-dubai-tickets/'>Ain Dubai</a>, the world\u2019s largest Ferris wheel. We\u2019ll also cover Bluewaters Island, home to the famous Caesar\u2019s Bluewater's Dubai and Caesar\u2019s Resort Bluewater. You\u2019ll also enjoy a breathtaking view of Emirates Hills, Jumeirah Lakes Towers, and the artificial canal city of Dubai Marina. Moreover, the sight of the Burj Al Arab and the Palm Jumeirah is just stunning!\u00a0 Thus, don\u2019t miss the Sea Horse Island and the Bvlgari Resort, Dubai. Additionally, the main attraction on this Dubai helicopter tour is the world\u2019s biggest picture frame, the <a href='desertdaytravels.com/trip/dubai-frame-tickets/'>Dubai Frame</a>.</p><hr/><ul><li><h3><strong><span style='color: #ff6600;'>40 Minutes Odyssey Ride\u00a0</span></strong></h3></li></ul><p>For the most fulfilling experience, go for the 40-minute flight. You\u2019ll get to enjoy a panoramic view of Jumeirah Beach, the Burj Al Arab, the Worlds Islands, the Palm Jumeirah, and the Burj Khalifa which is just exceptional, to say the least. You also get to enjoy spectacular sights of other places like the Meydan Race Course, Emirates Hills, Jebel Ali Port, and the Jebel Ali Palm. Indeed, this longest of the helicopter rides is truly an out-of-this-world experience.</p><hr/><h2><strong><span style='color: #ff6600;'>FAQs</span></strong></h2><h3><strong>Q. What are the duration options for the Dubai helicopter ride?</strong></h3><p>There are various options for helicopter rides in Dubai. So, we have 12 minutes, 17 minutes, 22 minutes, or 40 minutes helicopter ride, and you can choose anyone.</p><h3><strong>Q. What is the Dubai helicopter ride cost?</strong></h3><p>The Dubai helicopter ride cost is AED 715. The price depends on the duration which you choose while booking the Dubai Helicopter Tour.</p><h3><strong>Q. Is there any minimum age requirement to try helicopter rides?</strong></h3><p>We allow anyone above four years to try the Dubai helicopter ride. However, infants can't ride due to safety reasons. Besides, pregnant women at 32 weeks can try the activity, beyond that, there are strict prohibitions.</p><h3><strong>Q. Can I go for the helicopter ride solo?</strong></h3><p>A person cannot try the ride solo. A minimum of two people is necessary. Hence, you will go with the pilot or try the ride with a partner to double the fun.</p><h3><strong>Q. Where can I book Helicopter Tours in Dubai?</strong></h3><p>You can book the best Helicopter Tours in Dubai from desertdaytravels. Hence, choose different durations for your tours and enjoy the city's views.</p><h3><strong>Q. Is the activity safe for everyone?</strong></h3><p>The helicopter ride in Dubai is safe. Moreover, you can try any option, and we guarantee your experience will be magical. Moreover, our helicopters are safe, and pilots are well-trained. Also, you can book the tickets from us to get direct entry without waiting in the queue, especially if you visit randomly.</p><h3><strong>Q. Will I get the opportunity to see Burj Khalifa?</strong></h3><p>Our 12-minute and 22-minute helicopter ride covers the major <a href='desertdaytravels.com/trip-tag/dubai-tourist-places/'>Dubai tourist attractions</a>, including the majestic Burj Khalifa. Furthermore, it is the tallest skyscraper in the world and is a work of art featuring 163 floors. Therefore, you will cherish the mesmerising views of the Burj Khalifa while the helicopter hovers in the sky.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

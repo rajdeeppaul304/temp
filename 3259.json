@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Zipline in Dubai Marina",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "699",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "2 hours 30 minutes",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Zipline in Dubai Marina",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Experience the thrilling Zipline Dubai in Dubai Marina at the best price with desertdaytravels Tourism. The fantastic city of Dubai is surely a treasure trove for tourists of every hue. Moreover, with several attractions like massive shopping malls, huge buildings, pristine beaches by the dazzling sea, and innumerable exciting gaming zones, it\u2019s no wonder that Dubai attracts millions of tourists every year from all across the world. Besides the usual tourist attractions, Dubai offers a lot of opportunities for lovers of adventure sports as well. So, try the Xline Dubai Marina for the best zip lining in Dubai.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Zipline Dubai</td></tr><tr><td>Tour Type</td><td>Adventure activities</td></tr><tr><td>Duration</td><td>20 \u2013 25 Mins</td></tr><tr><td>Time</td><td>10 AM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>699/- AED</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Tickets to Zipline Dubai</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusion</strong></span></p><div class='ea-card sp-ea-single ea-expand'><div class='sp-collapse spcollapse show' data-parent='#sp-ea-44460' id='collapse444601'><div class='ea-body'><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Transfers (available on additional charges)</span></li></ul></div></div></div><div class='ea-card sp-ea-single'><h3 class='ea-header'></h3></div>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Tickets to Zipline Dubai</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusion</strong></span></p><div class='ea-card sp-ea-single ea-expand'><div class='sp-collapse spcollapse show' data-parent='#sp-ea-44460' id='collapse444601'><div class='ea-body'><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Transfers (available on additional charges)</span></li></ul></div></div></div><div class='ea-card sp-ea-single'><h3 class='ea-header'></h3></div>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<p>\u00a0</p><div></div><h3><strong><span style='color: #ff6600;'>What to expect in Zipline Dubai</span></strong></h3><p>Welcome to the world\u2019s longest urban zipline, right in Dubai Marina. The Dubai Zipline operates at a height of over 170 metres from the ground. Starting at the top of Amwaj Towers, you would do a zip-zap-zoom on the zipline and then descend to the Dubai Marina at a pulse-pounding speed of 80 mph. Quite similar to an eagle swooping down on its prey! So, are you excited to Zip lining in Dubai.</p><p>The magnificence of Dubai will lie below you as you swing on the zipline. You will experience the stunning architecture of the Dubai Marina rush up towards you as you are zipping down. Look ahead \u2013 the mesmerising beauty of the Dubai coastline and the azure blue Persian Gulf stretching across the horizon would soothe your senses. And you would be fulfilling your dreams of being a Superman as you zip down, belly-down, attached to the harness. The best part of the day would be during the evening time for this activity \u2013 the glorious views of the sunset would leave you spellbound.</p><h3><strong><span style='color: #ff6600;'>Trip Highlights of Xline Dubai Marina</span></strong></h3><ul><li><i class='fa-solid fa-circle'></i>Pickup is available from hotels in central Dubai locations for Xline Dubai Marina (Deira, Bur Dubai, Sheikh Zayed, Marina).</li><li><i class='fa-solid fa-circle'></i>The safety instructors, with extensive experience, would ensure that you have adequate information about the safety measures. Equipment like the harness, trolley, helmet, etc. would be checked &amp; rechecked to ensure that they are fulfilling all the requisite measures.</li><li><i class='fa-solid fa-circle'></i>Enjoy magnificent views of the gulf, yachts, and high-rises below you, including the stunning Dubai Eye, Palm Jumeirah, Princess Tower and Cayan Tower. Additionally, get your experience recorded for later viewing.<br/><h3><strong><span style='color: #ff6600;'>How to get to Dubai Marina?</span></strong></h3><ul><li><i class='fa-solid fa-circle'></i>Bus: Take bus no. 8 and get down at the Marina Promenade. From there, it\u2019s a small distance away from the Zipline Dubai.</li><li>Metro: Get down at the Jumeirah Lake Towers metro station. Cross over the overpass and reach the mall.</li><li>Cab/self-driven rented vehicle: From Sheikh Zayed Road, take exit 32 to reach Dubai Marina. Additionally, you can avail desertdaytravels Tourism's hassle free <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation service.</a></li><li>Tram: Get down at the Dubai Marina Mall station and walk to the mall.</li></ul><h3><strong><span style='color: #ff6600;'>Things to Remember</span></strong></h3><ul><li><i class='fa-solid fa-circle'></i>It\u2019s mandatory to carry your approved ID proof for Xline Dubai (passport/ any other government-authorized document).</li><li><i class='fa-solid fa-circle'></i>You would get a small locker to keep your valuables like wallets, mobiles, etc. Also, please don\u2019t carry big luggage with you.</li><li><i class='fa-solid fa-circle'></i>Pregnant women/ people with cardiac troubles are not allowed to participate in the Dubai zipline activity.</li><li><i class='fa-solid fa-circle'></i>Be dressed in comfortable clothes and shoes. Keep in mind the local sensibilities when you are dressing.</li><li><i class='fa-solid fa-circle'></i>The age of the participant should be between 12 to 65 years. However, participants below 18 years of age should be accompanied by an adult member.</li><li><i class='fa-solid fa-circle'></i>You should weigh between 50 &amp; 100 kg and have a minimum height of 130 cm</li><li><i class='fa-solid fa-circle'></i>Maintain social distancing &amp; hygiene norms as per instructions.</li><li><i class='fa-solid fa-circle'></i>No refunds are applicable in the event of the activity not happening or the guest not turning up, due to whatever reasons at Dubai zipline.</li></ul><h2><strong><span style='color: #ff6600;'>FAQs\u00a0</span></strong></h2><h3><strong>Q. Is zip lining in Dubai safe?</strong></h3><p>Yes, indeed. A team of highly qualified and experienced staff operate the Xline Dubai Marina and they have zero tolerance for safety negligence. Also, regular maintenance work is carried out.</p><h3><strong>Q. Can you take videos/photos of yourself while pursuing Dubai Zipline?</strong></h3><p>You won\u2019t be able to take a selfie photo/video while doing Xline in Dubai Marina. However, an action camera will be attached to your helmet which will record the entire activity. Additionally, these photos and videos would be sent to the email used for registrations.</p><h3><strong>Q. Is any prior experience necessary for participating in the zip lining in Dubai?</strong></h3><p>Not at all. Professional instructors would guide you at every step regarding safety mechanisms and other details to make the experience certainly a perfect mix of adrenaline rush and bliss!</p><h3><strong>Q. How high is the Zipline Dubai?</strong></h3><p>The Zipline Dubai has you soaring through the skies of Dubai at a height of 170 metres. So, the adrenaline-pumping ride gives you a stunning view of the <a href='desertdaytravels.com/trip-tag/dubai-tourist-places/'>attractions in Dubai</a>.</p><h3><strong>Q. Are there any minimum height and weight requirements for a ride on the Zipline Dubai?</strong></h3><p>Yes, surely there are. One needs to be at least 130 cm tall and should weigh between 50 and 100 kg. It\u2019s a must that the visitor\u2019s medical condition is stable at the time of the ride.</p><h3><strong>Q. What kind of clothes should I wear for Zip lining in Dubai?</strong></h3><p>We recommend that you wear comfortable clothes that allow free movement of the limbs. You should avoid free flowing garments since you will be zipping through strong winds. Closed shoes are a must. Please avoid wearing any jewellery or accessories.</p><h3><strong>Q. What are the attractions that can be viewed during the Xline Dubai Marina, Zipline Dubai ride?</strong></h3><ul><li>The zipline that has you zooming from Amwaj Towers to the Dubai Marina Mall offers stunning views of Dubai\u2019s stunning skyline and beautiful scenery. Some of the places deserve special mention. Also don't forget to see iconic <a href='desertdaytravels.com/trip/burj-khalifa-tickets/'>Burj Khalifa</a> and <a href='desertdaytravels.com/trip/inside-the-burj-al-arab-tour/'>Burj Al Arab</a> during ziplining.</li><li>You can take in amazing views of the coastline. The waves rushing towards the lovely white sand beaches and then withdrawing into the turquoise waters are a treat for the eyes.</li><li>You can also take in spectacular views of the largest Ferris wheel in the world, the Dubai Eye. Furthermore, the giant wheel with its glass cockpits gleaming in the bright sunlight is a beautiful sight indeed.</li><li>The views of the Palm Jumeirah are spectacular as well. This large human-made cluster of islands looks just amazing as you enjoy the thrill of zipping on Dubai. Also, shape of a palm tree, the Palm Jumeirah is full of stunningly posh restaurants and residences. Additionally, the <a href='desertdaytravels.com/trip-tag/yacth-rental/'>luxurious yachts</a> look just like toys as you glide along the Zipline.</li></ul></li></ul>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

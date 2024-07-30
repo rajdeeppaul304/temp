@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Bedouin Culture Safari \u2013 Morning",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "695",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Heritage desert Safari",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Bedouin Culture Safari \u2013 Morning",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "The Heritage Bedouin Culture Safari is indeed an immersive experience that lets you take a peek into the rustic way of life of the Bedouins. It takes you on a desert safari to a Bedouin village where you certainly get to see how the Bedouins live their daily lives. Moreover, the modern land of the UAE presents itself in a whole new \u2018avatar\u2019 on the Bedouin experience of Dubai Culture Safari. Also, what adds to the old-world charm of this safari is the fact that you\u2019ll be travelling in vintage Land Rovers. Book Bedouin Culture Safari with desertdaytravels now!",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Bedouin Culture Safari</td></tr><tr><td>Tour Type</td><td>Desert Safari Dubai</td></tr><tr><td>Duration</td><td>4 hours</td></tr><tr><td>Time</td><td>5:30 AM- 6:30 AM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>AED 695</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><strong><span style='text-decoration: underline;'><span style='color: #ff6600; text-decoration: underline;'>Inclusions</span></span></strong></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and drop off</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Complimentary headscarves and stainless steel water bottles that you can take home</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Traditional emirate breakfast</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Nature safari in vintage Land Rover</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><strong><span style='text-decoration: underline;'><span style='color: #ff6600; text-decoration: underline;'>Inclusions</span></span></strong></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and drop off</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Complimentary headscarves and stainless steel water bottles that you can take home</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Traditional emirate breakfast</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Nature safari in vintage Land Rover</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<h3><span style='color: #ff6600;'><strong>What To Expect</strong></span></h3><p>In a camp inhabited by the nomadic Bedouins, you meet a traditional storyteller and get up and close with a friendly Saluki dog as well as a falcon. Additionally, you\u2019ll get to learn how the two animals helped the Bedouins survive the challenges of the tough life the deserts would throw at them. Furthermore, the dogs and the falcons would help the Bedouins live their daily lives in the harsh deserts by helping them hunt and herd.</p><p>So, dig into an authentic and sumptuous traditional Emirati breakfast in Dubai. Additionally, you can admire various cultural performances presented by the happy-go-lucky Bedouins. You are sure to find this invigorating cultural tour very interesting and intriguing. It helps you know how life in the arid deserts of the UAE used to be before the discovery of oil transformed it into a wonder of the modern world.</p><p>\u00a0</p><hr/><h2><strong><span style='color: #ff6600;'>Highlights</span></strong></h2><ul><li><i class='fa-solid fa-check'></i>The safari is organized from 1<sup>st</sup> October to 15<sup>th</sup> May</li><li><i class='fa-solid fa-check'></i>You\u2019ll be provided with an adventure pack</li><li><i class='fa-solid fa-check'></i>You\u2019ll travel in a vintage Land Rover</li><li><i class='fa-solid fa-check'></i>It\u2019s a 60-minute safari in the lap of nature</li><li><i class='fa-solid fa-check'></i>A visit to a Bedouin village</li><li><i class='fa-solid fa-check'></i>A traditional Emirati breakfast</li><li><i class='fa-solid fa-check'></i>A 15-minute camel caravan ride</li><li><i class='fa-solid fa-check'></i>Cultural activities</li><li><i class='fa-solid fa-check'></i><a href='desertdaytravels.com/trip/royal-falconry-training/'>Royal Falconry</a></li></ul><hr/><h2><strong><span style='color: #ff6600;'>The Itinerary</span></strong></h2><ul><li><i class='fa-solid fa-circle'></i>We pick you up from your Dubai hotel between 5:30 and 7:00 AM depending on what season it is. The exact pick-up time shall be informed to you in the afternoon just before the safari is scheduled</li><li><i class='fa-solid fa-circle'></i>You shall be given your adventure pack as soon as you arrive at the Dubai Desert Conservation Reserve. The pack contains a stainless steel water bottle, a headscarf, and a bag. It comes with each booking and you may take it home after the safari</li><li><i class='fa-solid fa-circle'></i>Travel through the desert for 15 minutes to a Bedouin village on camelback. Each of these friendly camels can accommodate two guests</li><li><i class='fa-solid fa-circle'></i>The village has Bedouin tents, farm animals, and cooking stations for you to explore</li><li><i class='fa-solid fa-circle'></i>Enjoy a filling and delicious traditional Emirati breakfast. You\u2019ll also be taught how to cook it</li><li><i class='fa-solid fa-circle'></i>Get to know about the rich cultural heritage that the Bedouins have assiduously preserved through the ages from storytellers</li><li><i class='fa-solid fa-circle'></i>Join a traditional dance performance presented by youngsters</li><li><i class='fa-solid fa-circle'></i>Set off on a <a href='desertdaytravels.com/trip-tag/desert-safari/'>desert safari</a> of 60 minutes in a genuine vintage Land Rover</li><li><i class='fa-solid fa-circle'></i>You\u2019ll be dropped back at your hotel between 10:30 AM and 12:00 PM depending on what season it is. The total experience is of around 5 hours</li></ul><hr/><h2><span style='color: #ff6600;'><strong>Some Interesting Facts</strong></span></h2><ul><li><i class='fa-solid fa-circle'></i>A part of what you pay for this safari is a contribution to Dubai\u2019s local conservation of flora and fauna</li><li><i class='fa-solid fa-circle'></i>Shared pick-ups are arranged from your hotel/residence in an air-conditioned vehicle unless you choose any other option including private <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a>.</li><li><i class='fa-solid fa-circle'></i>The desert gets pretty hot in the afternoons. We, therefore, advise you to carry a hat, sunscreen, and sunglasses. Also, please turn up in comfortable loose clothing. Again, the desert can get quite chilly in the winter. Please carry warm clothing if you visit the desert in the winter</li><li><i class='fa-solid fa-circle'></i>Child rates apply to children between 5 and 11 years of age</li><li><i class='fa-solid fa-circle'></i>You shall have to book a private car or <a href='desertdaytravels.com/trip-tag/rent-a-car/'>rental car</a> if you\u2019re travelling with children less than 5 years old</li><li><i class='fa-solid fa-circle'></i>A <a href='desertdaytravels.com/trip/camel-ride/'>camel ride</a> can accommodate only two guests</li><li><i class='fa-solid fa-circle'></i>The camp has bathrooms</li><li><i class='fa-solid fa-circle'></i>Guests who are more than 6 months pregnant should avoid going on the desert safari</li><li><i class='fa-solid fa-circle'></i>Some vehicles can accommodate a maximum of 10 guests</li></ul><p>To find a similar option for the best experience in Dubai Desert click <a href='desertdaytravels.com/trip-tag/heritage-desert-safari/'>Heritage Safari Dubai</a> and <a href='desertdaytravels.com/trip-tag/luxury-desert-safari-dubai/'>Luxury Desert Safari</a>.\u00a0So, what are you waiting for?\u00a0Book Bedouin Culture Safari with desertdaytravels for the best desert experience and to learn more about the Bedouin culture.</p><h2><strong><span style='color: #ff6600;'>FAQs</span></strong></h2><h3><strong>Q. What is the Bedouin culture?</strong></h3><div class='wDYxhc' data-md='61' lang='en-IN'><div aria-level='3' class='LGOjhe' data-attrid='wa:/description' data-hveid='CC4QAA' role='heading'><span class='ILfuVd' lang='en'><span class='hgKElc'>The Bedouin people are\u00a0culturally, linguistically, and religiously part of a wider Arab society (though some have Turkish or other ethnic origins). 'Bedouin' has historically been used to refer to those who practised the traditional\u00a0<span role='tooltip' tabindex='0'><span class='c5aZPb' data-enable-toggle-animation='true' data-extra-container-classes='ZLo7Eb' data-hover-hide-delay='1000' data-hover-open-delay='500' data-send-open-event='true' data-theme='0' data-ved='2ahUKEwjr4qfK6teGAxXSTmwGHTAPDrsQmpgGegQILhAD' data-width='250' role='button' tabindex='0'><span class='JPfdse' data-bubble-link='' data-segment-text='nomadic pastoralist'>nomadic pastoralist</span></span></span> way of life, raising camels and other livestock for grazing.</span></span></div></div><div class='g'><div data-hveid='CBYQAA' data-ved='2ahUKEwjr4qfK6teGAxXSTmwGHTAPDrsQFSgAegQIFhAA' lang='en'><div class='tF2Cxc'><div class='yuRUbf'></div></div></div></div><h3><strong>Q. What do the Bedouins eat?</strong></h3><p>The Bedouins needed to create food items that they could carry with them. They selected food that walked because refrigeration was not available. Because of this, the main foods they ate were meat, milk, and dairy products from the herds of animals they drove ahead of them. However, don't worry we have a scrumptious Bedouin meal for you on the tour!</p><h3><strong>Q. Do Bedouins drink alcohol?</strong></h3><p>Yes, some Bedouins do drink alcohol, but their staple drink is camel milk.</p><h3><strong>Q. What is the best time to book the Bedouin Culture Safari?</strong></h3><p>The best time to go for a Desert Safari is in the winter months, from October to March, the weather is the best and you can enjoy it to the fullest.</p><h3><strong>Q. What is the price of this Safari?</strong></h3><p>The starting price of this Safari is 595 AED.</p><h3><strong>Q. What is the perfect outfit for our trip?</strong></h3><div class='ct-div-block' data-id='div_block-28-211' data-s3cid='30' id='div_block-28-211-2'><div class='oxy-ou-classic-acrd oxy-ultimate-element' data-id='-ou_classic_acrd-25-211' data-s3cid='31' id='-ou_classic_acrd-25-211-2'><div class='ou-accordion' data-expand-first='no' data-s3cid='32'><div class='ou-accordion-item ou-accordion-item-active' data-s3cid='33'><div aria-hidden='false' class='ou-accordion-content' data-s3cid='36'><div class='oxy-inner-content' data-s3cid='37'><div class='ct-text-block' data-id='text_block-94-211' data-s3cid='38' id='text_block-94-211-2'><div class='f8cklo4 content f4w3375' data-overflow-bottom='true' data-overflow-top='true' data-role='scroll' role='main'><div class='fjfog7z'><article aria-live='polite' class='f1gwpiu7' data-active='true' data-card='true' data-card-type='prompt-result' data-testid='result-37'><div class='f1yzq0lr'>We advise you to wear comfortable, layered clothing and light shoes or sandals. It will warm up after sunrise for morning trips and may get cooler after sunset for afternoon trips.</div><div class='fbz4qca'><div class='fve4vxu'><div class='f1mgyl9u'><div class='fdd11vt'></div></div></div></div></article></div></div></div></div></div></div></div></div></div><h3><strong>Q. Can we bring our children to the tour?</strong></h3><p>Yes, you can bring your children as well. Make sure they will be hydrated and well-dressed for the desert. You can pick how many children are coming with you in your booking.</p><h3><strong>Q. Where will you pick us up from in Dubai?</strong></h3><div class='ct-div-block' data-id='div_block-28-211' data-s3cid='93' id='div_block-28-211-9'><div class='oxy-ou-classic-acrd oxy-ultimate-element' data-id='-ou_classic_acrd-25-211' data-s3cid='94' id='-ou_classic_acrd-25-211-9'><div class='ou-accordion' data-expand-first='no' data-s3cid='95'><div class='ou-accordion-item ou-accordion-item-active' data-s3cid='96'><div aria-hidden='false' class='ou-accordion-content' data-s3cid='99'><div class='oxy-inner-content' data-s3cid='100'><div class='ct-text-block' data-id='text_block-94-211' data-s3cid='101' id='text_block-94-211-9'><span class='ct-span' data-id='span-101-211' id='span-101-211-9'>The pick up location could be anywhere in Dubai. (For example a hotel, a private residence, etc.) Make sure you fill out the 'Pickup Location' during your booking.</span></div></div></div></div></div></div></div><div class='ct-div-block' data-id='div_block-28-211' data-s3cid='102' id='div_block-28-211-10'><div class='oxy-ou-classic-acrd oxy-ultimate-element' data-id='-ou_classic_acrd-25-211' data-s3cid='103' id='-ou_classic_acrd-25-211-10'><div class='ou-accordion' data-expand-first='no' data-s3cid='104'><div class='ou-accordion-item' data-s3cid='105'><div aria-expanded='false' aria-selected='false' class='ou-accordion-button' data-s3cid='106' data-transitionspeed='750'><div class='ou-accordion-title-wrap' data-s3cid='107'></div></div></div></div></div></div><h3><strong>Q. What are the Bedouin culture safari timings?</strong></h3><p>The Safari starts early in the morning from 5:30 AM- 6:30 AM and it usually lasts for 4 hours.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

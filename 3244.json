@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "33 FT Yacht \u2013 Up To 8 People",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "459",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "1 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Private Yacht Rentals,Speed Boats",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "33 FT Yacht \u2013 Up To 8 People",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Get ready to have the most unique experience in Dubai with desertdaytravels Tourism. Take in views of Dubai like never before from our 33 Ft Yacht. Cruising aboard a yacht on the serene water of Dubai is the best way to pamper yourself and your loved ones. Take pictures, vibe to the music, use it as a fishing yacht and have a gala time! Also, the staff on board is always more than happy to welcome you onto the yacht as you embark on a wonderful ride. So, book your tour with desertdaytravels Tourism now!",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>33 ft Yacht Tour</td></tr><tr><td>Tour Type</td><td>Private Yacht Tour</td></tr><tr><td>Duration</td><td>2 hours</td></tr><tr><td>Time</td><td></td></tr><tr><td>Days of Operation</td><td>Private Transfers</td></tr><tr><td>Starting Price</td><td></td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><strong><span style='text-decoration: underline; color: #ff6600;'>Inclusions</span></strong></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Private yacht cruising</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Music system</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Water/ soft drinks</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Washroom facility</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>All other personal expenses</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><strong><span style='text-decoration: underline; color: #ff6600;'>Inclusions</span></strong></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Private yacht cruising</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Music system</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Water/ soft drinks</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Washroom facility</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>All other personal expenses</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div><p>\u00a0</p></div><p>\u00a0</p><div></div><h3><strong><span style='color: #ff6600;'>What to Expect on 33 Ft. Yacht </span><span style='color: #ff6600;'>- Fishing Yacht - Up to 8 People</span></strong></h3><p>We at desertdaytravels Tourism welcome you aboard our yacht for a one-hour escape from the city\u2019s hustle and bustle as you indulge yourself in the lap of luxury. Firstly, it\u2019s a yacht that gives you the royal treatment with its team of refined and sophisticated crew attending to all your needs. You\u2019ll also love cruising through the calm waters of the gulf basking in the bright sunshine. Secondly, the cruise offers you some unforgettable views of Dubai\u2019s mesmerising skyline you can enjoy with your family and friends.</p><p>Also, our <a href='desertdaytravels.com/trip-tag/yacht-tours-dubai/'>yacht tour in Dubai</a> offers an experience of absolute luxury that\u2019s simply unmatched. Hence, we\u2019re sure you\u2019ll find a cruise on one of our yachts to make you want to come back to Dubai again and again.</p><hr/><h3><span style='color: #ff6600;'><strong>Important Points to Note</strong></span></h3><ul><li><i class='fa-solid fa-circle'></i>You must furnish your original passport/Emirates ID during the trip</li><li><i class='fa-solid fa-circle'></i>You must keep a life jacket on as per UAE laws</li><li><i class='fa-solid fa-circle'></i>You may extend the duration of the trip after additional payment subject to availability</li><li><i class='fa-solid fa-circle'></i>You can\u2019t bring along your pets on the cruise</li><li><i class='fa-solid fa-circle'></i>The number of persons you bring along for the cruise must not exceed the number mentioned during the booking</li><li><i class='fa-solid fa-circle'></i>This tour offers an option for <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>private transportation services</a>. You can also easily reach the place by public transport (taxis, metro, etc.)</li></ul><hr/><h3><strong><span style='color: #ff6600;'>The Best Time to book 33 Ft. Yacht</span></strong></h3><p>The weather in Dubai is usually hot and humid. It\u2019s at its best between October and March when it\u2019s quite pleasant. The city, however, is a bit crowded during these times due to the Dubai Shopping Festival and school vacations. If you can take the crowd in your stride, going for the cruise on our luxury yacht \u00a0is sure to be an experience that\u2019ll remain etched in your mind for as long as you live. So, you\u2019ll feel like a celebrity every moment of the cruise as our crew members pamper you with the best a high-flying life has on offer. Here\u2019s an experience beckoning you that sets new benchmarks in luxury, class, refinement, sophistication, and opulence. This yacht is also available on the 31st of December night for celebrating the <a href='desertdaytravels.com/trip-tag/new-year-party-dubai/'>New Year Party</a> at the yacht. So, call us today to make a reservation in advance for your <a href='desertdaytravels.com/trip-tag/yacht-rental-dubai/'>private yacht rental in Dubai</a>.</p><hr/><h3><strong><span style='color: #ff6600;'>Related Booking Tours for Yacht\u00a0</span></strong></h3><ul><li><a href='desertdaytravels.com/trip/44-ft-yacht/'>44 Ft Yacht</a>- Up to 10 People</li><li><a href='desertdaytravels.com/trip/70-ft-luxury-yacht/'>70 Ft Luxury Yacht</a> - Up to 20 People</li></ul><h2><strong><span style='color: #ff6600;'>FAQs\u00a0</span></strong></h2><h3><strong>Q. How many people can the 33 Feet Yacht accommodate?</strong></h3><p>The 33 Feet Yacht can surely accommodate up to 8 guests, including children.</p><h3><strong>Q. What is included in the price of the 33 Ft. Yacht?</strong></h3><p>The rental price of the 33 Feet Yacht includes a licensed captain, fuel, water, ice, and soft drinks. Additionally, we provide towels and snorkelling equipment upon request. You can also bring your food and beverages on board, or we can arrange catering for an additional fee.</p><h3><strong>Q. Can I bring my food and beverages on board the 33 Ft. Yacht?</strong></h3><p>Yes, you are welcome to bring your food and beverages on board the 33 Ft Yacht. We also provide ice and soft drinks. Moreover, we offer catering services for an additional fee if you prefer.</p><h3><strong>Q. Can I use it as a fishing yacht?</strong></h3><p>Yes indeed, you can use this 33 ft yacht as a fishing yacht too. You can request equipment while you're booking.</p><h3><strong>Q. Do I need a license to take the 33 Ft. Yacht?</strong></h3><p>No, you do not need a license to 33 Ft Yacht for rent. Our experienced and licensed captain will take care of all navigation and safety aspects during the rental.</p><h3><strong>Q. What is the minimum duration for the 33 Ft. Yacht?</strong></h3><p>The minimum rental duration for the 33 Ft. Yacht for rent is 1 hour.</p><h3><strong>Q. What happens if the weather is bad on the day of my rental?</strong></h3><p>Your safety and comfort are our top priorities. So, if the weather is bad on the day of your rental, we will work with you to reschedule the rental for another day or provide a full refund. Our team will also monitor the weather conditions and notify you in advance if there are any concerns.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

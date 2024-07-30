@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Evening Desert Safari",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "175",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "6 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Desert Safari",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Evening Desert Safari",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Embark on an \u0435xhilarating journey through Dubai's desert landscape with the Desert Safari and BBQ Diner Package, a thrilling adventure that promises unforgettable memories. Begin your evening desert safari in Dubai with an electrifying quad bike ride across the vast gold sands, an experience that merges the thrill of speed with the beauty of the desert's ever-changing scenery. Contact desertdaytravels to learn more about evening desert safari timings and adventures.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Evening Desert Safari</td></tr><tr><td>Tour Type</td><td>Desert Safari Dubai</td></tr><tr><td>Duration</td><td>6 hours</td></tr><tr><td>Time</td><td>2:30 PM- 3:00 PM3:00 PM- 4:00 PM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>AED 175</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Exploring the dunes in a four-wheel drive vehicle</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Enjoy a Traditional buffet BBQ dinner with vegetarian and non-vegetarian options</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Photo sessions in traditional Arabian costumes</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Hotel drop</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>All Personal Expenses</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Quad biking and dune buggies (available at extra cost)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Alcoholic drinks (available to purchase on the spot)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Souvenir products (available to purchase on the spot)</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Exploring the dunes in a four-wheel drive vehicle</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Enjoy a Traditional buffet BBQ dinner with vegetarian and non-vegetarian options</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Photo sessions in traditional Arabian costumes</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Hotel drop</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>All Personal Expenses</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Quad biking and dune buggies (available at extra cost)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Alcoholic drinks (available to purchase on the spot)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Souvenir products (available to purchase on the spot)</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<h3><span style='color: #ff6600;'><b>What To Expect\u00a0</b></span></h3><p><span style='font-weight: 400;'>To refresh from a whole day's tiredness, experience the vastness and beauty of the desert on a Dubai evening desert safari with BBQ dinner. <a href='desertdaytravels.com/trip-tag/desert-safari/'>Desert Safari in Dubai</a> provides a perfect balance between the adventure of dune bashing and the calmness of the desert night sky. With its mix of adventure, culture, relaxation, and culinary delights, this evening desert safari offers a comprehensive way to delve into the serene and exhilarating world of the desert. This meticulously crafted \u0435vening desert safari experience not only satisfies your sense of adventure but also provides a unique opportunity to savour the tranquil beauty of the desert at dusk. Secure your spot on the Dubai Desert Safari with BBQ Diner and immerse yourself in the desert's captivating allure, creating unforgettable memories that will last a lifetime.</span></p><p>One thing to keep in mind is that the timings for the winter season are 2:30 PM\u20133:00 PM and for the summer season are 3:00 PM\u20134:00 PM.</p><p>The camp welcomes you with the fragrance of Oud. Additionally, it is not just a scented welcome but also a sweet welcome, as you are offered traditional Arabic coffee, sweets, and dates. Activiti\u0435s at the camp include sh\u0435\u0435sha smoking, henna painting, and taking photos with a <a href='desertdaytravels.com/trip/royal-falconry-training/'>Royal falconry</a>. <span style='font-weight: 400;'>Additionally, dressing in traditional Arabian attire for a photograph not only offers a fun way to remember your experience but also connects you to the region's rich cultural heritage. Eventually, enjoy Sufi performances, Khaliji performances, belly dances, Khaleed Se Lavi, Dabka Drum and Fire shows.\u00a0</span></p><p><span style='font-weight: 400;'>Furthermore, relaxing as the sun sets, surrounded by the authentic ambience of a Bedouin camp, allows you to fully immerse yourself in the desert experience. It is a moment of calm and reflection. Then, the BBQ dinner, with its variety of salads, starters, and desserts, sounds like a delicious way to conclude the adventure, providing a taste of local cuisine that complements the overall experience. Also, enhance your fun with the following add-ons:.</span></p><h4><strong><span style='color: #ff6600;'>Desert Safari with Dune Buggy (30 min)</span></strong></h4><p>With desertdaytravels, experience the thrill of a <a href='desertdaytravels.com/trip-tag/dune-buggy-in-dubai/'>dune buggy ride</a> across the sweeping dunes for an extra 30 minutes. This adventure promises an adrenaline rush as you navigate the shifting sands with power and speed.</p><h4><strong><span style='color: #ff6600;'>Desert Safari with 350-cc Quad Bike (30 min)</span></strong></h4><p>Also, embark on a 30-minute journey through the desert on a powerful 350-cc quad bike. Feel the wind in your hair as you conquer the dunes, offering an unforgettable ride across the vast landscape.</p><h4><strong><span style='color: #ff6600;'>Add-on Food Service on the Table</span></strong></h4><p>Additionally, elevate your desert safari experience with our table-service food add-on. Enjoy a selection of gourmet dishes served directly to your table, allowing you to dine in style against the stunning desert backdrop.</p><h4><strong><span style='color: #ff6600;'>Add-on VIP Air-conditioned Majlis</span></strong></h4><p>Indulge in luxury with our VIP air-conditioned Majlis add-on. Relax in the comfort of a traditional Majlis, enhanced with modern air-conditioning, offering a serene retreat from the desert heat.</p><p>\u00a0</p><h3><strong><span style='color: #ff6600;'>Policy</span></strong></h3><p>Here are some policies you have to keep in mind before making a reservation for a Safari adventure.</p><h3><span style='color: #ff6600;'>Booking &amp; Paym\u0435nts</span></h3><ul><li>A 50% advanc\u0435 payment is required to confirm your booking, as it aims at ensuring a smooth experience and preventing no-shows.</li><li>The d\u0435posit s\u0435cur\u0435s your spot and thus helps us prepare for your arrival.</li></ul><h3><span style='color: #ff6600;'>Canc\u0435llation Policy</span></h3><ul><li>W\u0435 offer a flexible cancellation policy for your peace of mind: full refunds are available for cancellations made more than 48 hours in advanc\u0435.</li><li>Together with a 50% r\u0435fund for cancellations made between 48 and 24 hours in advance and no refund for cancellations made less than 24 hours in advance,.</li></ul><h3><span style='color: #ff6600;'>For Pr\u0435gnant women &amp; children</span></h3><ul><li>For th\u0435 safety and comfort of expectant mothers and infants, we r\u0435comm\u0435nd staying in our air-conditioned waiting area during the morning bashing activity.</li><li>Our priority is to \u0435nsur\u0435 a safe and enjoyable experience for all guests.</li></ul><h3><span style='color: #ff6600;'><b>The Main Features of the Evening Desert Safari</b></span></h3><ul><li><span style='font-weight: 400;'>Dune bashing</span><span style='font-weight: 400;'> in a 4x4 vehicle</span></li><li><a href='desertdaytravels.com/trip/camel-ride/'><span style='font-weight: 400;'>Camel ride</span></a></li><li><span style='font-weight: 400;'>Photo session in traditional Arabian attire</span></li><li><span style='font-weight: 400;'>Henna decoration sessions and Shisha smoking</span></li><li><span style='font-weight: 400;'>Barbeque dinner with a serving of a wide range of salads, starters, and desserts</span></li><li><span style='font-weight: 400;'>Belly dance performance</span></li></ul><h3><span style='color: #ff6600;'><b>Safari Packag\u0435 Options</b></span></h3><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>There are four main packag\u0435s which vary by the desired location, camp quality, included activities, and entertainment options.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>From the basic Ev\u0435ning D\u0435s\u0435rt Safari to the <a href='desertdaytravels.com/trip-tag/luxury-desert-safari-dubai/'>luxury D\u0435s\u0435rt Safari</a> with Majlis &amp; ATV, each packag\u0435 off\u0435rs a unique experience tailor\u0435d to gu\u0435st professionals.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>It also includes options for private seating and additional activities like <a href='desertdaytravels.com/trip-tag/quad-biking-dubai/'>quad biking</a>.</span></li></ul><h3><span style='color: #ff6600;'><b>Caution </b><b>Points</b></span></h3><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Pregnant women and those with backache or neck pain are advised against opting for dune bashing.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>An additional amount will be charged if you want to be picked up from anywhere other than your hotel or residence.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>The month of Ramadan, however, sees a change in the timings.</span></li></ul><h3><span style='color: #ff6600;'><b>Some Important Information</b></span></h3><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Pick-up timings have been scheduled between 3:30 and 4:00 pm for summers ( Different timings for winters). Also, you can take <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a> from desertdaytravels accordingly.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Belly dance performances and serving of alcohol are closed during Ramadan in compliance with government orders.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>The duration of the Dubai evening desert safari with BBQ dinner is approximately 6 hours. However, timings may alter depending on season and traffic conditions.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>The instruction medium is English and Arabic, depending on the guest's preference.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>The guests at the Dubai evening desert safari with BBQ dinner also have access to prayer rooms, shops, and toilets.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>The tour operators provide sleeping bags, tents, and other camping equipment.</span></li></ul><h3><span style='color: #ff6600;'><b>What\u2019s the Best Time to Go for an Evening Desert Safari Ride?</b></span></h3><p><span style='font-weight: 400;'>Dubai is at its best between December and February, when it's pretty pleasant. Therefore, it is primarily best for outdoor activity between December and February. However, Dubai is full of crowds at this time of the year, with the Dubai Duty-Free Shopping Festival being held there. But visiting <a href='desertdaytravels.com/trip-tag/dubai-tourist-places/'>Dubai tourist attractions</a> between December and February is a lovely experience if you can bear the crowds. Hence, make the most of your Dubai holidays with a desert safari excursion.\u00a0</span></p><p><span style='font-weight: 400;'>The Dubai Desert Safari is the ultimate holiday experience, with just the perfect blend of the thrill of desert bashing during the day and the serenity of stargazing under the calm desert sky at night. Come and join us as we give you a holiday experience unlike any other. Read more about</span> the\u00a0<span style='font-weight: 400;'>best time to go on a desert safari.</span></p><h2><span style='color: #ff6600;'><b>FAQs\u00a0</b></span></h2><h3><b>Q. Do we need to carry warm clothing on the evening desert safari in Dubai?</b></h3><p><span style='font-weight: 400;'>Yes, it would be wise to carry a jacket or a shawl since it may get pretty chilly after the sun has set.</span></p><h3><b>Q. What are the fun activities that one gets to participate in?</b></h3><p><span style='font-weight: 400;'>There\u2019s never a dull moment during the evening desert safari. There are many activities to keep you hooked, apart from dune bashing. Additionally, you can enjoy </span><span style='font-weight: 400;'>quad biking</span><span style='font-weight: 400;'>, sandboarding, a camel safari, and more!</span></p><h3><b>Q. What should I wear to the evening desert safari in Dubai?</b></h3><p><span style='font-weight: 400;'>It\u2019s best to wear cotton clothes that are loose and comfortable. Meanwhile, women are to avoid anything that exposes the legs. Also, men should avoid vests and wear loose T-shirts. Additionally, closed shoes are suitable as they protect your feet from the sand. Read more about </span><span style='font-weight: 400;'>what to wear while going for a desert safari tour.</span></p><h3><b>Q. What type of vehicle is used in the Evening Desert Safari in Dubai?</b></h3><p><span style='font-weight: 400;'>Generally, desert safaris start with powerful 4x4 cars. These cars are comfortable, have space, and, of course, have sturdiness.</span></p><h3><b>Q. Do we get vegetarian food?</b></h3><p><span style='font-weight: 400;'>Yes, indeed, you can get vegetarian food at the BBQ dinner. As a cosmopolitan city that has always welcomed visitors, Dubai has also accommodated people with different eating habits without hesitation.</span></p><h3><b>Q. What should I carry to the Evening Desert Safari in Dubai?</b></h3><p><span style='font-weight: 400;'>Pick-up is according to the mentioned timing; you should carry enough sunscreen, goggles, and a hat. Also, bring your camera and enjoy clicking pictures, especially of the sunset.</span></p><h3><b>Q. What\u2019s the best time of the year for the Evening Desert Safari in Dubai?</b></h3><p><span style='font-weight: 400;'>It would be best to target being in Dubai between November and March, when it\u2019s winter. It\u2019s very pleasant then, and the \u2018city of gold\u2019 is at its best.</span></p><h3><strong>Q. What activities are included in the Desert Safari Experience with desertdaytravels?</strong></h3><p>Certainly, the Desert Safari experience involves a thrilling ride over the dunes with a dune buggy or a 350 cc quad bike for 30 minutes, providing an adrenaline-pumping thrill through the desert.</p><h3><strong>Q. How can I enhance my Dubai evening desert safari with a BBQ dinner experience?</strong></h3><p>Indeed, you can enhance your experience with add-on services like gourmet table dining and the luxury of a VIP air-conditioned Majlis, which offers comfort and style amid the desert landscape.</p><h3><strong>Q. What are the best evening desert safari timings in Dubai?</strong></h3><p>The evening desert safari timings are changed as per season in Dubai. In winter, the timing is 2:30 PM\u20133:00 PM, and in summer, the timing is 3:00 PM\u20134:00\u00a0PM.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

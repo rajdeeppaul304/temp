@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Private Night Safari and Astronomy",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "2800",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "12 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Heritage desert Safari,Overnight Desert Safari",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Private Night Safari and Astronomy",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Enjoy the splendour of a night sky lit up by bright stars on a safari into the desert. Experience the luxury and adventure in the Desert with Private Night Desert Safari Dubai and the astronomy experience. Add to that the intrigue of learning about astronomy and this exclusive safari that has you exploring the desert in the night sure thrills you. The Private Night Safari with astronomy sessions truly is an intriguing trip into the desert.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Private Night Safari</td></tr><tr><td>Tour Type</td><td>Desert Safari Dubai</td></tr><tr><td>Duration</td><td>12 hours</td></tr><tr><td>Time</td><td>5:30 PM- 6:00 PM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>AED 2800</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up from hotel or residence</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Adventure Pack (scarf, water bottle, bag)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Explore the desert in vintage Land Rover</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Shisha</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>3 course dinner</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Astronomy session</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Walk in the desert</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Drop off</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up from hotel or residence</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Adventure Pack (scarf, water bottle, bag)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Explore the desert in vintage Land Rover</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Shisha</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>3 course dinner</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Astronomy session</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Walk in the desert</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Drop off</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><div><h3><span style='color: #ff6600;'><strong>What To Expect at Private Night Safari and Astronomy\u00a0</strong></span></h3><p>Private <a href='desertdaytravels.com/trip-tag/overnight-desert-safari-tour-dubai/'>Night Desert Safari</a> and Astronomy is indeed the best way to have an all Arabic experince. Are you keen to learn more about this exciting trip? Once the sun goes down, explore the desert in a vintage 1950s Land Rover and take a walk to learn more about the desert ecology. All along, you\u2019ll be accompanied by a conservation guide telling you about life in the night in the desert.</p></div><p>After you\u2019ve explored the desert, you can relax at a desert camp while enjoying a flavoured shisha. Dig into a sumptuous 3 course dinner spread where delectable Emirati cuisine is laid out for you. The evening draws to an end with a professional astronomer telling you about the different constellations and how the Bedouins would find their way through the desert by following the stars.</p><p>You also have the option of staying back overnight in the desert in rooms made of stone that make you feel every bit a Bedouin. You wake up the following morning and are treated to a lavish breakfast. If you wish to upgrade the safari and include a <a href='desertdaytravels.com/trip/hot-air-balloon-dubai/'>hot air balloon ride</a> when the sun rises, it will be the perfect icing on the cake.</p><hr/><h3><strong><span style='color: #ff6600;'>Itinerary of Night Desert Safari Dubai</span></strong></h3><ul><li><i class='fa-solid fa-circle'></i>You are picked up in an air-conditioned vehicle between 5:00 and 6:30 PM depending on what season it is.</li><li><i class='fa-solid fa-circle'></i>We will share the exact pick-up time with you on the afternoon of the day of the safari.</li><li><i class='fa-solid fa-circle'></i>After you arrive at the Dubai Desert Conservation Reserve, you get the adventure pack which includes a headscarf, a stainless steel water bottle, and a bag. Included with every booking, you can take this pack home with you as a gift.</li><li><i class='fa-solid fa-circle'></i>Go on a walk through the desert with torches exploring the flora and fauna of the desert.</li><li><i class='fa-solid fa-circle'></i>We drop you at your hotel between 10:00 and 11:30 PM depending on the season.</li><li><i class='fa-solid fa-circle'></i>You may extend the safari by staying back overnight.</li></ul><hr/><h3><strong><span style='color: #ff6600;'>Points to Note on Night Desert Safari Dubai</span></strong></h3><ul><li><i class='fa-solid fa-circle'></i>Please inform us in advance if you have any special dietary requirements</li><li><i class='fa-solid fa-circle'></i>You can\u2019t carry large luggage with you</li><li><i class='fa-solid fa-circle'></i>The nature drive is not safe for women who are more than 6 months pregnant</li><li><i class='fa-solid fa-circle'></i>Regular pest control is carried out. However, there may be a few harmless insects as this is an eco-friendly tour</li><li><i class='fa-solid fa-circle'></i>The desert can get hot during the day. Hence, do carry sunscreen, a hat, and sunglasses. Wear loose and comfortable clothes for Night <a href='desertdaytravels.com/trip-tag/desert-safari/'>Desert Safari</a>. During the winter months between November and March, the desert can get quite chilly. We, therefore, advise you to carry some warm clothing</li></ul><h2><strong><span style='color: #ff6600;'>FAQs</span></strong></h2><h3><strong>Q. <span class='JCzEY tNxQIb'><span class='CSkcDe'>How long does Private Night Safari take?</span></span></strong></h3><p>The Private Night Safari usually lasts for 12 hours. You can have a spectacular experience under the night sky and gaze upon the stars.</p><h3><strong>Q. Is Dubai good for stargazing?</strong></h3><p>The Dubai desert at night is the place to go whether you enjoy stargazing or just want some alone time. Picture yourself sitting on the smooth sand and gazing up at a starry sky. It's an image you won't forget! For those seeking a serene, enchanted moment, stargazing in the desert of Dubai is an experience not to be missed. You can take desertdaytravels's <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a> to reach the destination.</p><div class='p8Jhnd'><h3><strong>Q. What is special about Private Night Safari?</strong></h3><p>It is one of the most special trips because it provides a unique, immersive experience that combines the thrill of seeing nocturnal animals with the breathtaking majesty of the night sky\u2014all while being supervised by professionals and using specialised equipment, the Private Night Safari and Astronomy experience is unique.</p><h3><strong>Q. Is food allowed inside Private Night Safari?</strong></h3><p>No, we're afraid you cannot bring your own food on this trip. However, don't worry you will have a delectable 3-course meal which we guarantee will leave your taste buds in awe.</p><h3><strong>Q. What time is best to go for Private Night Safari and Astronomy?</strong></h3><p>The best time to go for a private night safari is in the winter months as the weather gets chilly. We advise you to carry warm clothes.</p><h3><strong>Q. Which car will we have in our Private Night Desert Safari?</strong></h3><p>You will explore the desert in a vintage 1950s Land Rover. Furthermore, this is surely a luxury experience for you, your friends, and family.</p></div>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

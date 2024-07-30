@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Al Rafisah Dam Sharjah",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "1350",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "6 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Emirates Tours,Hidden Gems,Visit Sharjah",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Al Rafisah Dam Sharjah",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Known for its stunningly beautiful scenic beauty, the Al Rafisah Dam in Khor Fakkan in Sharjah is a popular tourist destination. Moreover, the reservoir of the dam, a human-made lake, attracts many migratory birds. The picturesque lake has the majestic Hajjar Mountains as its backdrop. You have the option of boating as well. The best part is that there is no entry fee at Al Rafisah Dam. You can also admire the lake\u2019s scenic beauty by taking a tour around it. Also, check out the Al Rafisah Dam boating price while reading about\u00a0the beauty of the dam.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Al Rafisah Dam Sharjah</td></tr><tr><td>Tour Type</td><td>9 AM ( customisable)</td></tr><tr><td>Duration</td><td>Everyday</td></tr><tr><td>Time</td><td></td></tr><tr><td>Days of Operation</td><td>Khor Fakkan, Sharjha</td></tr><tr><td>Starting Price</td><td></td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Transfers with desertdaytravels Tourism</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Personal expenses</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Boating (pedal and donut)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Kayaking</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Transfers with desertdaytravels Tourism</span></li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Personal expenses</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Boating (pedal and donut)</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Kayaking</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><h4><strong><span style='color: #ff6600;'>Highlights</span></strong></h4><p>The Al Rafisah Dam is also where you\u2019ll find the seasonal waterway of Wadi Shie where the remains of an ancient settlement have been found. The discovery certainly bears great historical significance and the artefacts excavated there can be traced back to the Stone Age. Today, the place draws history buffs from around the world. Besides, the Al Rafisah Dam boating price is also very reasonable. There are many activities on offer at the dam that can give visitors a fun day out with their family and friends.</p><hr/><h3><span style='color: #ff6600;'><b>What to Expect at Al Rafisah Dam:</b></span></h3><h4><span style='color: #ff6600;'><strong>Restaurant</strong></span></h4><p>You can enjoy the refreshing beverages and the homely food served at the Rafisa Lounge Caf\u00e9, a charming eatery boasting breathtaking views of the reservoir. Also, relax on the balcony of this lovely restaurant as you admire the beauty of the calm turquoise waters of the lake which contrasts strikingly against the grey of the majestic and rugged Hajjar Mountains. Apart From the lake in the Hajjar Mountain Range, there is also a very nice and popular <a href='desertdaytravels.com/trip/love-lake-dubai/'>Love Lake in Al Qudra.</a> This place should certainly be a must on your checklist if you love beautiful scenery.</p><h4><span style='color: #ff6600;'><strong>Kids play area</strong></span></h4><p>The rest area at the site features an outdoor playing area for kids. There are swings and slides for your kids to ride and climb on while the lovely mountains and the lake provide a stunning backdrop. The staff here leaves no stone unturned to make sure that the place remains clean and safe for the children altogether.</p><h4><span style='color: #ff6600;'><strong>An artificial waterfall</strong></span></h4><p>To add to the beauty of this charming getaway in<a href='desertdaytravels.com/trip/sharjah-city-tour/'> Sharjah</a>, an artificial waterfall was built with a height of 55 metres. You\u2019ll love watching the waters from the waterfall cascade into the reservoir\u2019s blue waters amidst the surrounding lush greenery. It is a beautiful sight indeed. There is another waterfall that you can book with us, it is known as the<a href='desertdaytravels.com/trip-tag/khorfakkan-waterfall/'>\u00a0Khorfakkan Waterfall</a>, one of the best places to visit if you are in the UAE.</p><h4><span style='color: #ff6600;'><strong>A walkway</strong></span></h4><p>There could be no better way to explore the Al Rafisah Dam than taking a relaxed stroll on its walkway. Beginning with its length, it is 730m long. Moreover, palm trees and lush greenery beckon you to this beautiful walkway. A place where you can sit and relax for a while on the benches listening to the musical chirping of birds and the splash of the waterfall which act as a soothing therapy. There could be no better escape from city life than this.</p><h4><span style='color: #ff6600;'><strong>Kayaks and pedal boats</strong></span></h4><p>The Al Khor Kayak Service offers you kayaks and pedal boats, perfect for exploring the lake.<a href='desertdaytravels.com/trip-tag/7-best-places-to-go-kayaking-in-uae/'> Kayaking</a> and boating prices include riding on the pedal boats and taking in the stunning scenery. These are two of the most enjoyable things to do at the Al Rafisah Dam. Also, watch the ducks quack in delight as you feed them while boating in the lake. Even kids can go boating here, provided they are accompanied by an adult.\u00a0 Additionally, connect with desertdaytravels Tourism if you wish to go for <a href='desertdaytravels.com/trip/blue-boat-dubai/'>Speed Boat Rides,</a> <a href='desertdaytravels.com/trip-tag/water-sports-in-dubai/'>Water Sports,</a> and other<a href='desertdaytravels.com/trip-tag/dubai-city-tour/'> tours and excursions in Dubai.</a></p><h5><span style='color: #ff6600;'><strong>Prices</strong></span></h5><ul><li><i class='fa-solid fa-circle'></i>Pedal boat: 45 AED, 30-minute session</li><li><i class='fa-solid fa-circle'></i>Al Rafisah Dam Kayak : 30 AED, 30-minute session</li><li><i class='fa-solid fa-circle'></i>Boating price -Brown pedal boat ride: 60 AED, 30-minute session</li><li><i class='fa-solid fa-circle'></i>Boating price - Donut boats for groups: 100 AED, 30-minute session</li></ul><h5><span style='color: #ff6600;'><strong>Shops:</strong></span></h5><p>There are shops nearby that sell lovely artistic handicraft items. You can buy them as souvenirs to remember your visit to this charming place. There\u2019s also a branch of the Sharjah Cooperative Society selling beautiful items that make for excellent showpieces.</p><hr/><h3><span style='color: #ff6600;'><strong>About the Al Rafisah Dam</strong></span></h3><ul><li><i class='fa-solid fa-check'></i>The water level in the lake rises and dips depending on the season. A part of the ancient ruins are submerged when the water level rises.</li><li><i class='fa-solid fa-check'></i>You can rent boats of different types like kayaks and pedal boats at very reasonable rates.</li><li><i class='fa-solid fa-check'></i>There are numerous seating areas and exclusive zones for picnics. There are play areas for children as well.</li><li><i class='fa-solid fa-check'></i>The Rafisa Lounge Caf\u00e9 serves tasty food and refreshing beverages.</li><li><i class='fa-solid fa-check'></i>There\u2019s a mosque where all genders can pray separately.</li><li><i class='fa-solid fa-check'></i>You\u2019ll see a large crowd on weekends or during vacations. Because the Al Rafisah Dam\u2019s popularity as a tourist spot keeps rising.</li><li><i class='fa-solid fa-check'></i>There are shops as well selling attractive handicraft items.</li></ul><hr/><h3><span style='color: #ff6600;'><strong>FAQs</strong></span></h3><p><strong>Q. How soon can I reach the dam after starting from Sharjah?</strong><br/>\nIt takes around 70 minutes to reach the Al Rafisah Dam from the centre of Sharjah.</p><p><strong>Q. Is there any Al Rafisah Dam entry fee?</strong><br/>\nNo, the Al Rafisah Dam entry fee is free.</p><p><strong>Q. What are the Al Rafisah Dam rest areas' opening hours?<br/>\n</strong>The resort is open to visitors throughout the day. So, you can visit Al Rafisah Dam whenever you wish to during the day.</p><p><strong>Q. What is the Al rafisah dam boating price?</strong></p><p>Here is a list of all the Al Rafisah Dam boating prices.</p><ul><li>Pedal boat: 45 AED, 30-minute session</li><li><i class='fa-solid fa-circle'></i>Al Rafisah Dam Kayak : 30 AED, 30-minute session</li><li><i class='fa-solid fa-circle'></i>Boating price -Brown pedal boat ride: 60 AED, 30-minute session</li><li><i class='fa-solid fa-circle'></i>Boating price - Donut boats for groups: 100 AED, 30-minute session</li></ul><p><strong>Q. Where does the water come from in the Al Rafisah Dam?</strong></p><p>The dam contains the water from the\u00a0Wadi Shie, a river bed highly regarded amongst archaeologists for its artefacts and historical significance.</p><p><strong>Q. Does the Al Rafisah Dam have a mosque?</strong><br/>\nYes, there is a mosque at the Al Rafisah Dam\u2014specifically a mosque where everyone can pray irrespective of gender.</p><p><strong>Q. Is there a parking area?</strong><br/>\nThe Al Rafisah Dam rest area can accommodate 45 cars at a time. So, of course, there is a parking space here.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

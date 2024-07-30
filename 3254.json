@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Hot Air Balloon Dubai",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "999",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "4 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Hot Air Balloon Dubai",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "If you are looking to have the adventure of a lifetime then this Hot air balloon ride in Dubai is awaiting you. These Dubai balloon rides are adventurous, and unique that you shall remember for a lifetime. Enjoy the view of a beautiful sunrise in Dubai with our Hot Air Balloon Dubai tour. So, don't wait anymore, also get information on the Hot air balloon Dubai price with desertdaytravels.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Hot Air Balloon Dubai</td></tr><tr><td>Tour Type</td><td>Adventure Activities</td></tr><tr><td>Duration</td><td>1 hour</td></tr><tr><td>Time</td><td>4.00 AM- 5.00 AM</td></tr><tr><td>Days of Operation</td><td></td></tr><tr><td>Starting Price</td><td></td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><strong><span style='text-decoration: underline; color: #ff6600;'>Standard Package Inclusions</span></strong></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and Drop off from hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>45-60 mins of balloon flight</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Refreshments</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Flight certificate</span></li></ul><p><strong><span style='text-decoration: underline; color: #ff6600;'>Deluxe Package Inclusions</span></strong></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and Drop off from hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>45-60 mins of balloon flight</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Refreshments</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Flight certificate</span></li></ul><p><span style='color: #ff6600;'><strong><span style='text-decoration: underline;'>Premium Package Inclusions</span></strong></span></p><ul><li><span style='color: #000000;'><i class='fas fa-check'></i>Pick up and Drop off from hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>45-60 mins of balloon flight</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Refreshments</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Flight certificate</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Breakfast at Traditional Bedouin</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Short Camel ride</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Dune Bashing</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>30 min Quad bike</span></li></ul><p><strong><span style='text-decoration: underline; color: #ff6600;'>Platinum Package Inclusions</span></strong></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and Drop off from hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Drone Show</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>45-60 mins of balloon flight</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Refreshments</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Ride in 1950's vintage land rover</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Short Camel ride</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Breakfast in traditional Bedouin camp</span></li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><strong><span style='text-decoration: underline; color: #ff6600;'>Standard Package Inclusions</span></strong></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and Drop off from hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>45-60 mins of balloon flight</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Refreshments</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Flight certificate</span></li></ul><p><strong><span style='text-decoration: underline; color: #ff6600;'>Deluxe Package Inclusions</span></strong></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and Drop off from hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>45-60 mins of balloon flight</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Refreshments</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Flight certificate</span></li></ul><p><span style='color: #ff6600;'><strong><span style='text-decoration: underline;'>Premium Package Inclusions</span></strong></span></p><ul><li><span style='color: #000000;'><i class='fas fa-check'></i>Pick up and Drop off from hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>45-60 mins of balloon flight</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Refreshments</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Flight certificate</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Breakfast at Traditional Bedouin</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Short Camel ride</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Dune Bashing</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>30 min Quad bike</span></li></ul><p><strong><span style='text-decoration: underline; color: #ff6600;'>Platinum Package Inclusions</span></strong></p><ul><li><i class='fas fa-check'></i><span style='color: #000000;'>Pick up and Drop off from hotel</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Drone Show</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>45-60 mins of balloon flight</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Refreshments</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Ride in 1950's vintage land rover</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Short Camel ride</span></li><li><span style='color: #000000;'><i class='fas fa-check'></i>Breakfast in traditional Bedouin camp</span></li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><div>You will be accompanied by our experienced guide who will make a safe ride. Are you eager for more info about hot air balloon rides in Dubai? Then keep reading as we tell some interesting details. If you need to make a booking then call us to know about the hot air balloon Dubai price.</div><div></div><div><h3><strong><strong>Remarks:</strong></strong></h3><ul><li><strong>It is mandatory to carry a Passport.</strong></li><li><strong>People with back pain should not try</strong><strong> this experience.\u00a0</strong></li></ul></div><div></div><h3><strong><span style='color: #ff6600;'>Hot Air Balloon Dubai</span></strong></h3><p>Dubai enchants you with much more than tall skyscrapers rising into the sky through the clouds. This is also a land of scenic beauty and Balloon Adventures in Dubai. What could be a better way to savour the mesmerising charm of Dubai\u2019s amazing scenic beauty than to have a bird\u2019s eye view over the calm golden dunes dotted with the pristine waters of a sparkling green oasis in Dubai Balloon Rides?</p><p>The Hot Air Balloon Dubai\u00a0beckons you with spectacular views of the amazing scenery of this land. The day begins with a stunning view of the sun rising over the eerily barren Hajjar Mountains. As you float blissfully in the skies over Dubai in the balloon, bask in the glorious sunshine while taking in the beauty of watching the desert's animal kingdom including the ship of the desert- the camels and the gazelles. If you\u2019re lucky enough, you might just catch a fleeting glimpse of an Oryx as well.</p><h3><strong><span style='color: #ff6600;'>The Main Features of the Hot Air Balloon Dubai</span></strong></h3><ul><li><i class='fa-solid fa-circle'></i>Enjoy unbelievably stunning aerial views of the <a href='desertdaytravels.com/trip-tag/dubai-tourist-places/'>Dubai tourist attractions</a> while gliding through the Dubai sky in Balloon Adventures in Dubai.</li><li><i class='fa-solid fa-circle'></i>Explore Dubai Desert Conservation Reserve with an ariel view.</li><li><i class='fa-solid fa-circle'></i>Watch the ship of the desert, camels from the balloon as well as other animals like the gazelle or Oryx after rising to a height of 1,000 feet above the ground.</li><li><i class='fa-solid fa-circle'></i>Enjoy a warm welcome from your hosts with finger-licking refreshments.</li><li><i class='fa-solid fa-circle'></i>Spectacular views of a truly stunning sunrise over the Hajjar Mountains were captured perfectly during a photoshoot for lovely memories of the enchanting tour.</li><li><i class='fa-solid fa-circle'></i>An e-certificate you can frame on your wall to reminisce about the wonderful experience.</li></ul><p>\u00a0</p><h3><span style='color: #ff6600;'><b>What to expect on the hot air balloon Dubai?</b></span></h3><p>The Hot Air Balloon Dubai price includes this activity that begins with picking you up from your hotel and then going for the hot air balloon ride. We will welcome you with coffee or tea. You will also be briefed and shown the procedure used to inflate the balloon.</p><p>The professional guides at the location will also give you instructions on safety measures that you need to take care of while on the ride. The Balloon Adventures Dubai basket can accommodate 20 people at once. After the ride, we will organise a delicious breakfast ( depending upon your selected option with us) for you at our camp. In addition to the Hot Air Balloon Rides in Dubai, we also give you the chance to pose for photographs with Falcons. You will also have the option of taking a <a href='desertdaytravels.com/trip/camel-ride/'>camel ride in Dubai</a>. Hot air balloon Dubai prices are according to the options provided.</p><hr/><h3><span style='color: #ff6600;'><strong>Things to note before hot air balloon rides in Dubai reservation</strong></span></h3><ul><li><i class='fa-solid fa-circle'></i>The tour starts sharp at 4 a.m.</li><li><i class='fa-solid fa-circle'></i>The medium of instruction is English</li><li><i class='fa-solid fa-circle'></i>Do carry your passport, it\u2019s mandatory.</li><li><i class='fa-solid fa-circle'></i>You are advised to wear comfortable casual clothes and avoid high heels. Wear comfy shoes or boots instead.</li><li><i class='fa-solid fa-circle'></i>Baggage is not allowed during the trip.</li><li><i class='fa-solid fa-circle'></i>You won\u2019t be allowed to carry lighters, professional zoom cameras, alcohol, or knives.</li><li><i class='fa-solid fa-circle'></i>Visitors with injuries, or back pain or those who have undergone surgery are not permitted to participate in this ride.</li><li><i class='fa-solid fa-circle'></i>People who are scared of heights should not sign up for this tour.</li><li><i class='fa-solid fa-circle'></i>We will let you know the time for your pick up in advance.</li><li><i class='fa-solid fa-circle'></i>Women who are pregnant for over 3 months will not be permitted on Balloon Adventures Dubai.</li></ul><h3><span style='color: #ff6600;'><strong>Details Of The Package of Hot Air Balloon Dubai\u00a0</strong></span></h3><ul><li>There are a few options for the package we have ( Hot air balloon experience standard package, deluxe and premium &amp; Balloon Adventure platinum package). Hot air balloon Dubai price is according to the packages.</li><li>Pick up and Drop off Service by <a href='desertdaytravels.com/trip/7-seater-car-with-driver-in-dubai/'>Private chauffeur</a> or shared as per option selected.</li><li>Breakfast, picture with <a href='desertdaytravels.com/trip/royal-falconry-training/'>Royal Falconry</a>, and camel ride depend on your selection of package.</li><li>The activity takes place in the Hajar Mountains.</li><li>The ride time is one hour over the Ain Desert.</li><li>We also give you a certificate for your experience and we also click photos of you with the certificate.</li></ul><h3><span style='color: #ff6600;'><strong>Last Words from us</strong></span></h3><p>So, this is all the information you need on this hot air balloon ride in Dubai. Do sign up for this ride as it is a unique experience that you will remember for a lifetime. Also, Dubai Balloon Rides is very safe as it is under the supervision of professionals who have a lot of experience. Additionally, there are more ways to explore the Dubai desert by choosing our tours like <a href='desertdaytravels.com/trip-tag/desert-safari/'>Desert Safari Dubai</a>.</p><h2><span style='color: #ff6600;'><strong>FAQs\u00a0</strong></span></h2><h3><strong>Q. What is the hot air balloon ride about?</strong></h3><p>Hot Air Balloon ride gives you a tremendously thrilling experience of rising slowly through the air and enjoying an ariel view of the Dubai desert from heights. To watch the humongous desert and the beautiful city while flying in the hot air balloon is a magical experience indeed.</p><h3><strong>Q. Is the Hot Air Balloon ride safe in Dubai?</strong></h3><p>Of course, it is safe. As all the safety measures are followed and the equipment in use is thoroughly checked and certified, there is no reason to worry. Plus, there are trained professionals who carry out the entire ride. The trained professionals are also well-equipped to handle any emergency.</p><h3><strong>Q.\u00a0 What is the average capacity of a Hot Air balloon in Dubai at a time?</strong></h3><p>The safety limit is a maximum of 20 passengers that can take the Hot Air Balloon Rides in Dubai at a time.</p><h3><strong>Q.\u00a0 What are the timings of the Hot Air Balloon Dubai?</strong></h3><p>The Hot Air Balloon Dubai activity operates during the daytime, that is from morning until noon. You can come and check out for it during the daytime.</p><h3><strong>Q.\u00a0 What type of clothes is advisable to wear?</strong></h3><p>You can wear light-coloured comfortable clothes as you like. You should wear comfortable shirts and trousers or clothes that will let you easily hop on to the Balloon Adventures Dubai. If visiting during winter, carry or wear some warm garments as well. Wear flats or flip-flops or comfortable shoes. Try to avoid heels as they may disturb your balance while on the hot air balloon.</p><h3><strong>Q. Are there seats on the Hot Air Balloon Rides in Dubai for sitting?</strong></h3><p>No, there are no seats or chairs on the hot air balloon. So, you cannot sit while riding in a hot air balloon. You have to stand throughout the hot air balloon ride in the air though that is going to be an amazing experience.</p><h3><strong>Q. What are certain things to carry for the hot air balloon ride?</strong></h3><p>Carry the following things imperative before you step out for the ride.</p><ol><li>A bottle of water.</li><li>Carry a pair of sunglasses and sunblock cream for protection from the sun.</li><li>Carry your ID proof.</li><li>You can bring along a camera, selfie stick, etc to click the spectacular views from the hot air balloon.</li><li>You can carry some light snacks to munch on, in case you feel hungry.</li></ol><h3><strong>Q. How long are the Dubai Balloon Rides?</strong></h3><p>The Dubai Balloon Rides are one hour long. You will be over the <a href='desertdaytravels.com/trip/al-ain-city-tour-from-dubai/'>Al Ain</a> Desert on this ride.</p><h3><strong>Q. What are some Do\u2019s and Don\u2019ts to keep in mind regarding the ride?</strong></h3><p>Balloon Adventures Dubai is an exciting sport that everyone would love to try. However, it is important to keep certain things in mind.</p><ol><li>It\u2019s advisable to book your tickets in advance as you may face a lot of rush at the last moment and may not even get tickets.</li><li>Expecting women, infants, visitors with back or knee problems, and people with cardiac issues or high blood pressure should not board the ride, as it can be highly risky for them.</li><li>Toddlers and kids below 150 cm in height are too short for the hot air balloon ride and they will not be able to view outside from the balloon.</li><li>Wear warm clothes or carry some extra warm garments as it can get cold during the winter.</li></ol><h3><strong>Q.\u00a0 Are pick-up and drop-off services included in the same hot air balloon Dubai price?</strong></h3><p>Yes, pick up and drop off services are there in the package where we will pick you up and drop you off from and to your hotel or residing place. Moreover, you can choose desertdaytravels's <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a> to reach the location.</p><h3><strong>Q. Who should go for this ride?</strong></h3><p>People who do not have a fear of heights, or back pain or recovering from recent surgery can participate in this ride. Women who are undergoing advanced pregnancy, can not take Balloon Adventures Dubai.</p><h3><strong>Q.\u00a0 What is the dress code?</strong></h3><p>Participants should wear comfortable clothes during this ride. Women should not wear shoes with high heels as they can cause a lot of discomfort. You must carry a hat and sunglasses at all times.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Dhow Cruise Dinner | Marina & Creek",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "119",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "1 hours 30 minutes",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dhow Cruise",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Dhow Cruise Dinner | Marina & Creek",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dhow Cruise Dubai is absolutely wonderful\u2014taking in the beautiful scenery of the architectural wonders dotting Dubai while sailing on a dhow. The Dhow Cruise Dinner along the Dubai Marina combines breathtaking sightseeing, stunning entertainment, and of course, delectable cuisine for dinner making for an unforgettable tryst with luxury. Book now with desertdaytravels!",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Dhow Cruise Dinner</td></tr><tr><td>Tour Type</td><td>Dhow Cruise Dubai</td></tr><tr><td>Duration</td><td>1 hour 30 minutes</td></tr><tr><td>Time</td><td>7 PM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>119 AED</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Dhow Cruise Marina</strong></span></p><ul><li><i class='fas fa-check'></i>Transfers (If Selected)</li><li><i class='fas fa-check'></i>90 minutes of cruising in Dubai Marina</li><li><i class='fas fa-check'></i>Welcome drinks, Water, Tea &amp; Coffee</li><li><i class='fas fa-check'></i>Buffet Dinner (Veg and Nonveg options are available)</li><li><i class='fas fa-check'></i>Live entertainment - Tanoura Show with Soft background music</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Dhow Cruise Dubai Creek</strong></span></p><ul><li><i class='fas fa-check'></i>Transfers if selected</li><li><i class='fas fa-check'></i>90 minutes of cruising along the Dubai Creek</li><li><i class='fas fa-check'></i>Welcome drinks, coffee, tea and water</li><li><i class='fas fa-check'></i>Tanoura show and soft background music also</li><li><i class='fas fa-check'></i>International buffet dinner with BBQ items and vegetarian options</li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Dhow Cruise Marina</strong></span></p><ul><li><i class='fas fa-check'></i>Transfers (If Selected)</li><li><i class='fas fa-check'></i>90 minutes of cruising in Dubai Marina</li><li><i class='fas fa-check'></i>Welcome drinks, Water, Tea &amp; Coffee</li><li><i class='fas fa-check'></i>Buffet Dinner (Veg and Nonveg options are available)</li><li><i class='fas fa-check'></i>Live entertainment - Tanoura Show with Soft background music</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Dhow Cruise Dubai Creek</strong></span></p><ul><li><i class='fas fa-check'></i>Transfers if selected</li><li><i class='fas fa-check'></i>90 minutes of cruising along the Dubai Creek</li><li><i class='fas fa-check'></i>Welcome drinks, coffee, tea and water</li><li><i class='fas fa-check'></i>Tanoura show and soft background music also</li><li><i class='fas fa-check'></i>International buffet dinner with BBQ items and vegetarian options</li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><h3><span style='color: #ff6600;'><strong>What To Expect At Dhow Cruise Dinner</strong></span></h3><p>As you sail along through the tranquil waters, watch the amazing skyline of Dubai lined by private residences, resorts, and large shopping malls. Feast on mouthwatering international cuisine served in the most classy and luxurious of settings one can ever imagine. It\u2019s just the perfect balance between sophistication and traditional Arab hospitality. To make the evening truly special, there are live performances lined up for you that keep you thoroughly entertained. A part of the show is the stunning illumination which is reflected on the water to create a dazzling effect.</p><p>When you receive complimentary drinks and delectable cuisine, and are entertained with vibrant shows, you realize why the Dhow Cruise Dinner is such a coveted holiday experience. Add to that the lovely sights of the amazing Dubai skyline and it\u2019s an experience you\u2019ll cherish for the rest of your life. <span style='font-weight: 400;'>It is a relaxing getaway where we take you aboard a dhow, a traditional boat that has been a part of the Arabian way of life since ancient times. You can opt for a more traditional experience cruising in a dhow boat at Dubai Creek. It\u2019s</span>\u00a0a truly unique dining experience as you set out on a relaxing two-hour cruise sailing through the classy Dhow Cruise Dubai.</p><hr/><h3><strong><span style='color: #ff6600;'>Important Information Regarding The Tour</span></strong></h3><ul><li><i class='fa-solid fa-circle'></i>The transfer option is available on both a private and shared basis depending on the selection you make</li><li><i class='fa-solid fa-circle'></i>The pick-ups are made only from your Dubai hotel/residence and not from or at the airport</li><li><i class='fa-solid fa-circle'></i>An additional charge shall have to be paid if the pick-up is to be done from any location other than a Dubai hotel/residence</li><li><i class='fa-solid fa-circle'></i>Shared transfers are available from Deira, Sheikh Zayed, and Bur Dubai Souk till Marina</li><li><i class='fa-solid fa-circle'></i>The cruise at the Marina starts at 9 pm. If you choose to reach the location without being picked up, you\u2019ll have to reach at least 30 minutes before the scheduled departure time</li><li><span style='font-weight: 400;'>This charming boat ride at the Creek usually begins after sunset around 7 PM, and the boat takes you all along Dubai Creek.\u00a0</span></li><li><i class='fa-solid fa-circle'></i>In adherence to government guidelines, no alcohol and live performances shall be there during the holy month of Ramadan</li><li><i class='fa-solid fa-circle'></i>Depending on the traffic conditions and the location of your pick-up spot, the pick-up and drop timings on a shared transfer basis may be modified by 30 to 60 minutes</li></ul><hr/><h3><span style='color: #ff6600;'><strong>Why You Should Opt For Dhow Cruise Dubai Marina</strong></span></h3><ul><li><i class='fa-solid fa-circle'></i>It\u2019s a wonderful way to view Dubai\u2019s stunning skyline after dark</li><li><i class='fa-solid fa-circle'></i>You get to sail through Dubai\u2019s most posh neighbourhood on a luxury dhow along the Dubai Marina</li><li><i class='fa-solid fa-circle'></i>Experience traditional Arab hospitality while sailing on the traditional vessel, the dhow which would be used for fishing and pearl farming before oil was discovered</li><li><i class='fa-solid fa-circle'></i>Take in mesmerizing views of Dubai\u2019s dazzling skyscrapers from the comfort of air-conditioned decks and the partly open upper deck</li><li><i class='fa-solid fa-circle'></i>Enjoy mouthwatering cuisine for dinner in a luxurious ambience</li><li><i class='fa-solid fa-circle'></i>There\u2019s a large buffet spread that welcomes you with both vegetarian and non-vegetarian preparations</li><li><i class='fa-solid fa-circle'></i>There are traditional shows for your entertainment like a Tanura show by an expert</li></ul><h3><strong><span style='color: #ff6600;'>Why To Opt For Dhow Cruise Dubai Creek</span></strong></h3><ul><li>A more traditional experience</li><li><span style='font-weight: 400;'>A breathtaking view of the Deira Creek and Bur Dubai while gently floating on the Dubai Creek</span></li><li><span style='font-weight: 400;'>Experience a lavish cruise on a fully furnished comfy traditional Dhow boat</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Delectable starters and beverages like tea and coffee as well</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>International buffet dinner with BBQ items </span><span style='font-weight: 400;'>and vegetarian options</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>An evening filled with entertainment including traditional Arabic Music and Tanura Dance</span></li></ul><p>\u00a0</p><hr/><h3><strong><span style='color: #ff6600;'>The best time to visit Dhow Cruise Dubai</span></strong></h3><p>Since the weather in Dubai is hot and humid for much of the year, what time of the year you visit the city does matter. The weather in Dubai is at its best between October and February when it\u2019s a bit pleasant and there\u2019s a gentle breeze blowing. You\u2019ll simply love being in this vibrant city during those months.</p><hr/><h4><strong>The cancellation policy</strong></h4><ul><li><i class='fa-solid fa-circle'></i>No charges apply if you cancel 24 hours before the trip departure</li><li><i class='fa-solid fa-circle'></i>A 100% cancellation charge applies if you cancel the booking within 24 hours of the trip departure</li><li>If you\u2019re eligible for a refund, then you will receive your refund amount in your account within 7 working days</li></ul><h4><strong>Child policy</strong></h4><ul><li><i class='fa-solid fa-circle'></i>Children under 3 years can access free entry</li><li><i class='fa-solid fa-circle'></i>Children between 3 and 10 years of age are eligible to pay child rates</li><li><i class='fa-solid fa-circle'></i>However, children above 10 years have to pay standard adult rates</li></ul><hr/><h2><span style='color: #ff6600;'>FAQs</span></h2><p><strong>Q. Which iconic attractions will the Dhow Cruise cover?</strong></p><p>A Dhow Cruise ride is undoubtedly one of the exclusive ways to experience the vibe of modern Dubai. A few spots you will witness during the ride include Burj Khalifa- the tallest building in Dubai and the world, Dubai Mall- the biggest shopping mall in the world, Yacht Club- a popular spot exhibiting splendid architectural work, and the Persian Gulf- an enticing spot to cherish mesmerizing nature's view.</p><p><strong>Q. When does the activity start?</strong></p><p>Dubai's Dhow Cruise Marina is a traditional activity on a wooden Dhow boat. Moreover, the duration of the activity is two hours, which starts at 9 pm and ends around 10.30 pm.</p><p><strong>Q. What is the maximum capacity of each boat?</strong></p><p>A traditional Dhow boat can hold approximately 200 people. Hence, you can tell it is huge for an entertaining evening.</p><p><strong>Q. What is the food menu for the activity?</strong></p><p>The Dhow Cruise Marina arranges buffet dinners for the guests, which include veg and non-veg delicacies (international and Asian cuisine). Furthermore, guests will get lip-smacking refreshments, like soft drinks, tea, juice, etc.</p><p><strong>Q. What about the boarding location for the Dhow Cruise?</strong></p><p>The activity has various boarding locations. Representatives will come to receive you from the boarding location and take you to the spot from where the cruise departs. Also, the locations include New Deira or Bur Dubai, Barsha, and Downtown.</p><p><strong>Q. What are the entertainment shows happening on Dhow Cruise Dubai?</strong></p><p>You can enjoy the Tanura Dance which is a traditional dance performance by a male artist.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

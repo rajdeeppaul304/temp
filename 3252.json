@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Creek Park Exotic Bird Show Ticket",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "55",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "45 minutes",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dubai Creek Dolphinarium,kids zone",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Creek Park Exotic Bird Show Ticket",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Plenty of amazing attractions are present in Dubai that tourists can experience.Some of the finest things that attract you to Dubai are the gigantic malls, beaches and buildings. Apart from all these excursions, one of the finest attractions to visit is the Creek Park Exotic Bird Show where you can encounter beautiful birds. All these birds are specially trained to fly around the audience and interact with them. Book your Creek Park Bird Show tickets and explore insightful reviews of the Creek Park Exotic Bird with desertdaytravels Tourism!",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Creek Park Bird Show</td></tr><tr><td>Tour Type</td><td>Attractions in Dubai</td></tr><tr><td>Duration</td><td>30 minutes</td></tr><tr><td>Time</td><td>12 PM</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>55/- AED</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Get full-day access to the Best Theme Park in the UAE</li><li><i class='fas fa-check'></i>Experience the thrilling family rides</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Transfers (available at an additional charge)</li><li><i class='fas fa-check'></i>Food and beverages</li><li><i class='fas fa-check'></i>Personal expenses</li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Get full-day access to the Best Theme Park in the UAE</li><li><i class='fas fa-check'></i>Experience the thrilling family rides</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Transfers (available at an additional charge)</li><li><i class='fas fa-check'></i>Food and beverages</li><li><i class='fas fa-check'></i>Personal expenses</li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<h3></h3><h3><strong><span style='color: #ff6600;'>What to Expect at Bird Show Dubai</span></strong></h3><p><span style='font-weight: 400;'>Everything that Dubai offers to its visitors is absolutely beautiful in nature. From the ice-skating facilities to the artificial aquariums, Dubai's offerings are far more than that. Also, a perfect offering is the marvellous Creek Park Exotic Bird Show. It\u2019s the best way to see the exotic beauty of the bird show, including the acrobatic aerial displays and emerging interactions.\u00a0</span></p><p><span style='font-weight: 400;'>During the show, you will encounter beautiful birds, such as Amazon parrots, Sun conures, blue and gold macaws, Eclectus parrots, hornbills, green-winged macaws and <a href='desertdaytravels.com/trip/royal-falconry-training/'>royal falcony</a>, etc. It\u2019s a perfect experience to witness these exotic birds by getting close to them. All these birds are specially trained to fly around the audience and interact with them.\u00a0</span></p><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Among all the birds, you will meet the best Steller\u2019s Sea-eagle named Andre. It is among the world\u2019s best eagles and is well-known for its prey.\u00a0</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Along with it, a magnificent bird cockatoo is there. It is well-known for its painting skills. In addition to this, a bird named Macaw performs a great job of hoisting a flag and playing basketball.\u00a0</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Furthermore, an African Grey Parrot is there who will have a nice conversation with you. Yes, you heard absolutely right that this bird can talk with you in an almost perfect manner.\u00a0</span></li></ul><p><span style='font-weight: 400;'>Besides interacting with exotic birds, all the professional staff members give valuable insights about these birds. Also, here you will learn everything about their habits, lifestyle and the entire efforts that are made to conserve these species. However, among these species, some are under threat. So, it\u2019s time to learn about them while enjoying interactions with them.\u00a0</span></p><h3><strong><span style='color: #ff6600;'>Amazing Things to Do at the Park</span></strong></h3><p><span style='font-weight: 400;'>Well, there are some amazing things that you can do when you enter the Creek Park Exotic Bird Show. As a result, you will get a whole new experience when interacting with the amazing birds and watch out for their skills. So, some fine things that you must do in the park are listed below -</span></p><ul><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>You can watch the amazing birds fly overhead and come to you like they want to talk. After that, these birds once again leave for the sky.\u00a0</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Also, you can experience mind-blowing activities by these birds like playing basketball and many other activities.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>Meanwhile, you can click photos with the Steller\u2019s Sea Eagle. It is one of the best prey animals on the planet. Also, it is the largest sea eagle in the world. However, it\u2019s friendly with the visitors and always ready to get clicked by sitting on the hand.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>A magnificent bird is also there known as Harris Hawk. It is the most effective and exotic bird. You can also get a lot of photos with it by getting it atop your hand.</span></li><li aria-level='1' style='font-weight: 400;'><span style='font-weight: 400;'>If you love to feed the beautiful small birds, then it\u2019s your time to get this amazing experience. You can feed the gorgeous birds with your hand once they sit on your arms or shoulder. It\u2019s the best feeling you will ever experience.</span></li></ul><p><span style='font-weight: 400;'>All these are the finest activities that you can enjoy once you enter the Creek Park Exotic Bird Show. By doing all such activities, you will get an amazing experience like never before. By spending quality time with these birds, you will learn a lot of things as well along with creating memories.\u00a0\u00a0</span></p><h3><strong><span style='color: #ff6600;'>Creek Park Exotic Bird Show Timings</span></strong></h3><p><span style='font-weight: 400;'>Well, the particular bird show is operational every day of the week except Tuesdays. There are mainly 3 shows in the Creek park each day. The timings of these 3 shows are 12:15 PM, 3:15 PM and 6:15 PM. Tickets for the bird show depend on the availability of seats. Once you make up your mind to enter the Creek Park Exotic Bird Show, it\u2019s time to buy tickets and have a unique experience. The Creek Park Exotic Bird Show\u00a0review is also very commendable.</span></p><h3><span style='color: #ff6600;'><strong>How to Reach Creek Park in Dubai?</strong></span></h3><p>The nearest metro station is Oud Mehta, a 15-minute walk away. Most visitors\u00a0arrive and leave by car, as there are parking lots at the major gates. You can also avail of desertdaytravels Tourism's <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a>.</p><h2><span style='color: #ff6600;'><b>FAQs</b></span></h2><h3><b>Q. What is the exact location of the Creek Park Exotic Bird Show?</b></h3><p><span style='font-weight: 400;'>The exact location of the bird show in Dubai is the <a href='desertdaytravels.com/trip-tag/dubai-dolphinarium/'>Dubai Dolphinarium</a> Building- Street- Umm Hurair 2 - Dubai - United Arab Emirates.\u00a0</span></p><h3><b>Q. What is the best transportation to visit the bird show?</b></h3><p><span style='font-weight: 400;'>Well, the best way to visit the bird show is by metro. It\u2019s because the Dubai Healthcare City subway station is 10 minutes away from the Dolphinarium building. Also, you can visit the Creek Park main gate (Stop ID: 153501) which is 1 minute away from gate 1 by bus. Additionally, you can also <a href='desertdaytravels.com/trip-tag/rent-a-car/'>rent a car</a> from us.</span></p><h3><b>Q. Is entry to the Creek Park Bird Show in Dubai free?</b></h3><p><span style='font-weight: 400;'>No, the entry is not free to the bird show. The ticket charge for this epic park bird show is 55 AED. As it\u2019s a minimal rate, you can enjoy there anytime with your friends, family members and kids. In this bird show, the kids below the age of 2 are free to enter.</span></p><h3><b>Q. What are the exact timings of the bird show?</b></h3><p><span style='font-weight: 400;'>The actual time of the Creek Park Exotic Bird Show in Dubai is 30 minutes. In these 30 minutes, you will experience the mind-blowing stunts and activities performed by the amazing birds.\u00a0</span></p><h3><strong>Q. How is the Creek Park Exotic Bird Show\u00a0review?</strong></h3><p>The Creek Park Exotic Bird Show review is indeed great! Everyone who visits this <a href='desertdaytravels.com/trip-tag/dubai-tourist-places/'>attraction in Dubai</a> has a great experience.</p><h3><b>Q. What are the most popular bird species in the bird show?</b></h3><p><span style='font-weight: 400;'>Some of the popular bird species that are in the bird show are Hornbills, Cockatoos, Falcons, Toucans, Sun Conures, Electus Parrots, Blue and Gold Macaws, Amazon Parrots and Green-winged macaws.\u00a0</span></p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

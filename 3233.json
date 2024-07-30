@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Donut Ride",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "210",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "2 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Water Sports & Scuba Diving",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Donut Ride",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dubai is full of wondrous fun elements. Be it massive shopping malls, hypnotic gaming zones, or an array of natural beauties, Dubai is right at the top of tourist attractions. Dubai offers ample scopes for a wide range of water sports. And among these sports, a noteworthy & unique game is the Donut Ride in Dubai. It is similar to the famed Banana Boat Ride. You can book a donut boat ride in Dubai with desertdaytravels Tourism.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Donut Ride</td></tr><tr><td>Tour Type</td><td>Water Sports</td></tr><tr><td>Duration</td><td>15 minutes</td></tr><tr><td>Time</td><td></td></tr><tr><td>Days of Operation</td><td>Private transfers</td></tr><tr><td>Starting Price</td><td></td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "Not Found",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "Not Found",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<hr/><p>But the Donut Ride is easier to participate in. It is also quite affordable. It\u2019s easy to participate in, creating an option for a fun outing for the entire family. So now it is time to book the fascinating Donut Ride in Dubai.</p><p><b>Highlight: </b>Experience the ride in an unpowered inflatable Donut that is intended to be towed by a speedboat.</p><p><strong>Remark: </strong>A passport/Emirates ID is mandatory to be carried during this trip.</p><h3><strong style='color: #ff6600;'>Policies</strong></h3><h4><span style='color: #ff6600;'><strong>Cancellation Policy</strong></span></h4><ul><li><i class='fa-solid fa-circle'></i>In case of cancellation due to adverse weather conditions, the guest does not need to pay anything. The guest will get a full refund or the trip schedule will change.</li><li><i class='fa-solid fa-circle'></i>Cancellations made before the 24-hour trip start time would get a total refund.</li><li><i class='fa-solid fa-circle'></i>Cancellations within 24 hours of trip start time would get no refund.</li></ul><h4><span style='color: #ff6600;'><strong>Child Policy</strong></span></h4><ul><li><i class='fa-solid fa-circle'></i>Children under 6 years old will not be allowed for this activity due to safety reasons.</li></ul><h3><strong><span style='color: #ff6600;'>What to expect for Donut Ride in Dubai</span></strong></h3><p>Donut ride is a thrilling <a href='desertdaytravels.com/trip-tag/water-sports-in-dubai/'>water sports in Dubai</a> that stands out for its unique and brightly coloured donut shape, offering a fun-filled experience for visitors during their family vacation in Dubai. Unlike a banana boat, the donut ride provides a great sense of security with minimal chances of falling into the water.</p><p>This activity is suitable for individuals of various age groups, from kids to adults, as almost anyone above 10 years old can enjoy this adventure. Participants will board a round inflatable boat, shaped like a donut, which will be towed by a speedboat or personal watercraft along Dubai's picturesque shoreline. Whether you are seeking a thrilling experience or a more relaxed ride, the donut boat will twist and rotate you in the sea, providing an exhilarating and memorable adventure for all.</p><h3><strong><span style='color: #ff6600;'>Points to Keep in Mind:</span></strong></h3><ul><li><i class='fa-solid fa-circle'></i>A maximum of 6 people can board per boat.<i class='fa-solid fa-circle'></i></li><li><i class='fa-solid fa-circle'></i>The ride lasts for 15 minutes.</li><li><i class='fa-solid fa-circle'></i>Total safety equipment &amp; instructions would be provided by qualified instructors before the ride.</li><li><i class='fa-solid fa-circle'></i>At least 2 guests should be there to book a donut ride in Dubai.</li><li><i class='fa-solid fa-circle'></i>The trip starts at 9:00 A.M. and continues till sunset, subject to weather conditions.</li><li><i class='fa-solid fa-circle'></i>Tourists with cardiac conditions and pregnant women are not eligible for the ride.</li><li><i class='fa-solid fa-circle'></i>Please carry your valid passport/ID proof.</li><li><i class='fa-solid fa-circle'></i>You need to arrive at the venue at least 20 minutes before the ride starts time.</li></ul><h3><strong><span style='color: #ff6600;'>How to reach</span></strong></h3><p>To reach the location for the donut ride in Dubai, guests should assemble at Jumeirah 4, Umm Suqeim 1, near the Dubai Offshore Sailing Club. They are located behind KFC, inside the P &amp; O Marinas (main entrance), next to the Fish Market. Moreover, choose desertdaytravels <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a> for seamless pick-up from your stay and convenient drop-offs at these spots.</p><h3><strong><span style='color: #ff6600;'>Extra activity you can do</span></strong></h3><ul><li><i class='fa-solid fa-circle'></i><a href='desertdaytravels.com/trip/banana-boat-ride/'>Banana boat ride</a></li><li><i class='fa-solid fa-circle'></i><a href='desertdaytravels.com/trip/jet-ski-ride-in-dubai/'>Jet ski rental in Dubai</a></li><li><i class='fa-solid fa-circle'></i><a href='desertdaytravels.com/trip/flyboard-dubai/'>Flyboard in Dubai</a></li><li><i class='fa-solid fa-circle'></i><a href='desertdaytravels.com/trip/jet-car-dubai/'>Jet car rental</a></li></ul><h2><span style='color: #ff6600;'><strong>FAQs\u00a0</strong></span></h2><h3><strong>Q. What should I wear for the donut ride in Dubai?\u00a0</strong></h3><p>One must wear comfortable swimwear as it is a water based activity. Moreover, it is compulsory to wear a life jacket during the ride.</p><h3><strong>Q. What is the best time to go for a donut boat ride in Dubai?\u00a0</strong></h3><p>Early mornings and late evenings are the best time to go for the donut <a href='desertdaytravels.com/trip-tag/boat-tour-dubai/'>boat ride in Dubai</a>. You can avoid the extreme heat during the day and enjoy the clear skies during the morning and evening hours.</p><h3><strong>Q. How much does a Donut ride in Dubai cost?\u00a0</strong></h3><p>The starting price for the banana boat ride experience in Dubai is AED 210.</p><h3><strong>Q. Is there any age restrictions for the donut ride activity?\u00a0</strong></h3><p>Kids under 6 years of age can't go for this ride in Dubai due to safety reasons.</p><h3><strong>Q. How long does the donut ride last?\u00a0</strong></h3><p>The Donut ride typically lasts for around 15-20 minutes. During these 15 minutes, you can enjoy the views of serene views of Dubai's coastline.</p><h3><strong>Q. Do we need to have prior experience for the ride?\u00a0</strong></h3><p>No prior experience is needed for this experience. Experienced trainers will be there to guide you for the ride.</p><h3><strong>Q. Is this activity safe to perform?\u00a0</strong></h3><p>Yes, the safety of the riders is the first priority. Safety equipment and instructions are provided before the ride to ensure the safety of the riders.</p><h3><strong>Q. Is it mandatory to know how to swim for the donut boat ride?</strong></h3><p>No, it is not necessary to know how to swim for the Donut Ride Dubai. Life jackets are provided for safety reasons to every customer.</p>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]

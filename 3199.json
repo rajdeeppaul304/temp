@@ -1,0 +1,574 @@
+[
+  {
+    "id": "b2c08e0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "flex_justify_content": "center",
+      "padding": {
+        "unit": "px",
+        "top": "40",
+        "right": "0",
+        "bottom": "40",
+        "left": "0",
+        "isLinked": false
+      },
+      "_flex_align_self": "center"
+    },
+    "elements": [
+      {
+        "id": "2b8561e",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Dolphin Encounter Dubai",
+          "align": "center",
+          "title_color": "#000000",
+          "typography_typography": "custom",
+          "typography_font_family": "Vtks Escape",
+          "typography_font_size": {
+            "unit": "em",
+            "size": 1.8,
+            "sizes": []
+          },
+          "typography_font_size_tablet": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_size_mobile": {
+            "unit": "em",
+            "size": "",
+            "sizes": []
+          },
+          "typography_font_weight": "500",
+          "typography_letter_spacing": {
+            "unit": "px",
+            "size": 0.5,
+            "sizes": []
+          },
+          "typography_word_spacing": {
+            "unit": "px",
+            "size": 0,
+            "sizes": []
+          },
+          "__globals__": {
+            "typography_typography": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "cc0e667",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "content_width": "full",
+      "min_height": {
+        "unit": "px",
+        "size": 0,
+        "sizes": []
+      },
+      "padding": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": true
+      }
+    },
+    "elements": [
+      {
+        "id": "0bbd14a",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "image": {
+            "url": "https://desertdaytravels.com/wp-content/uploads/2024/07/pexels-chris-clark-1933184-5798064-scaled.jpg",
+            "id": 2492,
+            "size": "",
+            "alt": "",
+            "source": "library"
+          },
+          "image_size": "full",
+          "width": {
+            "unit": "%",
+            "size": 100,
+            "sizes": []
+          },
+          "height": {
+            "unit": "vh",
+            "size": 60,
+            "sizes": []
+          },
+          "height_tablet": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "height_mobile": {
+            "unit": "%",
+            "size": "",
+            "sizes": []
+          },
+          "object-fit": "cover"
+        },
+        "elements": [],
+        "widgetType": "image"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "7738e14",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "row",
+      "flex_justify_content": "flex-start",
+      "flex_align_items": "flex-start",
+      "flex_gap": {
+        "column": "0",
+        "row": "0",
+        "isLinked": true,
+        "unit": "px",
+        "size": 0
+      },
+      "background_background": "classic",
+      "background_color": "#EBEBEB",
+      "margin": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "-3",
+        "isLinked": false
+      },
+      "margin_mobile": {
+        "unit": "px",
+        "top": "0",
+        "right": "0",
+        "bottom": "0",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding": {
+        "unit": "px",
+        "top": "9",
+        "right": "0",
+        "bottom": "9",
+        "left": "0",
+        "isLinked": false
+      },
+      "padding_mobile": {
+        "unit": "px",
+        "top": "4",
+        "right": "0",
+        "bottom": "0",
+        "left": "13",
+        "isLinked": false
+      }
+    },
+    "elements": [
+      {
+        "id": "ac1c484",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "630",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "-5",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "custom_css": "#price-trip-nav{\n    color: red\n}",
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "e77efe1",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "far fa-clock",
+            "library": "fa-regular"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          },
+          "content_width": "full"
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "d2fcbd6",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "4 hours",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      },
+      {
+        "id": "04bff72",
+        "elType": "widget",
+        "settings": {
+          "selected_icon": {
+            "value": "fas fa-location-arrow",
+            "library": "fa-solid"
+          },
+          "size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+          },
+          "size_mobile": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "7",
+            "right": "0",
+            "bottom": "0",
+            "left": "20",
+            "isLinked": false
+          },
+          "_element_width_mobile": "auto",
+          "hide_mobile": "hidden-mobile",
+          "__globals__": {
+            "primary_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "icon"
+      },
+      {
+        "id": "0f7c501",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Atlantis The Palm Catagory,Dubai Creek Dolphinarium",
+          "_margin": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "-20",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "10",
+            "bottom": "0",
+            "left": "10",
+            "isLinked": false
+          },
+          "typography_typography": "custom",
+          "typography_font_family": "Roboto",
+          "typography_font_size_mobile": {
+            "unit": "px",
+            "size": 12,
+            "sizes": []
+          },
+          "typography_font_weight": "400",
+          "_margin_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          },
+          "_padding_mobile": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "100cff0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "10650cf",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Dolphin Encounter Dubai",
+          "align": "left",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "bd6d1b1",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "Dolphins are certainly intelligent and very friendly. Get up and close with these wonderful animals from the water world as you go swimming with them at Atlantis Dolphin Encounter. Swim through crystal clear shimmering waters as you hold on to their dorsal fins or take a ride on their bellies. Would you believe it? You can also hug, kiss, and dance with these smart friends. So, it is time to experience the Dolphin Deep Water Encounter.",
+          "_padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "2b86abeb",
+    "elType": "container",
+    "settings": [],
+    "elements": [
+      {
+        "id": "19d1c7b",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "title": "Tour Details",
+          "align": "center",
+          "__globals__": {
+            "typography_typography": "globals/typography?id=primary",
+            "title_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "heading"
+      },
+      {
+        "id": "22099a24",
+        "elType": "widget",
+        "settings": {
+          "editor": "<!-- wp:table --><figure class=\"wp-block-table\"><table class=\"has-fixed-layout\"><tbody><tr><td>Tour Name</td><td>Dolphin Deep Water Encounter</td></tr><tr><td>Tour Type</td><td>Attractions in Dubai</td></tr><tr><td>Duration</td><td>4 hours</td></tr><tr><td>Time</td><td>Subject to availability</td></tr><tr><td>Days of Operation</td><td>Everyday</td></tr><tr><td>Starting Price</td><td>630/- AED</td></tr></tbody></table></figure><!-- /wp:table -->",
+          "text_color": "#7A7A7A"
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "0efebc0",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "d9bc8d4",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "tabs": [
+            {
+              "tab_title": "  Inclusions | Exclusions",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i>20 minutes session in the water, limited to 4 guests max per session</li><li><i class='fas fa-check'></i>Complimentary printed photos of your choice taken by our professional photographers</li><li><i class='fas fa-check'></i>Private transfers (if option selected at booking time)</li><li><i class='fas fa-check'></i>Learning new things about them</li><li><i class='fas fa-check'></i>Wetsuits provided by Dubai Dolphinarium</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Food</li><li><i class='fas fa-check'></i>Personal expenses</li><li><i class='fas fa-check'></i>Transfers (you can avail transfers at an additional cost)</li></ul>",
+              "_id": "bbdf2f6"
+            },
+            {
+              "tab_title": "Policies",
+              "tab_content": "<p><span style='text-decoration: underline; color: #ff6600;'><strong>Inclusions</strong></span></p><ul><li><i class='fas fa-check'></i>20 minutes session in the water, limited to 4 guests max per session</li><li><i class='fas fa-check'></i>Complimentary printed photos of your choice taken by our professional photographers</li><li><i class='fas fa-check'></i>Private transfers (if option selected at booking time)</li><li><i class='fas fa-check'></i>Learning new things about them</li><li><i class='fas fa-check'></i>Wetsuits provided by Dubai Dolphinarium</li></ul><p><span style='text-decoration: underline; color: #ff6600;'><strong>Exclusions</strong></span></p><ul><li><i class='fas fa-check'></i>Food</li><li><i class='fas fa-check'></i>Personal expenses</li><li><i class='fas fa-check'></i>Transfers (you can avail transfers at an additional cost)</li></ul>",
+              "_id": "c3a62d4"
+            }
+          ],
+          "title_color": "#000000",
+          "_element_id": "inclusion-policies",
+          "custom_css": "#inclusion-policies li{\n    list-style: none;\n}",
+          "__globals__": {
+            "title_color": "",
+            "tab_active_color": "globals/colors?id=78d9c65"
+          }
+        },
+        "elements": [],
+        "widgetType": "toggle"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "e9a2246",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column"
+    },
+    "elements": [
+      {
+        "id": "636c80c",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "editor": "<div></div><div></div><h2><strong><span style='color: #ff6600;'>What to Expect in Dolphin Deep Water Encounter\u00a0</span></strong></h2><p>Get up close and personal with playful dolphins. Join desertdaytravels Tourism for a unique adventure, where every encounter is a journey into the extraordinary. Expert guides ensure a safe and unforgettable journey, where you can experience the magic of a dolphin's company. Moreover, take home stunning photographs with dolphins, where every snapshot tells a tale of connection and oceanic wonder! There will be expert trainers guiding you all along. It\u2019s a deeply educational journey as you get to learn a lot about how dolphins behave and the habitat they live in from the experts. Please note that you need to be a confident swimmer to be able to swim with your dolphin friends. Don\u2019t forget to get yourself photographed with a smiling dolphin before you leave, lest you hurt its feelings.</p><p><i class='fa-solid fa-circle'></i>If you are a confident swimmer, dive straight into the water and <a href='desertdaytravels.com/trip/swim-with-dolphins-dubai/'>swim with a dolphin</a>. Moreover, you may swim by holding on to its dorsal fins or take a ride on its belly. <i class='fa-solid fa-circle'></i>We pick you up and drop you back home if you request the booking. This sport isn\u2019t suitable for those under 8 years of age. <i class='fa-solid fa-circle'></i>You shall receive a confirmation alert after the booking is complete.</p><p><i class='fa-solid fa-circle'></i>Children who are 12 years old or younger must be accompanied by an adult while they swim with the dolphins. <i class='fa-solid fa-circle'></i>Pregnant women and those with back problems should not opt for this adventure. <i class='fa-solid fa-circle'></i>Swimming with the dolphins isn\u2019t wheelchair accessible. Even if you aren\u2019t a confident swimmer, you may still meet and play with the dolphins in a shallow water pool that has only waist-high water. Non-swimmers are therefore not denied the fun of enjoying the company of the friendly dolphins.</p><h2><span style='color: #ff6600;'><strong>How to Reach Dubai Dolphinarium?</strong></span></h2><p><em>Metro:</em> \u00a0Take the red line from <a href='desertdaytravels.com/trip-tag/things-to-do-in-dubai-mall/'>Dubai Mall</a> and step down at Burjuman.\u00a0Furthermore, change onto the green line going towards Dubai Creek and alight at the Dubai Healthcare City metro station.</p><p><em>Car:\u00a0</em>You can avail of <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a> from desertdaytravels Tourism.</p><h2><span style='color: #ff6600;'><strong>Important Points</strong></span></h2><ul><li><i class='fa-solid fa-circle'></i>This <a href='desertdaytravels.com/trip-tag/dubai-tourist-places/'>attraction in Dubai</a> is open every day, barring exceptional days.</li><li><i class='fa-solid fa-circle'></i>The language of instructions is only English.</li><li><i class='fa-solid fa-circle'></i>The duration of the experience is a total of 1 hour\u201430 minutes of instructions and 30 minutes of swimming.</li><li><i class='fa-solid fa-circle'></i>We advise you to arrive at least 15 minutes before your session.<i class='fa-solid fa-circle'></i></li></ul><h2><strong><span style='color: #ff6600;'>FAQs</span></strong></h2><h3><strong>Q. What time is the Dolphin Encounters show in Dubai?</strong></h3><p>The timings for Dolphin Encounters show in Dubai are subject to availability. It starts from \u00a09:45 AM to 6:30 PM.</p><h3><strong>Q. How much time is needed for the dolphinarium in Dubai?</strong></h3><p>Dolphin encounters usually take up to 4 hours for a full experience.</p><h3><strong>Q. What is the dress code for the Dolphinarium?</strong></h3><p>The dress code is Casual, and appropriate clothing is allowed during the tour.</p><h3><strong>Q. What is the cost of an Atlantis dolphin encounter?</strong></h3><p>The cost of a Dolphin Deep water encounter is AED 630.</p><h3><strong>Q. What is the closest metro station to the Dolphinarium Dubai?</strong></h3><p>The closest metro station to the <a href='desertdaytravels.com/trip-tag/dubai-dolphinarium/'>Dolphinarium Dubai</a> is Dubai Healthcare City.</p><h3><strong>Q. <span class='JCzEY tNxQIb'><span class='CSkcDe'>Can we see dolphins in Dubai?</span></span></strong></h3><p>Yes, you can see dolphins in Dubai at Atlas Village with different experiences such as swim with dolphins, <a href='desertdaytravels.com/trip/atlantis-dolphin-kayak-trip/'>dolphins kayak</a> trip, etc.</p><h3><strong>Q. What is the age limit for a dolphin Encounter Atlantis?</strong></h3><p>Exactly twelve (12) years old and above need an adult ticket. Exactly Two (2) to Eleven (11) years old needs a valid child ticket. Children under 2 cannot swim or participate in any activity.</p><div class='g'><div data-hveid='CA4QAA' data-ved='2ahUKEwiG1pq9teSGAxXGRWcHHarJC7IQFSgAegQIDhAA' lang='en'><div class='tF2Cxc'><h3 class='yuRUbf'><strong>Q. How to reach the Atlantis dolphin encounter?</strong></h3><div>To get to the Dubai Dolphinarium by metro, you can\u00a0take the red line from Dubai Mall and disembark at Burjuman.\u00a0From here, change onto the green line going towards Dubai Creek and alight at the Dubai Healthcare City metro station. You can opt for desertdaytravels's <a href='desertdaytravels.com/trip-tag/transportation-services-dubai/'>transportation services</a> too.</div><div></div></div></div></div><div></div>",
+          "text_color": "#676767",
+          "custom_css": ".main-text-under-all h1{\n    color: #E2701D;\n}",
+          "__globals__": {
+            "text_color": ""
+          }
+        },
+        "elements": [],
+        "widgetType": "text-editor"
+      }
+    ],
+    "isInner": false
+  },
+  {
+    "id": "daf7342",
+    "elType": "container",
+    "settings": {
+      "flex_direction": "column",
+      "background_color": "#E2701D",
+      "custom_css": ".product-table {\r\n    width: 100%;\r\n    border-collapse: collapse;\r\n}\r\n\r\n.table-header {\r\n    background-color: #E2701D; /* Light green background */\r\n    color: white;\r\n    text-align: left;\r\n}\r\n\r\n.table-header th {\r\n    padding: 12px; /* Space around header cells */\r\n}\r\n\r\n.table-row {\r\n    border-bottom: 1px solid #ddd; /* Light border between rows */\r\n}\r\n\r\n.table-row td {\r\n    padding: 8px; /* Space around data cells */\r\n}\r\n\r\n.checkbox {\r\n    width: 15px; /* Smaller checkbox */\r\n    height: 15px; /* Smaller checkbox */\r\n}\r\n\r\ninput[type=\"number\"],\r\ninput[type=\"date\"] {\r\n    width: 100%; /* Make input fields take full width */\r\n    padding: 6px; /* Padding for better usability */\r\n    box-sizing: border-box; /* Include padding in width calculation */\r\n}\r\n\r\n.table-row:hover {\r\n    background-color: #E2701D; /* Light gray background on hover */\r\n}\r\n",
+      "__globals__": {
+        "background_color": ""
+      }
+    },
+    "elements": [
+      {
+        "id": "1fc0763",
+        "elType": "widget",
+        "settings": {
+          "content_width": "full",
+          "shortcode": "[custom_add_to_cart ids=\"3104,3099\"]"
+        },
+        "elements": [],
+        "widgetType": "shortcode"
+      }
+    ],
+    "isInner": false
+  }
+]
